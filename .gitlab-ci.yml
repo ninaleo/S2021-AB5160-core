@@ -1,0 +1,11 @@
+pages:
+  stage: deploy
+  script:
+  - echo 'creating new pages'
+  artifacts:
+    paths:
+    - public
+  only:
+  - gitlab-pages
+  tags:
+  - general
