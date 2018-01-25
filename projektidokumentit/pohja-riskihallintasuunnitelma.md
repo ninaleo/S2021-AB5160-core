@@ -7,27 +7,22 @@
 
 | RISKI ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka hoitaa | Miten toimitaan | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| RIS01 | Ryhmän jäsen sairastuu flunssaan |  V3 |  HessuHopo | Ilmoita tiiminvetäjälle ja tarvittaesssa asiakkaalle. |
-| RISXX | [Riskikohtainen alasivu jos tarpeen]() | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
+| RIS01 | Ryhmän jäsen sairastuu flunssaan |  V3 |  Hyvin mahdollinen | Ilmoita tiiminvetäjälle | Tekee mitä kykenee kotona |
+| RIS02 | Pitkäaikaissairaus | V1 | Epätodennäköinen | Ilmoita tiiminvetäjälle | Hankitaan ASAP korvaava työntekijä |
+| RIS03 | Tekniset ongelmat | V3 | Kohtalainen | Labrainssit (IT-tuki) | Ilmoita labrainssille ja otetaan paperi ja kynä käteen |
+| RIS04 | Burnout | V2 | Kohtalainen | Tiimi hoitaa | Toimitaan tilanteen mukaan |
+| RIS05 | Tietovuoto | V1 | Mahdollinen | Yrityksen henkilökunta | Kulunvalvonta ja tietoturva kunnossa |
+| RIS06| Projektin viivästyminen | V2 | Mahdollinen | Tiiminvetäjä ja tiimi | Hätäpalaveri ja plan B |
+| RIS07 | Tuote ei vastaa odotusta | V1 | Epätodennäköinen | Yritys hoitaa | Hätäpalaveri ja suunnitelmat uusiksi |
+| RIS08 | Tekniset haasteet | V2 | Kohtalainen | Tiiminvetäjä ja tiimi | Konsultointi muualta tai kierretään ongelma |
+
 
 ### Vakauvuusluokan kuvaukset
 
-| Vakavuusluokka | kuvaus | Muuta |
-|:----:|:----:|:----:|
-| V1 | Vakava ongelma | | 
-| V2 | | | 
-| V3 | | | 
-| V4 | | | 
-| V5 | Ei haittaa, mutta tarkkailaan | | 
-
-## Esimerkkejä todellisesta elämästä
-
-  * [Esimerkki 1](https://confluence.csc.fi/download/attachments/41157778/2014_04_08+Riskienhallintasuunnitelma+Oppijan+ehops.xls?version=1&modificationDate=1397471961223)
+| Vakavuusluokka | kuvaus | 
+|:----:|:----:|
+| V1 | Vakava ongelma | 
+| V2 | | 
+| V3 | Kohtalainen ongelma | 
+| V4 | | 
+| V5 | Ei haittaa, mutta tarkkailaan | 
