@@ -1,7 +1,9 @@
 pages:
   stage: deploy
   script:
-  - echo 'creating new pages'
+  - mkdir .public
+  - cp -r * -public
+  - mv .public public
   artifacts:
     paths:
     - public
