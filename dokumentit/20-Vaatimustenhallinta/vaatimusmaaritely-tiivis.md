@@ -13,19 +13,17 @@ __Ohjeita ennen aloitusta :)__
 
 ![](../assets/work-to-do.png)
 
+Projektin tavoitteena on kehittää parempia ohjelmistoja niitä tarvitseville asiakkaille. Nykyaikana ohjelmistot ovat tärkeässä roolissa eri työpaikoilla ja yksityisyrityksissä, jossa tarvitaan tietotekniikkaa. Paremmat ohjelmistot mahdollistavat tehokkaamman työn ja sitä kautta paremman menestyksen yrityksille.
 
->Kuvaa tavoiteltua kokonaisuutta, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita? Jos kyseessä harjoitustehtävä, niin tarkista voitko 
-käytää olemassa olevia tilaajien oikeita nimiä! Muussa tapauksessa vaihdetaan kaikki nimet itse keksittyihin :)
+
 
 ## Tavoitteet 
 
->Mitä ratkaisun avulla voidaan tehdä? Mihin pyritään? Tämä osuus voidaan käsitellä myös projektisuunnitelmassa, mutta vaatimusmäärittelyssä voidaan avata tarkemmin
-tavoiteltua ratkaisua.
+Tavoitteena rakentaa toimivat ohjelmistopaketit asiakkaille tarpeisiin. Eri käyttöön soveltuvat ja toimivat ohjelmistot ovat tavoitteena tehdä sekä ratkaista asiakkaiden ongelma räätälöidyllä ohjelmistopaketilla.
 
 ## Kohderyhmä
 
-Millaisia ovat sen käyttäjät? Mikä tuotoksen tavoite on eri sidosryhmien kannalta? 
-Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät
+Kohderyhmiä ovat isot ja pienemmät yritykset, yksityisyrittäjät. Kaikki yritykset, jossa tarvitaan tietotekniikkaa arjessa ja erilaisia ohjelmistoja toiminnan ylläpitämiseksi ovat asiakkaita.
 
 ## Sidosryhmäkartta
 
@@ -42,17 +40,16 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 @startmindmap
 + Projektin tuotos
 ++ Asiakas
-+++ Asiakkaan kaveri
-+++ Asiakkaan sukulainen
-++ Kilpaileva valmistaja
-+++ Kilpailijan kissa
-+++ Kilpailijan koira
--- Kauppias
---- Varasto
---- Noutopiste 1.
--- Haasteelliset asiakkaat
---- Kiusantekijä
---- Satunnainen säätäjä
++++ Yritykset
++++ yksityisyrittäjät
+++ Kilpailevat valmistajat
++++ IT-toimijat
++++ Asiakkaan yhteystyökumppanit
+-- Ohjelmistojen jälleenmyyjä
+--- Ohjelmistojen oikeuksien myyjät
+--- Nettisivustot 
+-- Omat yhteistyökumppanit
+--- Sijoittajat
 @endmindmap
 ```
 
@@ -64,10 +61,11 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 | ID | Tyyppi | Nimi | Piirteet |  Motivaatio |
 |:-:|:-:|:-:|:-:|:-:|
-| SR-001 | Sidosryhmä/Profiili | Asiakas A | Nuori 16-22V | Selkeä tarve palvelulle ja tarvitsee palvelua usein |
-| SR-002 | Sidosryhmä/Profiili | [Asiakas B - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) | "Aikuinen" 22-45V | Tarve satunnainen, mutta yleisin asiakas  |
-| SR-003 | Sidosryhmä/Profiili | Rahoittaja | Pääomasijoittaja | Palvelun tuottamat tuotot |
-| SR-004 | Sidosryhmä/Profiili | Verottaja | Nuori karhu | Kerätä verotuloja  |
+| SR-001 | Sidosryhmä/Profiili | Asiakas A | Isot yritykset| Tarvitsee paljon palvelua eritarkoituksiin  |
+| SR-002 | Sidosryhmä/Profiili | [Asiakas B - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) | yksityisyrittäjät| Yleinen asiakas, mutta tuotteen tilausmäärät pienemmät pienemmästä tarpeesta johtuen|
+| SR-003 | Sidosryhmä/Profiili | Asiakas C | Yksittäiset asiakkaat | Pieni ja satunnainen tarve |
+| SR-004 | Sidosryhmä/Profiili | yhteistyökumppanit | jälleenmyyjä| Mainostaa ja jälleenmyydä tuotetta |
+| SR-005 | Sidosryhmä/Profiili | Sijoittajat |sijoittaja| Tukee ja sijoittaa tuotteeseen rahallisesti |
 
 ## Palveluun liittyviä asiakaspolkuja
 
