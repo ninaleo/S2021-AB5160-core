@@ -13,8 +13,7 @@ Kerro tiimistä ja sen osaamisista projektin kannalta? Hieman tausta, jos tarpee
 
 ## Kuva tiimistä
 
-
-![](https://openclipart.org/image/400px/svg_to_png/18171/johnny-automatic-pirates.png)
+![](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/raw/master/assets/gitlabphoto.jpg?inline=false)
 
 
 ## Kotisivut
