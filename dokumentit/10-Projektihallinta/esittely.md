@@ -17,7 +17,7 @@
 
 
 
-| ... | ... | ... | ... | [LinkedIn]() |
+
 
 ## Kuva tiimistä
 
