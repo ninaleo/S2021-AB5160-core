@@ -13,7 +13,7 @@ Kerro tiimistä ja sen osaamisista projektin kannalta? Hieman tausta, jos tarpee
 
 ## Kuva tiimistä
 
-![](assets/Tiimin_jäsenet1.2.jpg)
+![image](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/raw/master/assets/Tiimin_j%C3%A4senet1.2.jpg?inline=false)
 
 
 ## Kotisivut
