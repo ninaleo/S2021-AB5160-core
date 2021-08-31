@@ -23,7 +23,7 @@ Nina, Projektihallinta ja ohjaus, Code Cerub, [LinkedIn]()
 
 Ylärivi vasemmalta oikealle:
 Heli Heikki, Arnold Suksi, Heikki Halipula, Klaus Kähö, Mauno Kara 
-|Alarivi vasemmalta oikealle: 
+| Alarivi vasemmalta oikealle: 
 Matti Urri, Kauno Koivisto, Nina, Maija Keskinen, Reino Kasa, Carola Kettunen
 
 ## Kotisivut
