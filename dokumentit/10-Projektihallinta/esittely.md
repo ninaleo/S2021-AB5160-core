@@ -1,7 +1,7 @@
-# Code Cerub Tiimiesittely
+# Tervetuloa Code Cerub sivuille
 
 
-## Tiimin jäsenet
+## Code Cerub tiimimme
 
 Nina, Projektihallinta ja ohjaus, Code Cerub, [LinkedIn]() 
 | Arnold Suksi, Vanhempi projektipäällikkö, Code Cerub, [LinkedIn]() 
