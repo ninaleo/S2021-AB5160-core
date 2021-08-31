@@ -1,14 +1,22 @@
-# Tiimiesittely
+# Code Cerub Tiimiesittely
 
-
-Kerro tiimistä ja sen osaamisista projektin kannalta? Hieman tausta, jos tarpeen etc.
 
 ## Tiimin jäsenet
-
 | Nimi | Kuvaus | Yritys/yhteisö | Tehtävä | Vastuut |Linkki |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| Erkki Esimerkki | Ohjelmoija | Yritys X | Toteuttaa asiakkaan tavoitteet | Frontend-osa | [LinkedIn]() |
-| Mauri Mainio | Ohjelmoija | Yritys Y |Toteuttaa asiakkaan tavoitteet | Backend-osa | [LinkedIn]() |
+| Nina | Projektihallinta ja ohjaus | Code Cerub
+| Arnold Suksi | Vanhempi projektipäällikkö | Code Cerub |
+| Matti Urri | Ohjelmoija | Code Cerub | Toteuttaa asiakkaan tavoitteet | Frontend-osa | [LinkedIn]() |
+| Kauno Koivisto | Ohjelmoija | Code Cerub |Toteuttaa asiakkaan tavoitteet | Backend-osa | [LinkedIn]() |
+| Heli Heikki | Palvelutuotanto | Code Cerub |
+| Purho "Grapizza" Kekkonen | Graafinen suunnittelu | Code Cerub |
+| Maija Keskinen | Palvelumuotoilu | Code Cerub |
+| Klaus Kähö | Testaus | Code Cerub |
+| Mauno Kara | Tietoturvatestaus | Code Cerub |
+| Carola "Cake" Kettunen | Arkkitehti / pääohjelmoija | Code Cerub |
+| Reino "Stackker" Kasa | DevvOps asiantuntija | Code Cerub |
+
+
+
 | ... | ... | ... | ... | [LinkedIn]() |
 
 ## Kuva tiimistä
