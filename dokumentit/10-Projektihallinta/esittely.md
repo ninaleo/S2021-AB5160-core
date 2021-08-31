@@ -3,17 +3,17 @@
 
 ## Tiimin jäsenet
 | Nimi | Kuvaus | Yritys/yhteisö | Tehtävä | Vastuut |Linkki |
-| Nina | Projektihallinta ja ohjaus | Code Cerub
-| Arnold Suksi | Vanhempi projektipäällikkö | Code Cerub |
+| Nina | Projektihallinta ja ohjaus | Code Cerub | [LinkedIn]() |
+| Arnold Suksi | Vanhempi projektipäällikkö | Code Cerub | [LinkedIn]() |
 | Matti Urri | Ohjelmoija | Code Cerub | Toteuttaa asiakkaan tavoitteet | Frontend-osa | [LinkedIn]() |
 | Kauno Koivisto | Ohjelmoija | Code Cerub |Toteuttaa asiakkaan tavoitteet | Backend-osa | [LinkedIn]() |
-| Heli Heikki | Palvelutuotanto | Code Cerub |
-| Purho "Grapizza" Kekkonen | Graafinen suunnittelu | Code Cerub |
-| Maija Keskinen | Palvelumuotoilu | Code Cerub |
-| Klaus Kähö | Testaus | Code Cerub |
-| Mauno Kara | Tietoturvatestaus | Code Cerub |
-| Carola "Cake" Kettunen | Arkkitehti / pääohjelmoija | Code Cerub |
-| Reino "Stackker" Kasa | DevvOps asiantuntija | Code Cerub |
+| Heli Heikki | Palvelutuotanto | Code Cerub | [LinkedIn]() |
+| Purho "Grapizza" Kekkonen | Graafinen suunnittelu | Code Cerub | [LinkedIn]() |
+| Maija Keskinen | Palvelumuotoilu | Code Cerub | [LinkedIn]() |
+| Klaus Kähö | Testaus | Code Cerub | [LinkedIn]() |
+| Mauno Kara | Tietoturvatestaus | Code Cerub | [LinkedIn]() |
+| Carola "Cake" Kettunen | Arkkitehti / pääohjelmoija | Code Cerub | [LinkedIn]() |
+| Reino "Stackker" Kasa | DevvOps asiantuntija | Code Cerub | [LinkedIn]() |
 
 
 
