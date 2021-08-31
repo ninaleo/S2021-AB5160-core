@@ -14,10 +14,7 @@ Nina, Projektihallinta ja ohjaus, Code Cerub, [LinkedIn]()
 | Klaus Kähö, Testaus, Code Cerub, [LinkedIn]() 
 | Mauno Kara, Tietoturvatestaus, Code Cerub, [LinkedIn]() 
 | Carola "Cake" Kettunen, Arkkitehti / pääohjelmoija, Code Cerub, [LinkedIn]() 
-| Reino "Stackker" Kasa, DevvOps asiantuntija, Code Cerub, [LinkedIn]() 
-
-
-## Tiimimme
+| Reino "Stackker" Kasa, DevvOps asiantuntija, Code Cerub, [LinkedIn]()
 
 ![image](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/raw/master/assets/Tiimin_j%C3%A4senet1.2.jpg?inline=false)
 
