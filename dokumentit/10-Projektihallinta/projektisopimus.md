@@ -8,7 +8,7 @@
 
 # 1 SOPIMUKSEN OSAPUOLET
 
-> Tämä projektisopimus (jäljempänä Sopimus) on tehty X Oy:n (jäljempänä Toimeksiantaja) ja esim. Jyväskylän ammattikorkeakoulun teknologiayksikön IT-instituutin (jäljempänä IT) välillä.
+> Tämä projektisopimus (jäljempänä Sopimus) on tehty X Oy:n (jäljempänä Toimeksiantaja) ja Code Cerub Oy (jäljempänä IT) välillä.
 > Kukin projektiryhmän (jäljempänä Ryhmä) jäsen vastaa sopimuksen velvoitteiden täyttämisestä omasta puolestaan (tehdään tarvittaessa erillinen sopimus). 
 
 # 2 SOPIMUKSEN KOHDE
@@ -132,7 +132,7 @@
 > Tämä Sopimus tulee voimaan, kun kaikki Sopimuksen osapuolet ovat sen allekirjoittaneet. Sopimuksesta on tehty kolme samasanaista kappaletta, yksi kullekin 
 > osapuolelle.
 
-> Xlässä _._.2014 
+> Syväskylässä _31.08.2021
 
 > Toimeksiantaja XYZ  / IT Projekti Y
 
