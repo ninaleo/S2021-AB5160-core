@@ -2,7 +2,7 @@
 
 
 ## Tiimin jäsenet
-| Nimi | Kuvaus | Yritys/yhteisö | Tehtävä | Vastuut |Linkki |
+
 | Nina | Projektihallinta ja ohjaus | Code Cerub | [LinkedIn]() |
 | Arnold Suksi | Vanhempi projektipäällikkö | Code Cerub | [LinkedIn]() |
 | Matti Urri | Ohjelmoija | Code Cerub | Toteuttaa asiakkaan tavoitteet | Frontend-osa | [LinkedIn]() |
