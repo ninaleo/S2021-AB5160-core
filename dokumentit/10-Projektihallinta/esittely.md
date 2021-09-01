@@ -18,6 +18,8 @@ Nina, Projektihallinta ja ohjaus, Code Cerub, [LinkedIn]()
 
 ![image](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/raw/master/assets/Tiimin_j%C3%A4senet1.2.jpg?inline=false)
 
+Kokeilen tässä eri kuvia, koska tuo vika on hieman outo. TV:Narsu
+
 ![](../assets/Tiimin_j%C3%A4senet1.2.jpg)
 ![](../assets/jamk_logo.png)
 ![](../assets/gitlabphoto.png)
