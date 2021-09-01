@@ -20,6 +20,7 @@ Nina, Projektihallinta ja ohjaus, Code Cerub, [LinkedIn]()
 
 ![](../assets/Tiimin_j%C3%A4senet1.2.jpg)
 ![](../assets/jamk_logo.png)
+![](../assets/gitlabphoto.png)
 
 
 Ylärivi vasemmalta oikealle:
