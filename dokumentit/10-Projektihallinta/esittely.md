@@ -7,8 +7,8 @@
 | Nimi | Tehtävä | Työnantaja | LinkedIn |
 | Nina | Projektihallinta ja ohjaus | Code Cerub | [LinkedIn]() 
 | Arnold Suksi | Vanhempi projektipäällikkö | Code Cerub | [LinkedIn]() 
-| Matti Urri | Ohjelmoija | Code Cerub | Toteuttaa asiakkaan tavoitteet | Frontend-osa | [LinkedIn]() 
-| Kauno Koivisto | Ohjelmoija | Code Cerub | Toteuttaa asiakkaan tavoitteet| Backend-osa | [LinkedIn]() 
+| Matti Urri | Ohjelmoija, Frontend | Code Cerub | [LinkedIn]() 
+| Kauno Koivisto | Ohjelmoija, Backend | Code Cerub | [LinkedIn]() 
 | Heli Heikki | Palvelutuotanto | Code Cerub | [LinkedIn]() 
 | Heikki Halipula | Asiakaspalvelu | Code Cerub | [LinkedIn]()
 | Purho "Grapizza" Kekkonen | Graafinen suunnittelu | Code Cerub | [LinkedIn]() 
