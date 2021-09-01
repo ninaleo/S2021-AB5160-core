@@ -131,10 +131,17 @@
 @startmindmap
 + Tuotos
 ++ Tuotantotiimi
-+++ Projektihallintta ja ohjaus, Nina
-+++ Vanhempi projektipäällikkö, Arnold Suksi
-+++ Henkilö2
-+++ Henkilö3
++++ Graafinen suunnittelu, Purho Kekkonen
++++ Arkkitehti, pääohjelmoija, Carola Kettunen
++++ Ohjelmointi Frontend, Matti Urri
++++ Ohjelmointi Backend, Kauno Koivisto
++++ Palvelutuotanto, Heli Heikki
+++ Suunnittelutiimi
++++ Hallinta ja Ohjaus, Nina
++++ Vanhempi Projektipäällikkö, Arnold Suksi
++++ Graafinen suunnnittelu, Purho Kekkonen
++++ Palvelumuotoilu ja vaatimusmäärittely, Maija Keskinen
++++ DevOps Asiantuntija, Reino Kasa
 -- Tilaaja
 --- Tilaajan edustaja1
 --- Tilaajan edustaja2
@@ -147,21 +154,6 @@
 @endmindmap
 ```
 
-
-@startmindmap
-* Debian
-** Ubuntu
-*** Linux Mint
-*** Kubuntu
-*** Lubuntu
-*** KDE Neon
-** LMDE
-** SolydXK
-** SteamOS
-** Raspbian with a very long name
-*** <s>Raspmbc</s> => OSMC
-*** <s>Raspyfi</s> => Volumio
-@endmindmap
 
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
