@@ -2,9 +2,8 @@
 
 
 ## Code Cerub tiimimme
-| solu1 | solu2 | solu3 | solu4 |
-| : - : | : - : | : - : | : - : |
 | Nimi | Tehtävä | Työnantaja | LinkedIn |
+| : - : | : - : | : - : | : - : |
 | Nina | Projektihallinta ja ohjaus | Code Cerub | [LinkedIn]() 
 | Arnold Suksi | Vanhempi projektipäällikkö | Code Cerub | [LinkedIn]() 
 | Matti Urri | Ohjelmoija, Frontend | Code Cerub | [LinkedIn]() 
