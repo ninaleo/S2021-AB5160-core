@@ -110,7 +110,7 @@
 @startmindmap
 + Tuotos
 ++ Tuotantotiimi
-+++ Projektipäällikkö
++++ Projektipäällikkö 
 +++ Henkilö1
 +++ Henkilö2
 +++ Henkilö3
@@ -126,6 +126,27 @@
 --- Virkailija
 @endmindmap
 ```
+
+```plantuml
+@startmindmap
++ Tuotos
+++ Tuotantotiimi
++++ Projektihallintta ja ohjaus, Nina
++++ Vanhempi projektipäällikkö, Arnold Suksi
++++ Henkilö2
++++ Henkilö3
+-- Tilaaja
+--- Tilaajan edustaja1
+--- Tilaajan edustaja2
+++ Laadunvalvonta organisaatio
++++ Testipäällikkö, Klaus Kähö
++++ Tietoturvatestaus, Mauno Kara
+-- Verottaja
+--- Itse Karhu
+--- Virkailija
+@endmindmap
+```
+
 
 @startmindmap
 * Debian
