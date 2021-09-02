@@ -130,21 +130,19 @@
 ```plantuml
 @startmindmap
 + Tuotos
-++ Tuotantotiimi
-+++ Graafinen suunnittelu, Purho Kekkonen
-+++ Arkkitehti, pääohjelmoija, Carola Kettunen
-+++ Ohjelmointi Frontend, Matti Urri
-+++ Ohjelmointi Backend, Kauno Koivisto
-+++ Palvelutuotanto, Heli Heikki
 ++ Suunnittelutiimi
 +++ Hallinta ja Ohjaus, Nina
 +++ Vanhempi Projektipäällikkö, Arnold Suksi
 +++ Graafinen suunnnittelu, Purho Kekkonen
 +++ Palvelumuotoilu ja vaatimusmäärittely, Maija Keskinen
 +++ DevOps Asiantuntija, Reino Kasa
+++ Tuotantotiimi
++++ Graafinen suunnittelu, Purho Kekkonen
++++ Arkkitehti, pääohjelmoija, Carola Kettunen
++++ Ohjelmointi Frontend, Matti Urri
++++ Ohjelmointi Backend, Kauno Koivisto
++++ Palvelutuotanto, Heli Heikki
 -- Tilaaja
---- Tilaajan edustaja1
---- Tilaajan edustaja2
 ++ Laadunvalvonta organisaatio
 +++ Testipäällikkö, Klaus Kähö
 +++ Tietoturvatestaus, Mauno Kara
