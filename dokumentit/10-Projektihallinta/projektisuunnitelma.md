@@ -13,7 +13,9 @@
 Core Cerub on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. Toimeksianto on tuottaa palveluna ns. Conduit- ohjelmisto pohjaista Foorumi- ratkaisua WIMMA- Lab- kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista vaatimusmäärittelydokumentissa.
 
 
->Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… ”Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. ”
+Projektin tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta asiakkaan tarpeisiin sopiva versio joka integroituu visuaalisesti hyvin asiakkaan jo olemassa oleviin kotisivuihin sekä tiedon jakamisesssa tarvittavaan linkitykseen sivuilla jo olemassa olevaan materiaaliin 
+Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän 
+<TTOS2070> ‑opintojakson puitteissa. 
 
 >Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
 
@@ -64,6 +66,7 @@ Core Cerub on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. Toimeksia
 ## 1.6 Projektiin liittyvät haasteet
 
 ![](../assets/work-to-do.png)
+Projektille on määrätty tiukka kolmen kuukauden aikaraja ja ohjelmisto muutoksineen on oltava asiakkaan käytössä viimeistään 3kk projektin alkamisesta.
 
 > Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
 
@@ -77,11 +80,7 @@ Core Cerub on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. Toimeksia
 
 ![](../assets/work-to-do.png)
 
-> Kuka kuuluu projektiorganisaatioon? 
-> Onko projektiryhmän/tiimin lisäksi muita toimijoita?
-
->Projektin organisaation kuuluu organisaation X henkilökuntaa ja harjoittelijoita
-
+Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja harjoittelijoita.
 
 ## Code Cerub tiimimme
 
