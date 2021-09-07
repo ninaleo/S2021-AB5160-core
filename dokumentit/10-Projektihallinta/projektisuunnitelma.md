@@ -232,9 +232,11 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 **Etappi 0**
 
-__Käynnistys 30.8.2021 – 13.9.2021 (X h)__
+__Käynnistys 30.8.2021 – 20.9.2021 (X h)__
 
->Aloitus ja suunnittelu. Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
+>Esisuunnittelu, aloitus ja suunnittelu. 
+Projektin esisuunnittelu 30.8.2021-6.9.2021 
+Projektin aloitus ja suunnittelu 6.9.2021- 20.9.2021. Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
 > esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. Vaiheen aikana
 > muodostetaan johtoryhmä, pidetään 1. johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
 
@@ -247,18 +249,22 @@ __Käynnistys 13.9.2021 (X h)__
 
 Toteutus alkaa
 
+**Etappi 3**
 
-**Etappi 2**
+__Toteutus alkaa 20.9.2021 (X h)__
+
+**Etappi 3**
 
 __Tarkistukset ja korjaukset 27.9.2021 (X h)__
-Tarkistukset ja korjaukset sisällytetään projektin 3kk aikajanalle niin, että tarkistukset tehdään joka toinen maanantai. Ensimmäinen Tarkistus ja korjaus 27.9.2021 ja siitä eteenpäin, näin projektin suunta on koko ajan oikea ja tiimi työskentelee yhdessä. Tarkistusten määrä lisätty koska projektissa on useita harjottelijoita ja täten budjetissa on väljyyttä ja laadun varmistaminen useammin on mahdollista, tärkeä myös harjoittelijat huomioonottaen (opetus).
+Tarkistukset ja korjaukset sisällytetään projektin 3kk aikajanalle niin, että tarkistukset tehdään joka toinen maanantai projektin alussa aina lokakuun loppuun saakka. Ensimmäinen Tarkistus ja korjaus 27.9.2021 ja siitä eteenpäin ma 27.9.2021, ma 11.10.2021 ja ma 25.10.2021, näin projektin suunta on koko ajan oikea ja tiimi työskentelee yhdessä. Tarkistusten määrä lisätty koska projektissa on useita harjottelijoita ja täten budjetissa on väljyyttä ja laadun varmistaminen useammin on mahdollista, tärkeä myös harjoittelijat huomioonottaen (opetus).
 
 
 **Etappi X** 
 
-__Lopetus p.k.vvvv – p.k.vvvv (X h)__
+__Lopetus 12.11.2021 – 19.11.2021 (X h)__
 
->”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
+>Projektin luovutus ja lopetus, aikaa varattu viikko. Palvelutuotannossa perjantaina 19.11.2021. 3kk määräaika umpeutuu maanantaina 22.11.2021. 
+”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
 ## 3.2 Projektin alustavat kustannusarvio
 
