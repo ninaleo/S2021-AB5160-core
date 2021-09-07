@@ -236,7 +236,9 @@ __Käynnistys 30.8.2021 – 20.9.2021 (X h)__
 
 >Esisuunnittelu, aloitus ja suunnittelu. 
 Projektin esisuunnittelu 30.8.2021-6.9.2021 
-Projektin aloitus ja suunnittelu 6.9.2021- 20.9.2021. Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
+Projektin aloitus ja suunnittelu 6.9.2021- 20.9.2021. 
+
+Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
 > esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. Vaiheen aikana
 > muodostetaan johtoryhmä, pidetään 1. johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
 
@@ -256,7 +258,8 @@ __Toteutus alkaa 20.9.2021 (X h)__
 **Etappi 3**
 
 __Tarkistukset ja korjaukset 27.9.2021 (X h)__
-Tarkistukset ja korjaukset sisällytetään projektin 3kk aikajanalle niin, että tarkistukset tehdään joka toinen maanantai projektin alussa aina lokakuun loppuun saakka. Ensimmäinen Tarkistus ja korjaus 27.9.2021 ja siitä eteenpäin ma 27.9.2021, ma 11.10.2021 ja ma 25.10.2021, näin projektin suunta on koko ajan oikea ja tiimi työskentelee yhdessä. Tarkistusten määrä lisätty koska projektissa on useita harjottelijoita ja täten budjetissa on väljyyttä ja laadun varmistaminen useammin on mahdollista, tärkeä myös harjoittelijat huomioonottaen (opetus).
+Tarkistukset ja korjaukset sisällytetään projektin 3kk aikajanalle niin, että tarkistukset tehdään joka toinen maanantai projektin alusta aina lokakuun loppuun saakka. Ensimmäinen Tarkistus ja korjaus 27.9.2021 ja siitä eteenpäin ma 27.9.2021, ma 11.10.2021 ja ma 25.10.2021, näin projektin suunta on koko ajan oikea ja tiimi työskentelee yhdessä. 
+Tarkistusten määrä lisätty koska projektissa on useita harjottelijoita ja täten budjetissa on väljyyttä ja laadun varmistaminen useammin on mahdollista, tärkeä myös harjoittelijat huomioonottaen (opetus).
 
 
 **Etappi X** 
