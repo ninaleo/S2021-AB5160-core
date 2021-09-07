@@ -232,9 +232,9 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 **Etappi 0**
 
-__Käynnistys p.k.vvvv – p.k.vvvv (X h)__
+__Käynnistys 30.8.2021 – 13.9.2021 (X h)__
 
->Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
+>Aloitus ja suunnittelu. Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
 > esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. Vaiheen aikana
 > muodostetaan johtoryhmä, pidetään 1. johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
 
@@ -243,8 +243,15 @@ __Käynnistys p.k.vvvv – p.k.vvvv (X h)__
 
 **Etappi 1**
 
+__Käynnistys 13.9.2021 (X h)__
+
+Toteutus alkaa
+
 
 **Etappi 2**
+
+__Tarkistukset ja korjaukset 27.9.2021 (X h)__
+Tarkistukset ja korjaukset sisällytetään projektin 3kk aikajanalle niin, että tarkistukset tehdään joka toinen maanantai. Ensimmäinen Tarkistus ja korjaus 27.9.2021 ja siitä eteenpäin, näin projektin suunta on koko ajan oikea ja tiimi työskentelee yhdessä. Tarkistusten määrä lisätty koska projektissa on useita harjottelijoita ja täten budjetissa on väljyyttä ja laadun varmistaminen useammin on mahdollista, tärkeä myös harjoittelijat huomioonottaen (opetus).
 
 
 **Etappi X** 
