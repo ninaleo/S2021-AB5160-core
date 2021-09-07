@@ -10,7 +10,7 @@
 
 ![](../assets/work-to-do.png)
 
-Core Cerub on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. Toimeksianto on tuottaa palveluna ns. Conduit- ohjelmisto pohjaista Foorumi- ratkaisua WIMMA- Lab- kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista vaatimusmäärittelydokumentissa.
+Core Cerub on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. Toimeksianto on tuottaa palveluna asiakkaan toiveesta ns. Conduit- ohjelmisto pohjaista Foorumi- ratkaisua WIMMA- Lab- kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista vaatimusmäärittelydokumentissa.
 
 
 Projektin tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta asiakkaan tarpeisiin sopiva versio joka integroituu visuaalisesti hyvin asiakkaan jo olemassa oleviin kotisivuihin sekä tiedon jakamisesssa tarvittavaan linkitykseen sivuilla jo olemassa olevaan materiaaliin 
@@ -21,7 +21,13 @@ Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian ins
 
 ## 1.2 Tavoitteet ja tehtävät
 
-> ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
+> ”Tässä dokumentissa kuvataan X-projektin taustaa, 
+tavoitteita, 
+tehtäviä, 
+vaihejakoa, 
+resursseja 
+organisaatiota. 
+Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
 
 * Tuottaa ratkaisu mihin ? 
 
@@ -47,12 +53,9 @@ Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian ins
 
 ## 1.3 Rajaus ja liittymät
 
-> Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta. 
-> Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät. Tässä myös täsmennetään ne 
-> tehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta joita ei 
-> tämän projektin puitteissa kuitenkaan tulla toteuttamaan. Tyypillisiä tällaisia tehtäviä voisivat olla mm. käyttöympäristön
-> rakentaminen ja koulutus. Muina rajauksina voisi olla esim. ohjelmiston käyttöliittymässä käytettävä kieli.
-
+>Code Cerub vastaa projektin valmistuttua palvelun tukemisesta ja siihen liittyvästä ylläpidosta. Ylläpito ei kuulu projektin tavoitteeseen. 
+**(opettaja:Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta. Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät. Tässä myös täsmennetään ne )**
+> Asiakas on ilmaissut käyttäjäkunnan kansainvälistymisen lähivuosina ja siksi käyttöliittymässä käytettävät kielitehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta joita ei tämän projektin puitteissa kuitenkaan tulla toteuttamaan. 
 ## 1.4 Oikeudet
 
 > ”Eri osapuolten oikeudet on määritelty projektisopimuksessa.” Ellei erillisessä sopimuksessa ole kerrottu oikeuksista työn tuloksiin, tulee ne ilmaista esim. tässä projektisuunnitelmassa. 
@@ -73,6 +76,7 @@ Projektille on määrätty tiukka kolmen kuukauden aikaraja ja ohjelmisto muutok
 ![](../assets/SWOT-example.jpg)
 
 # 2. Projektiorganisaatio
+Code Cerub
 
 
 
@@ -185,7 +189,7 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 __luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen__
 
 # 3. Projektin ajalliset tavoitteet	
-
+Forum- keskustelupalsta oltava käytössä viimeistään 3kk kuluttua projektin alkamisesta.
 
 
 ## 3.1 Osittaminen ja vaiheistus
