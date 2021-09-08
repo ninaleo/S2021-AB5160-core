@@ -59,6 +59,7 @@ Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.)
 ## 1.4 Oikeudet
 
 >(Osapuolten oikeudet on määritelty projektisopimuksessa.Ellei erillisessä sopimuksessa ole kerrottu oikeuksista työn tuloksiin, tulee ne ilmaista esim. tässä projektisuunnitelmassa.)
+![](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/10-Projektihallinta/projektisopimus/)
 
 ## 1.5 Termit ja määritelmät
 
