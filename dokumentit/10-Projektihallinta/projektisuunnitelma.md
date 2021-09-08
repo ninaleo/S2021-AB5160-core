@@ -189,13 +189,13 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 *** 3.3
 *** 3.4
 *** 3.5
->**6
+)**6
 start left
 ** 4
 *** 5
 **** 5.1
 **** 5.2
-<
+
 @endmindmap
 ```
 
