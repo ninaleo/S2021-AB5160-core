@@ -175,7 +175,7 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 ++++ Graafinen suunnnittelu, Purho Kekkonen
 ++++ Palvelumuotoilu ja vaatimusmäärittely, Maija Keskinen
 ++++ DevOps Asiantuntija, Reino Kasa
----
+--- Valmis Tuotos
 +++ Tuotantotiimi
 ++++ Graafinen suunnittelu, Purho Kekkonen
 ++++ Arkkitehti, pääohjelmoija, Carola Kettunen
