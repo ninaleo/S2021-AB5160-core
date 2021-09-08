@@ -106,30 +106,7 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 
 
 
->LISÄÄ projektiryhmän ohjaajat sekä toimeksiantajan edustajat. 
-
-
-
-```plantuml
-@startmindmap
-+ Tuotos
-++ Tuotantotiimi
-+++ Projektipäällikkö 
-+++ Henkilö1
-+++ Henkilö2
-+++ Henkilö3
--- Tilaaja
---- Tilaajan edustaja1
---- Tilaajan edustaja2
-++ Laadunvalvonta organisaatio
-+++ Testipäällikkö
-+++ Testaaja
-+++ Käytettävyystestaaja
--- Verottaja
---- Itse Karhu
---- Virkailija
-@endmindmap
-```
+>LISÄÄ projektiryhmän ohjaajat sekä toimeksiantajan edustajat
 
 
 ```plantuml
@@ -157,46 +134,6 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 --- Tilaajan edustaja2, Marko
 @endmindmap
 ```
-
-
-
-
-
-
-
-```plantuml
-@startmindmap
-+ Code Cerub
-++[#Orange] 1
-+++ 1.1
-+++ 1.2
-+++ 1.3
-+++ 1.4
-+++ 1.5
-++ 2
-+++ 2.1
-+++ 2.2
-+++ 2.3
-+++ 2.4
-+++ 2.5
-++ 3
-+++ 3.1
-+++ 3.2
-+++ 3.3
-+++ 3.4
-+++ 3.5 
-
-
--- 4
---- 5
----- 5.1
----- 5.2
-
-@endmindmap
-```
-
-
-
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
