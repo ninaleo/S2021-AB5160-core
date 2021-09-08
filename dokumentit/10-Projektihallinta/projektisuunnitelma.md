@@ -135,7 +135,7 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
->(**2.2 EI TÄSSÄ VAIHEESSAN MITÄÄN)**Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
+>(**2.2 EI TEHDÄ TÄSSÄ VAIHEESSAN MITÄÄN)**Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
 
 **Projektiryhmä**
 
