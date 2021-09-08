@@ -83,8 +83,6 @@ Ron Aldo
 
 ## 2.1 Organisaation esittely
 
-![](../assets/work-to-do.png)
-
 Code Cerub WIMMA Lab Forum- Projekti organisaatioon kuuluu sekä Code Cerub organisaation henkilökunta ja harjoittelijoita.
 Harjoittelijat ovat jo suorittaneet opintonsa ja ovat nyt neljän kuukauden palkattomalla koeajalla jonka aikana he toimivat osana teknistä tiimiä monipuolisissa ICT- alan tehtävissä. Koeajan jälkeen harjoittelijat siirtyvät vuoden mittaiseen palkalliseen harjoittelujaksoon vuoden 2022 loppuun. Töitä koeajalla tehdään pääsääntöisesti toimistoaikoina, mutta toisinaan myös iltaisin ja viikonloppuisin.
 Harjoittelijat olivat estyneitä kuvaus päivänä ja siksi heitä ei tiimi kuvassa ole.
