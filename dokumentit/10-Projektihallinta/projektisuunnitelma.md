@@ -75,6 +75,7 @@ Projektille on määrätty tiukka kolmen kuukauden aikaraja ja ohjelmisto muutok
 # 2. Projektiorganisaatio
 
 Code Cerub henkilöstö
+
 Harjoittelijat:
 Wilma Wimman
 Edit Files
