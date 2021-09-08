@@ -167,38 +167,34 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 
 ```plantuml
 @startmindmap
++ Code Cerub
+++[#Orange] 1
++++ 1.1
++++ 1.2
++++ 1.3
++++ 1.4
++++ 1.5
+++ 2
++++ 2.1
++++ 2.2
++++ 2.3
++++ 2.4
++++ 2.5
+++ 3
++++ 3.1
++++ 3.2
++++ 3.3
++++ 3.4
++++ 3.5 
 
-* Code Cerub
-** 1
-*** 1.1
-*** 1.2
-*** 1.3
-*** 1.4
-*** 1.5
 
-** 2
-*** 2.1
-*** 2.2
-*** 2.3
-*** 2.4
-*** 2.5
-
-** 3
-*** 3.1
-*** 3.2
-*** 3.3
-*** 3.4
-*** 3.5
->**** 6
-start left
-** 4
-*** 5
-**** 5.1
-**** 5.2
+-- 4
+--- 5
+---- 5.1
+---- 5.2
 
 @endmindmap
 ```
-
 
 
 
@@ -276,9 +272,8 @@ Project starts the 2021-5-15
 * [Etappi 5](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/7)
 
 
-Seuraavassa käydään jokainen vaihe, niiden vaatimat aikaresurssit ja tulokset läpi lyhyesti. Vaiheet ja niiden tehtävät kuvataan tarkemmin vaihesuunnitelmissa. Parhaillaan meneillään olevasta vaiheesta tulee olla tiedossa tarkasti kuka tekee ja kuinka paljon työtä tämän vaiheen tehtävien suorittamiseksi. Myöhempien vaiheiden työmääräarviot voidaan esittää alkuvaiheessa karkealla tasolla, jota sitten projektin edetessä tarkennetaan yksityiskohtaiselle tasolle. Tämä tapahtuu jokaisen vaiheen lopussa, jolloin suunnitellaan tarkemmin seuraava vaihe.
-
-Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projektin vaiheista, niiden kestoista ja työmääristä laaditaan myös nk. Gantt-kaavio (liitteenä), jossa näkyy myös vaiheiden väliset riippuvuudet ja tärkeimmät etapit (esim. johtoryhmän kokouspäivämäärät).
+(Opettaja: Seuraavassa käydään jokainen vaihe, niiden vaatimat aikaresurssit ja tulokset läpi lyhyesti. Vaiheet ja niiden tehtävät kuvataan tarkemmin vaihesuunnitelmissa. Parhaillaan meneillään olevasta vaiheesta tulee olla tiedossa tarkasti kuka tekee ja kuinka paljon työtä tämän vaiheen tehtävien suorittamiseksi. Myöhempien vaiheiden työmääräarviot voidaan esittää alkuvaiheessa karkealla tasolla, jota sitten projektin edetessä tarkennetaan yksityiskohtaiselle tasolle. Tämä tapahtuu jokaisen vaiheen lopussa, jolloin suunnitellaan tarkemmin seuraava vaihe.
+Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projektin vaiheista, niiden kestoista ja työmääristä laaditaan myös nk. Gantt-kaavio (liitteenä), jossa näkyy myös vaiheiden väliset riippuvuudet ja tärkeimmät etapit (esim. johtoryhmän kokouspäivämäärät).)
 
 **Etappi 0**
 
@@ -305,7 +300,6 @@ __Toteutus alkaa 20.9.2021 (X h)__
 
 __Tarkistukset ja korjaukset alkaa 27.9.2021 (X h)__
 
-
 Tarkistukset ja korjaukset sisällytetään projektin 3kk aikajanalle niin, että tarkistukset tehdään joka toinen maanantai projektin alusta aina lokakuun loppuun saakka. Ensimmäinen Tarkistus ja korjaus 27.9.2021 ja siitä eteenpäin ma 27.9.2021, ma 11.10.2021 ja ma 25.10.2021, näin projektin suunta on koko ajan oikea ja tiimi työskentelee yhdessä. 
 Tarkistusten määrä lisätty koska projektissa on useita harjottelijoita ja täten budjetissa on väljyyttä ja laadun varmistaminen useammin on mahdollista, tärkeä myös harjoittelijat huomioonottaen (opetus).
 
@@ -314,12 +308,14 @@ Tarkistusten määrä lisätty koska projektissa on useita harjottelijoita ja t�
 
 __Lopetus 12.11.2021 – 19.11.2021 (X h)__
 
->Projektin luovutus ja lopetus, aikaa varattu viikko. Palvelutuotannossa perjantaina 19.11.2021. 3kk määräaika umpeutuu maanantaina 22.11.2021. 
-”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
+>Projektin luovutus ja lopetus, aikaa varattu viikko. Laaditaan projektin loppuraportti (lopettamisvaiheen tuloksena) ja esitys johtoryhmälle. Luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. 
 
+ Palvelu tuotannossa perjantaina 19.11.2021. 3kk määräaika umpeutuu maanantaina 22.11.2021. 
 
 **Etappi 5**
 __Palvelu tuotannossa 19.11.2021 (X h)__
+
+WIMMA Lab- kotisivut uudella Forum- keskustelupalstalla käytössä.
 
 
 ## 3.2 Projektin alustavat kustannusarvio
