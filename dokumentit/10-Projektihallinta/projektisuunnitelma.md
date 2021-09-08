@@ -315,8 +315,7 @@ Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteeri
 
 ## 5.1 Viestintäsuunnitelma
 
->Viestintäsuunnitelman tarkoituksena on määritellä WIMMA Lab Forum- projektin yhteydessä käytetyt viestintämenetelmät ja kanavat. Selkeällä ja yhdenmukaisella viestinnällä varmistetaan >informaation kulku ja vaikutetaan projektin laatutavoitteiden toteutumiseen. Suunnitelma voidaan laatia osana projektisuunnitelmaa tai siihen voidaan viitata [Viestintäsuunnitelma]
-(https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/viestintasuunnitelma.md)
+>Viestintäsuunnitelman tarkoituksena on määritellä WIMMA Lab Forum- projektin yhteydessä käytetyt viestintämenetelmät ja kanavat. Selkeällä ja yhdenmukaisella viestinnällä varmistetaan >informaation kulku ja vaikutetaan projektin laatutavoitteiden toteutumiseen. Suunnitelma voidaan laatia osana projektisuunnitelmaa tai siihen voidaan viitata [Viestintäsuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/viestintasuunnitelma.md)
 
 >Listaa projektissa sovitut työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus.
 
