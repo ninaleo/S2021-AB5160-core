@@ -164,7 +164,7 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 ++++ Henkilö1
 ++++ Henkilö2
 ++++ Henkilö3
--- Tilaaja, Wimma Lab
+-- Wimma Lab
 --- Tilaajan edustaja, Teemu
 +++ Laadunvalvonta organisaatio
 ++++ Testipäällikkö
