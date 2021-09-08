@@ -1,7 +1,7 @@
 # Projektisuunnitelma
 
 ![](https://openclipart.org/image/400px/svg_to_png/198173/mono-package-games-strategy.png)
-
+![](https://gitlab.labranet.jamk.fi/-/ide/project/ttc2070te2021s/S2021-AB5160/core/edit/master/-/assets/ProjectClouds.jpg)
 
 ## 1. Toimeksianto 
 
