@@ -202,7 +202,6 @@ Project starts the 2021-5-15
 Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projektin vaiheista, niiden kestoista ja työmääristä laaditaan myös nk. Gantt-kaavio (liitteenä), jossa näkyy myös vaiheiden väliset riippuvuudet ja tärkeimmät etapit (esim. johtoryhmän kokouspäivämäärät).)
 
 **Etappi 0**
-
 __Esisuunnittelu 30.8.2021 – 6.9.2021 (X h)__
 
 Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
@@ -215,12 +214,10 @@ __Aloitus ja suunnittelu 6.9.2021 - 20.9.2021 (X h)__
 Vaiheen tuloksena.......
 
 **Etappi 2**
-
 __Toteutus alkaa 20.9.2021 (X h)__
 Vaiheen tuloksena.......
 
 **Etappi 3**
-
 __Tarkistukset ja korjaukset alkaa 27.9.2021 (X h)__
 
 Tarkistukset ja korjaukset sisällytetään projektin 3kk aikajanalle niin, että tarkistukset tehdään joka toinen maanantai projektin alusta aina lokakuun loppuun saakka. Ensimmäinen Tarkistus ja korjaus 27.9.2021 ja siitä eteenpäin ma 27.9.2021, ma 11.10.2021 ja ma 25.10.2021, näin projektin suunta on koko ajan oikea ja tiimi työskentelee yhdessä. 
@@ -228,7 +225,6 @@ Tarkistusten määrä lisätty koska projektissa on useita harjottelijoita ja t�
 
 
 **Etappi 4 Luovutus ja projektin lopetus 12.11.2021** 
-
 __Lopetus 12.11.2021 – 19.11.2021 (X h)__
 
 >Projektin luovutus ja lopetus, aikaa varattu viikko. Laaditaan projektin loppuraportti (lopettamisvaiheen tuloksena) ja esitys johtoryhmälle. Luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. 
