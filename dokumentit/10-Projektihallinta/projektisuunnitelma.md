@@ -8,8 +8,6 @@
 
 ## 1.1 Tausta ja lähtökohdat
 
-![](../assets/work-to-do.png)
-
 Core Cerub on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. Toimeksianto on tuottaa palveluna asiakkaan toiveesta ns. Conduit- ohjelmisto pohjaista Foorumi- ratkaisua WIMMA- Lab- kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista vaatimusmäärittelydokumentissa.
 
 
