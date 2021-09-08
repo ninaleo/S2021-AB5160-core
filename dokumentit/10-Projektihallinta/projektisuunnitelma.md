@@ -13,11 +13,12 @@
 Core Cerub on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. Toimeksianto on tuottaa palveluna asiakkaan toiveesta ns. Conduit- ohjelmisto pohjaista Foorumi- ratkaisua WIMMA- Lab- kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista vaatimusmäärittelydokumentissa.
 
 
-Projektin tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta asiakkaan tarpeisiin sopiva versio joka integroituu visuaalisesti hyvin asiakkaan jo olemassa oleviin kotisivuihin sekä tiedon jakamisesssa tarvittavaan linkitykseen sivuilla jo olemassa olevaan materiaaliin 
+Projektin tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta asiakkaan tarpeisiin sopiva versio joka integroituu visuaalisesti hyvin asiakkaan jo olemassa oleviin kotisivuihin sekä tiedon jakamisesssa tarvittavaan linkitykseen sivuilla jo olemassa olevaan materiaaliin.
+
 Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän 
 <TTOS2070> ‑opintojakson puitteissa. 
 
->Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
+>Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
 
 ## 1.2 Tavoitteet ja tehtävät
 
@@ -133,7 +134,8 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 
 ```plantuml
 @startmindmap
-+ Tuotos
+
++ Tilattu tuote, WIMMA- lab Forum
 ++ Suunnittelutiimi
 +++ Hallinta ja Ohjaus, Nina
 +++ Vanhempi Projektipäällikkö, Arnold Suksi
@@ -152,6 +154,19 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 +++ Tietoturvatestaus, Mauno Kara
 @endmindmap
 ```
++ Tilaus, Wimma- lab Forum
+++ Tuotantotiimi
++++ Projektipäällikkö 
++++ Henkilö1
++++ Henkilö2
++++ Henkilö3
+-- Tilaaja, Wimma- lab
+--- Tilaajan edustaja, Teemu
+++ Laadunvalvonta organisaatio
++++ Testipäällikkö
++++ Testaaja
++++ Käytettävyystestaaja
+--- Tilaajan edustaja2, Marko
 
 
 
