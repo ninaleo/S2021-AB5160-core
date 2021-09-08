@@ -187,7 +187,7 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 +++ 3.4
 +++ 3.5
 start left
-- 1
++ 12
 @endmindmap
 ```
 
