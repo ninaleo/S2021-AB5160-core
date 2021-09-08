@@ -174,6 +174,7 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 +++ 1.3
 +++ 1.4
 +++ 1.5
+>++ 4
 ++ 2
 +++ 2.1
 +++ 2.2
@@ -186,7 +187,7 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 +++ 3.3
 +++ 3.4
 +++ 3.5
-++ 4
+
 @endmindmap
 ```
 
