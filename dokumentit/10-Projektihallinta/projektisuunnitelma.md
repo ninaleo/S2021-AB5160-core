@@ -176,7 +176,6 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 ++++ Testipäällikkö, Klaus Kähö
 ++++ Tietoturvatestaus, Mauno Kara
 ++++ Käytettävyystestajina harjoittelijat
-
 @endmindmap
 ```
 
