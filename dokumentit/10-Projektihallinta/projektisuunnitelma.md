@@ -69,7 +69,6 @@ Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
 
 ## 1.6 Projektiin liittyvät haasteet
 
-![](../assets/work-to-do.png)
 Projektille on määrätty tiukka kolmen kuukauden aikaraja ja ohjelmisto muutoksineen on oltava asiakkaan käytössä viimeistään 3kk projektin alkamisesta.
 
 > Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
