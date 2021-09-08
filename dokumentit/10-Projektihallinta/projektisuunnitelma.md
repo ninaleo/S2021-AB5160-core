@@ -45,7 +45,7 @@ Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.)
 > Mitä henkilöitä, toimijoita tai ryhmiä liittyy projektiin projektin 
 > Tähän voi liittää Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä ?
 
-* Linkki tarvitavaan aineistoon vaatimusmäärittelyssä
+* [Linkki tarvittavaan aineistoon vaatimusmäärittelyssä](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
 
 > Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
 
