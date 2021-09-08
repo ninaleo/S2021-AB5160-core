@@ -211,7 +211,6 @@ Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitte
 >”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.
 
 **Etappi 1**
-
 __Aloitus ja suunnittelu 6.9.2021 - 20.9.2021 (X h)__
 Vaiheen tuloksena.......
 
