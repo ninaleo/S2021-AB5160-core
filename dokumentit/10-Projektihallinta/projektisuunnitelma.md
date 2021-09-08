@@ -20,25 +20,25 @@ Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian ins
 
 ## 1.2 Tavoitteet ja tehtävät
 
-> ”Tässä dokumentissa kuvataan X-projektin taustaa, 
+>(Kuvaa WIMMA Lab Forum- projektin taustaa, 
 tavoitteita, 
 tehtäviä, 
 vaihejakoa, 
 resursseja 
 organisaatiota. 
-Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
+Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.)
 
 * Tuottaa ratkaisu mihin ? 
 
-> Tähän voi liittää lähteeksi vaatimusmäärittelyn sisältöä
-> Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
+>(Liitä lähteeksi vaatimusmäärittelyn sisältöä
+> Määritä työn keskeisin sisältö; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen.)
 
 * Mitä aiotaan tehdä? 
 
-> Mitä toimintaa aiotaan kehittää ja miten?>
+> (Mitä toimintaa aiotaan kehittää ja miten?>
 > Visio tulevasta tilasta
 > Mikä on tuotettava lopputulos (konkreettinen)?
-> Mitkä ovat osa- tai välitulokset?>
+> Mitkä ovat osa- tai välitulokset?>)
 
 * projektiin liittyvät eri sidosryhmät?
 
@@ -53,28 +53,32 @@ Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
 ## 1.3 Rajaus ja liittymät
 
 >Code Cerub vastaa projektin valmistuttua palvelun tukemisesta ja siihen liittyvästä ylläpidosta. Ylläpito ei kuulu projektin tavoitteeseen. 
-**(opettaja:Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta. Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät. Tässä myös täsmennetään ne )**
+
 > Asiakas on ilmaissut käyttäjäkunnan kansainvälistymisen lähivuosina ja siksi käyttöliittymässä käytettävät kielitehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta joita ei tämän projektin puitteissa kuitenkaan tulla toteuttamaan. 
+
 ## 1.4 Oikeudet
 
-> ”Eri osapuolten oikeudet on määritelty projektisopimuksessa.” Ellei erillisessä sopimuksessa ole kerrottu oikeuksista työn tuloksiin, tulee ne ilmaista esim. tässä projektisuunnitelmassa. 
+>(Osapuolten oikeudet on määritelty projektisopimuksessa.Ellei erillisessä sopimuksessa ole kerrottu oikeuksista työn tuloksiin, tulee ne ilmaista esim. tässä projektisuunnitelmassa.)
 
 ## 1.5 Termit ja määritelmät
 
->Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. Esimerkiksi eri projekteissa saattaa sanoilla "tarkastus" ja "katselmointi" olla eri merkitys ja tämä 
-> voi aiheuttaa väärinkäsityksiä. Joskus saattaa olla paikallaan sopia eri nimityksiä ryhmän tarkastuksille (oma sisäinen, asiakkaan kanssa, opintojakson suuntaan). Lyhenteet kannattaa avata 
-> alkuperäiskielelle ja lisätä lyhyt kuvaus suomeksi. Esimerkiksi CASE = Computer aided software engineering, tietokoneavusteinen systeemityö.
+>Ei erikseen määriteltäviä termejä.
 
 ## 1.6 Projektiin liittyvät haasteet
 
 Projektille on määrätty tiukka kolmen kuukauden aikaraja ja ohjelmisto muutoksineen on oltava asiakkaan käytössä viimeistään 3kk projektin alkamisesta.
 
-> Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä. 
+>() Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä.) 
 
 ![](../assets/SWOT-example.jpg)
 
 # 2. Projektiorganisaatio
-Code Cerub
+
+Code Cerub henkilöstö
+Harjoittelijat:
+Wilma Wimman
+Edit Files
+
 
 
 
@@ -82,7 +86,9 @@ Code Cerub
 
 ![](../assets/work-to-do.png)
 
-Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja harjoittelijoita.
+Code Cerub WIMMA Lab Forum- Projekti organisaatioon kuuluu sekä Code Cerub organisaation henkilökunta ja harjoittelijoita.
+Harjoittelijat ovat jo suorittaneet opintonsa ja ovat nyt neljän kuukauden palkattomalla koeajalla jonka aikana he toimivat osana teknistä tiimiä monipuolisissa ICT- alan tehtävissä. Koeajan jälkeen harjoittelijat siirtyvät vuoden mittaiseen palkalliseen harjoittelujaksoon vuoden 2022 loppuun. Töitä koeajalla tehdään pääsääntöisesti toimistoaikoina, mutta toisinaan myös iltaisin ja viikonloppuisin.
+Harjoittelijat olivat estyneitä kuvaus päivänä ja siksi heitä ei tiimi kuvassa ole.
 
 ## Code Cerub tiimimme
 
@@ -104,7 +110,7 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 
 
 
->LISÄÄ projektiryhmän ohjaajat sekä toimeksiantajan edustajat
+>LISÄÄ projektiryhmän ohjaajat sekä toimeksiantajan edustajat, Teemu K ja Marko R
 
 
 ```plantuml
@@ -124,12 +130,12 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 ++++ Ohjelmointi Backend, Kauno Koivisto
 ++++ Palvelutuotanto, Heli Heikki
 -- Wimma Lab
---- Tilaajan edustaja, Teemu
+--- Tilaajan edustaja, Teemu K
 +++ Laadunvalvonta organisaatio
 ++++ Testipäällikkö, Klaus Kähö
 ++++ Tietoturvatestaus, Mauno Kara
 ++++ Käytettävyystestajina harjoittelijat
---- Tilaajan edustaja2, Marko
+--- Tilaajan edustaja2, Marko R
 @endmindmap
 ```
 
