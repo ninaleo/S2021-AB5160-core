@@ -299,11 +299,17 @@ Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
 
 * [Projektisopimus](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/projektisopimus.md)
 
-* [Vaatimusmäärittely](../20-Vaatimustenhallinta/vaatimusmaarittely.md)
+* [Vaatimusmäärittely](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
+
+
 * [Julkaisusuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
+
 * [Yleistestisuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
-* [Viestintäsuunnitelma](..//10-Projektinhallinta/viestintasuunnitelma.md)
-* [Riskihallintasuunnitelma](../10-Projektinhallinta/riskihallinta-suunnitelma.md)
+
+* [Viestintäsuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/viestintasuunnitelma.md)
+
+* [Riskihallintasuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/riskitaulukko.md)
+
 * [Muu annettu dokumentaatio]()
 
 
