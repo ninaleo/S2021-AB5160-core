@@ -280,7 +280,7 @@ Kustannusarvion esittäminen taulukon avulla:
 | RIS-002 | Sähköt katkeavat kehitystyön aikana | V5 | 10 %  | [Tiimin jäsen 2]() | Varmistetaan, että kaikilla on käytössään varayhteydet esim. puhelimella |
 | RIS-003 | ... | ... | ...  | ... |
 
-Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
+[Riskienhallintataulukko](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/riskitaulukko.md)
 
 ## 4.5 Katselmointikäytäntö
 
