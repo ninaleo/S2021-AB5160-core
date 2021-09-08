@@ -132,35 +132,13 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 @endmindmap
 ```
 
-```plantuml
-@startmindmap
-
-+ Tilattu tuote, WIMMA- lab Forum
-++ Suunnittelutiimi
-+++ Hallinta ja Ohjaus, Nina
-+++ Vanhempi Projektipäällikkö, Arnold Suksi
-+++ Graafinen suunnnittelu, Purho Kekkonen
-+++ Palvelumuotoilu ja vaatimusmäärittely, Maija Keskinen
-+++ DevOps Asiantuntija, Reino Kasa
-++ Tuotantotiimi
-+++ Graafinen suunnittelu, Purho Kekkonen
-+++ Arkkitehti, pääohjelmoija, Carola Kettunen
-+++ Ohjelmointi Frontend, Matti Urri
-+++ Ohjelmointi Backend, Kauno Koivisto
-+++ Palvelutuotanto, Heli Heikki
--- Tilaaja
-++ Laadunvalvonta organisaatio
-+++ Testipäällikkö, Klaus Kähö
-+++ Tietoturvatestaus, Mauno Kara
-@endmindmap
-```
 
 ```plantuml
 @startmindmap
 - Wimma Lab- Forum
 ++ Code Cerub
 +++ Suunnittelutiimi
-++++ Hallinta ja Ohjaus, Nina
+++++ Projektipäällikkö, Hallinta ja Ohjaus, Nina
 ++++ Vanhempi Projektipäällikkö, Arnold Suksi
 ++++ Graafinen suunnnittelu, Purho Kekkonen
 ++++ Palvelumuotoilu ja vaatimusmäärittely, Maija Keskinen
@@ -176,7 +154,7 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 +++ Laadunvalvonta organisaatio
 ++++ Testipäällikkö, Klaus Kähö
 ++++ Tietoturvatestaus, Mauno Kara
-++++ Käytettävyystestaaja
+++++ Käytettävyystestajina harjoittelijat
 --- Tilaajan edustaja2, Marko
 @endmindmap
 ```
