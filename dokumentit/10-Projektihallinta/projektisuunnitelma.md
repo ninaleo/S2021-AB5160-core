@@ -158,18 +158,18 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 ```plantuml
 @startmindmap
 - Wimma Lab- Forum
-+ Code Cerub
-++ Tuotantotiimi
-+++ Projektipäällikkö 
-+++ Henkilö1
-+++ Henkilö2
-+++ Henkilö3
+++ Code Cerub
++++ Tuotantotiimi
+++++ Projektipäällikkö 
+++++ Henkilö1
+++++ Henkilö2
+++++ Henkilö3
 -- Wimma Lab
 --- Tilaajan edustaja, Teemu
-++ Laadunvalvonta organisaatio
-+++ Testipäällikkö
-+++ Testaaja
-+++ Käytettävyystestaaja
++++ Laadunvalvonta organisaatio
+++++ Testipäällikkö
+++++ Testaaja
+++++ Käytettävyystestaaja
 --- Tilaajan edustaja2, Marko
 @endmindmap
 ```
