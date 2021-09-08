@@ -181,13 +181,13 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 ++++ Ohjelmointi Frontend, Matti Urri
 ++++ Ohjelmointi Backend, Kauno Koivisto
 ++++ Palvelutuotanto, Heli Heikki
+>+++ Tr
 -- Wimma Lab
 --- Tilaajan edustaja, Teemu
 +++ Laadunvalvonta organisaatio
 ++++ Testipäällikkö, Klaus Kähö
 ++++ Tietoturvatestaus, Mauno Kara
 ++++ Käytettävyystestajina harjoittelijat
->+++ Valmis Tuotos
 --- Tilaajan edustaja2, Marko
 @endmindmap
 ```
