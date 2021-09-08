@@ -228,7 +228,7 @@ Tarkistukset ja korjaukset sisällytetään projektin 3kk aikajanalle niin, ett�
 Tarkistusten määrä lisätty koska projektissa on useita harjottelijoita ja täten budjetissa on väljyyttä ja laadun varmistaminen useammin on mahdollista, tärkeä myös harjoittelijat huomioonottaen (opetus).
 
 
-**Etappi 4 Luovutus ja projektin lopetus 8.11.2021** 
+**Etappi 4 Luovutus ja projektin lopetus 12.11.2021** 
 
 __Lopetus 12.11.2021 – 19.11.2021 (X h)__
 
@@ -297,7 +297,8 @@ Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
 
 >Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
-* [Projektisopimus](..//10-Projektinhallinta/projektisuunnitelma.md)
+* [Projektisopimus](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/projektisopimus.md)
+
 * [Vaatimusmäärittely](../20-Vaatimustenhallinta/vaatimusmaarittely.md)
 * [Julkaisusuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
 * [Yleistestisuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
