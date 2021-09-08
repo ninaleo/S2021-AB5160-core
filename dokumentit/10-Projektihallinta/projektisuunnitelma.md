@@ -107,9 +107,9 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 
 
 
->projektiryhmän ohjaajat sekä toimeksiantajan edustajat. Organisaatiokaavio on esitetty liitteessä tai alla olevassa kuvauksessa.
+>LISÄÄ projektiryhmän ohjaajat sekä toimeksiantajan edustajat. 
 
-**Projektiorganisaation rakenne MindMap-muodossa**
+
 
 ```plantuml
 @startmindmap
@@ -157,14 +157,14 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 
 ```plantuml
 @startmindmap
-+ Tilaus, Wimma- lab Forum
++ Wimma Lab- Forum
 ++ Code Cerub
 +++ Tuotantotiimi
 ++++ Projektipäällikkö 
 ++++ Henkilö1
 ++++ Henkilö2
 ++++ Henkilö3
--- Tilaaja, Wimma- lab
+-- Tilaaja, Wimma Lab
 --- Tilaajan edustaja, Teemu
 +++ Laadunvalvonta organisaatio
 ++++ Testipäällikkö
