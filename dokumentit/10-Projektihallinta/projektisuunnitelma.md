@@ -77,10 +77,7 @@ Projektille on määrätty tiukka kolmen kuukauden aikaraja ja ohjelmisto muutok
 
 Code Cerub henkilöstö
 
-Harjoittelijat:
-Wilma Wimman
-Edit Files
-Ron Aldo
+Harjoittelijat Wilma Wimman, Edit Files ja Ron Aldo.
 
 
 ## 2.1 Organisaation esittely
