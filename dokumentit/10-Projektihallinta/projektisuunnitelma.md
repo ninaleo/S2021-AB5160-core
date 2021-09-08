@@ -293,24 +293,19 @@ Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
 
 ## 4.6 Projektisuunnitelmaa täydentävät suunnitelmat
 
-![](../assets/work-to-do.png)
-
->Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
-
 * [Projektisopimus](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/projektisopimus.md)
 
 * [Vaatimusmäärittely](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
 
 
-* [Julkaisusuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
+* [Julkaisusuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
 
-* [Yleistestisuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
+* [Yleistestisuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/50-Testaushallinta/yleistestaussuunnitelma.md)
 
 * [Viestintäsuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/viestintasuunnitelma.md)
 
 * [Riskihallintasuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/riskitaulukko.md)
 
-* [Muu annettu dokumentaatio]()
 
 
 ## 4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
