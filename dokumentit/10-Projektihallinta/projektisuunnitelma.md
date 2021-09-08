@@ -167,7 +167,10 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 
 ```plantuml
 @startmindmap
-
++ Code Cerub
+++ 1
+++ 2
+++ 3
 @endmindmap
 ```
 
