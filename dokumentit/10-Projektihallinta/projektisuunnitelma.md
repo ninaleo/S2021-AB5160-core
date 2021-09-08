@@ -181,6 +181,11 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 +++ 2.4
 +++ 2.5
 ++ 3
++++ 3.1
++++ 3.2
++++ 3.3
++++ 3.4
++++ 3.5
 @endmindmap
 ```
 
