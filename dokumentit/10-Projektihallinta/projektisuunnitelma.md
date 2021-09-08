@@ -157,7 +157,7 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 
 ```plantuml
 @startmindmap
-+ Wimma Lab- Forum
+- Wimma Lab- Forum
 ++ Code Cerub
 +++ Tuotantotiimi
 ++++ Projektipäällikkö 
