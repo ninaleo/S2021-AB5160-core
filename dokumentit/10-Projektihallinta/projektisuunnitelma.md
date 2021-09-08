@@ -169,6 +169,11 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 @startmindmap
 + Code Cerub
 ++ 1
++++ 1.1
++++ 1.2
++++ 1.3
++++ 1.4
++++ 1.5
 ++ 2
 ++ 3
 @endmindmap
