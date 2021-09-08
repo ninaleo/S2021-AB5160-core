@@ -154,6 +154,9 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 +++ Tietoturvatestaus, Mauno Kara
 @endmindmap
 ```
+
+```plantuml
+@startmindmap
 + Tilaus, Wimma- lab Forum
 ++ Tuotantotiimi
 +++ Projektipäällikkö 
@@ -167,6 +170,8 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 +++ Testaaja
 +++ Käytettävyystestaaja
 --- Tilaajan edustaja2, Marko
+@endmindmap
+```
 
 
 
