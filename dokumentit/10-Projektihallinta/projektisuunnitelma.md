@@ -175,14 +175,12 @@ Code Cerub Projekti organisaatioon kuuluu sekä organisaation henkilökuntaa ja 
 ++++ Graafinen suunnnittelu, Purho Kekkonen
 ++++ Palvelumuotoilu ja vaatimusmäärittely, Maija Keskinen
 ++++ DevOps Asiantuntija, Reino Kasa
->+++ Valmis Toutos
 +++ Tuotantotiimi
 ++++ Graafinen suunnittelu, Purho Kekkonen
 ++++ Arkkitehti, pääohjelmoija, Carola Kettunen
 ++++ Ohjelmointi Frontend, Matti Urri
 ++++ Ohjelmointi Backend, Kauno Koivisto
 ++++ Palvelutuotanto, Heli Heikki
->+++ Valmis Tuotos
 -- Wimma Lab
 --- Tilaajan edustaja, Teemu
 +++ Laadunvalvonta organisaatio
