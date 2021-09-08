@@ -78,8 +78,7 @@ Code Cerub henkilöstö
 Harjoittelijat:
 Wilma Wimman
 Edit Files
-
-
+Ron Aldo
 
 
 ## 2.1 Organisaation esittely
