@@ -19,7 +19,7 @@ Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian ins
 ## 1.2 Tavoitteet ja tehtävät
 
 >(Kuvaa WIMMA Lab Forum- projektin taustaa, 
-tavoitteita, 
+Tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta sopiva versio asiakkaan nykyisiin ja tuntuvasti kasvaviin tarpeisiin niin että palvelun saavutettavuus vastaa EU:n asettamia vaatimuksia. Lisäksi palvelun on oltava saatavilla 24/7 ja SLA:ssa vaatimuksena on 99% käyttöaste, kyberturvallisuuteen panostetaan myös. Näistä lisää * [vaatimusmäärittelyissä](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
 tehtäviä, 
 vaihejakoa, 
 resursseja 
@@ -27,6 +27,7 @@ organisaatiota.
 Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.)
 
 * Tuottaa ratkaisu mihin ? 
+Wimma Labin kansainvälistymisen myötä kasvavaan käyttäjämäärään ja asiakas tyytyväisyyden parantamiseen (Forumin kautta Wimma Lab saa itselleen arvokasta tietoa käyttäjiltä ja käyttäjistä itsestään)
 
 >(Liitä lähteeksi vaatimusmäärittelyn sisältöä
 > Määritä työn keskeisin sisältö; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen.)
@@ -40,12 +41,11 @@ Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.)
 
 * projektiin liittyvät eri sidosryhmät?
 
-> Mitä henkilöitä, toimijoita tai ryhmiä liittyy projektiin projektin 
-> Tähän voi liittää Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä ?
+>() Mitä henkilöitä, toimijoita tai ryhmiä liittyy projektiin, Liitä Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä)
 
 * [Linkki tarvittavaan aineistoon vaatimusmäärittelyssä](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
 
-> Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
+>() Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä)
 
 
 ## 1.3 Rajaus ja liittymät
@@ -65,7 +65,7 @@ Osapuolten oikeudet on määritelty projektisopimuksessa
 
 ## 1.6 Projektiin liittyvät haasteet
 
-Projektille on määrätty tiukka kolmen kuukauden aikaraja ja ohjelmisto muutoksineen on oltava asiakkaan käytössä viimeistään 3kk projektin alkamisesta.
+Projektille on määrätty tiukka kolmen kuukauden aikaraja ja ohjelmisto muutoksineen on oltava asiakkaan käytössä viimeistään 3kk projektin alkamisesta. Omat rajansa asettaa asiakkaan ennalta valitsema Conduit- ohjelmisto, tämä tosin ei vaikuta projektin valmistumiseen ajallisesti.
 
 >() Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä.) 
 
@@ -73,9 +73,7 @@ Projektille on määrätty tiukka kolmen kuukauden aikaraja ja ohjelmisto muutok
 
 # 2. Projektiorganisaatio
 
-Code Cerub henkilöstö
-
-Harjoittelijat Wilma Wimman, Edit Files ja Ron Aldo.
+Organisaatiossa ovat Code Cerub henkilöstö, Harjoittelijat Wilma Wimman, Edit Files ja Ron Aldo. Asiakkaan edustajana Teemu K sekä WIMMA Lab ja Code Cerubin yhteys - ja monitoimihenkilönä Marko R.
 
 
 ## 2.1 Organisaation esittely
@@ -100,11 +98,6 @@ Harjoittelijat olivat estyneitä kuvaus päivänä ja siksi heitä ei tiimi kuva
 | Mauno Kara | Tietoturvatestaus | Code Cerub | [LinkedIn]() 
 | Carola "Cake" Kettunen | Arkkitehti / pääohjelmoija | Code Cerub | [LinkedIn]() 
 | Reino "Stackker" Kasa | DevvOps asiantuntija | Code Cerub | [LinkedIn]()
-
-
-
-
->LISÄÄ projektiryhmän ohjaajat sekä toimeksiantajan edustajat, Teemu K ja Marko R
 
 
 ```plantuml
