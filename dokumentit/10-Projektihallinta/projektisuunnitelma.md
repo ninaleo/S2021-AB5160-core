@@ -5,15 +5,17 @@
 
 ## 1.1 Tausta ja lähtökohdat
 
-Core Cerub on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. Toimeksianto on tuottaa palveluna asiakkaan toiveesta ns. Conduit- ohjelmisto pohjaista Foorumi- ratkaisua WIMMA- Lab- kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista vaatimusmäärittelydokumentissa.
+Core Cerub on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. Toimeksianto on tuottaa palveluna asiakkaan toiveesta ns. Conduit- ohjelmisto pohjaista Foorumi- ratkaisua WIMMA- Lab- kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista [vaatimusmäärittelydokumentissa](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
+
+
 
 
 Projektin tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta asiakkaan tarpeisiin sopiva versio joka integroituu visuaalisesti hyvin asiakkaan jo olemassa oleviin kotisivuihin sekä tiedon jakamisesssa tarvittavaan linkitykseen sivuilla jo olemassa olevaan materiaaliin.
 
+
 Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän 
 <TTOS2070> ‑opintojakson puitteissa. 
 
-_>(Opettaja: Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen, millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.)_
 
 ## 1.2 Tavoitteet ja tehtävät
 
