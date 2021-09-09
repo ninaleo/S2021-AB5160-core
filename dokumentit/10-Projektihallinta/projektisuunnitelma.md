@@ -36,17 +36,17 @@ _>(Liitä lähteeksi vaatimusmäärittelyn sisältöä
 
 
 * Mitä aiotaan tehdä? 
+Toimeksiannossa asiakkaalle luodaan WIMMA Lab- sivustolle lisätoimintona palvelu, Forum, jonka kautta käyttäjät voivat kommentoida asioita. Tätä varten pääsivulle luodaan yksi ylimääräinen button itse Forumille siirtymiseen ja Forumille itselleen erilaisia toimintoja käyttäjien keskustelun mahdollistamaan. Tarkoituksena myös tarjota WIMMA Labille oiva alusta saada tietoa käyttäjistä sekä heiltä nopeaa palautetta. 
+Code Cerub myös korjaa WIMMA Lab- palvelun saavutettavuuden EU:n asettamien vaatimuksien tasolle ja samalla nostetaan suorituskykyä varautuen tulevaisuuden kansainvälisen kanssakäynnin aktivoitumiseen. Käyttäjäkunnan arvioidaan kasvavan 5 vuoden aikajänteellä 100 000 henkilöön, alkuun Suomen tasolla käyttäjiä muutama tuhat.
+Normaalitilanteessa yhtäaikaisia käyttäjiä uskotaan olevan noin 10 mutta aktiivisessa tilanteessa 150 asiakasta kerrallaan.
+Lisääntyneet tietoturvauhat ja palvelun käytön kasvu huomioidaan toteutuksessa vastaamaan Kyberturvallisuus- keskuksen jakamia hyviä käytänteitä.
 
-_> (Mitä toimintaa aiotaan kehittää ja miten?>
-> Visio tulevasta tilasta
-> Mikä on tuotettava lopputulos (konkreettinen)?
-> Mitkä ovat osa- tai välitulokset?>)_
 
-* projektiin liittyvät sidosryhmät
+Projektiin liittyvät sidosryhmät
 Projektin toteuttaa Code Cerub, mukana eri työvaiheissa myös harjoittelijoita. 
 Johtoryhmään kuuluvat Nina/ Code Cerub, Arkkitehti Carola Kettunen/ Code Cerub, Asiakkaan edustajana tekninen arkkitehti Teemu K sekä Asiakkaan tuoteomistaja Marko Rintamäki 
 
-* [Linkki tarvittavaan aineistoon vaatimusmäärittelyssä](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
+[Tarvittavaan aineistoon vaatimusmäärittelyssä](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
 
 
 
