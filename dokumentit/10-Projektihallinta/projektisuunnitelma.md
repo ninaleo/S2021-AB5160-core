@@ -20,16 +20,16 @@ Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian ins
 
 ## 1.2 Tavoitteet ja tehtävät
 
-_>(Kuvaa WIMMA Lab Forum- projektin taustaa, _
 Tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta sopiva versio asiakkaan nykyisiin ja tuntuvasti kasvaviin tarpeisiin niin että palvelun saavutettavuus vastaa EU:n asettamia vaatimuksia. Lisäksi palvelun on oltava saatavilla 24/7 ja SLA:ssa vaatimuksena on 99% käyttöaste, kyberturvallisuuteen panostetaan myös. Näistä lisää * [vaatimusmäärittelyissä](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
+
 _tehtäviä, 
 vaihejakoa, 
 resursseja 
 organisaatiota. 
 Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.)_
 
-* Tuottaa ratkaisu mihin ? 
-Wimma Labin kansainvälistymisen myötä kasvavaan käyttäjämäärään ja asiakas tyytyväisyyden parantamiseen (Forumin kautta Wimma Lab saa itselleen arvokasta tietoa käyttäjiltä ja käyttäjistä itsestään)
+
+Code Cerub tuottaa ratkaisun Wimma Labin kansainvälistymisen myötä kasvavaan käyttäjämäärään ja asiakas tyytyväisyyden parantamiseen (Forumin kautta Wimma Lab saa itselleen arvokasta tietoa käyttäjiltä ja käyttäjistä itsestään).
 
 _>(Liitä lähteeksi vaatimusmäärittelyn sisältöä
 > Määritä työn keskeisin sisältö; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen.)_
@@ -42,29 +42,27 @@ _> (Mitä toimintaa aiotaan kehittää ja miten?>
 > Mikä on tuotettava lopputulos (konkreettinen)?
 > Mitkä ovat osa- tai välitulokset?>)_
 
-* projektiin liittyvät eri sidosryhmät?
-
-_>() Mitä henkilöitä, toimijoita tai ryhmiä liittyy projektiin, Liitä Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä)_
+* projektiin liittyvät sidosryhmät
+Projektin toteuttaa Code Cerub, mukana eri työvaiheissa myös harjoittelijoita. 
+Johtoryhmään kuuluvat Nina/ Code Cerub, Arkkitehti Carola Kettunen/ Code Cerub, Asiakkaan edustajana tekninen arkkitehti Teemu K sekä Asiakkaan tuoteomistaja Marko Rintamäki 
 
 * [Linkki tarvittavaan aineistoon vaatimusmäärittelyssä](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
 
-_>() Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä)_
 
 
 ## 1.3 Rajaus ja liittymät
 
->Code Cerub vastaa projektin valmistuttua palvelun tukemisesta ja siihen liittyvästä ylläpidosta. Ylläpito ei kuulu projektin tavoitteeseen. 
+Code Cerub vastaa projektin valmistuttua palvelun tukemisesta ja siihen liittyvästä ylläpidosta. Ylläpito ei kuulu projektin tavoitteeseen. 
 
-> Asiakas on ilmaissut käyttäjäkunnan kansainvälistymisen lähivuosina ja siksi käyttöliittymässä käytettävät kielitehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta joita ei tämän projektin puitteissa kuitenkaan tulla toteuttamaan. 
+Asiakas on ilmaissut käyttäjäkunnan kansainvälistymisen lähivuosina ja siksi käyttöliittymässä käytettävät kielitehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta joita ei tämän projektin puitteissa kuitenkaan tulla toteuttamaan. 
 
 ## 1.4 Oikeudet
 
-Osapuolten oikeudet on määritelty projektisopimuksessa
-* [Projektisopimus Osapuolten oikeudet 4.1, 4.2, 4.3](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/10-Projektihallinta/projektisopimus/)
+Osapuolten oikeudet on määritelty [Projektisopimuksessa, Osapuolten oikeudet 4.1, 4.2, 4.3](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/10-Projektihallinta/projektisopimus/)
 
 ## 1.5 Termit ja määritelmät
 
->Ei erikseen määriteltäviä termejä.
+Ei erikseen määriteltäviä termejä.
 
 ## 1.6 Projektiin liittyvät haasteet
 
@@ -76,13 +74,13 @@ _>Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tar
 
 # 2. Projektiorganisaatio
 
-Organisaatiossa ovat Code Cerub henkilöstö, Harjoittelijat Wilma Wimman, Edit Files ja Ron Aldo. Asiakkaan edustajana Teemu K sekä WIMMA Lab ja Code Cerubin yhteys - ja monitoimihenkilönä Marko R.
+Organisaatiossa ovat Code Cerub henkilöstö, Harjoittelijat Wilma Wimman, Edit Files ja Ron Aldo. Asiakkaan edustajana Teemu K sekä Asiakkaan tuoteomistaja Marko R.
 
 
 ## 2.1 Organisaation esittely
 
-Code Cerub WIMMA Lab Forum- Projekti organisaatioon kuuluu sekä Code Cerub organisaation henkilökunta ja harjoittelijoita.
-Harjoittelijat ovat jo suorittaneet opintonsa ja ovat nyt neljän kuukauden palkattomalla koeajalla jonka aikana he toimivat osana teknistä tiimiä monipuolisissa ICT- alan tehtävissä. Koeajan jälkeen harjoittelijat siirtyvät vuoden mittaiseen palkalliseen harjoittelujaksoon vuoden 2022 loppuun. Töitä koeajalla tehdään pääsääntöisesti toimistoaikoina, mutta toisinaan myös iltaisin ja viikonloppuisin.
+Code Cerub WIMMA Lab Forum- Projekti organisaatioon kuuluu Code Cerub organisaation henkilökunta ja harjoittelijat Wilma Wimman, Edit Files sekä Ron Aldo.
+Code Cerub- harjoittelijat ovat jo suorittaneet opintonsa ja ovat nyt neljän kuukauden palkattomalla koeajalla jonka aikana he toimivat osana teknistä tiimiä monipuolisissa ICT- alan tehtävissä. Koeajan jälkeen harjoittelijat siirtyvät vuoden mittaiseen palkalliseen harjoittelujaksoon vuoden 2022 loppuun. Töitä koeajalla tehdään pääsääntöisesti toimistoaikoina, mutta toisinaan myös iltaisin ja viikonloppuisin.
 Harjoittelijat olivat estyneitä kuvaus päivänä ja siksi heitä ei tiimi kuvassa ole.
 
 ## Code Cerub tiimimme
@@ -120,12 +118,12 @@ Harjoittelijat olivat estyneitä kuvaus päivänä ja siksi heitä ei tiimi kuva
 ++++ Kauno Koivisto
 ++++ Heli Heikki
 -- Wimma Lab
---- Tilaajan edustaja, Teemu K
+--- Asiakkaan edustaja, Teemu K
 +++ Laadunvalvonta organisaatio
 ++++ Klaus Kähö
 ++++ Mauno Kara
 ++++ Käytettävyystestajina harjoittelijat
---- Tilaajan edustaja2, Marko R
+--- Asiakkaan tuoteomistaja, Marko R
 @endmindmap
 ```
 
