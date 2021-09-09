@@ -68,7 +68,7 @@ Osapuolten oikeudet on määritelty projektisopimuksessa
 
 Projektille on määrätty tiukka kolmen kuukauden aikaraja ja ohjelmisto muutoksineen on oltava asiakkaan käytössä viimeistään 3kk projektin alkamisesta. Omat rajansa asettaa asiakkaan ennalta valitsema Conduit- ohjelmisto, tämä tosin ei vaikuta projektin valmistumiseen ajallisesti.
 
-_>() Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä.) _
+_>Tarkastellaan projektin tavoitteita ja laaditaan tueksi SWOT-kuvaus, jossa tarkastellaan koko projektia ja sen toimintaympäristöä._
 
 ![](../assets/SWOT-example.jpg)
 
