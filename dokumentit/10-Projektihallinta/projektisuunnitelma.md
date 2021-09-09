@@ -105,22 +105,22 @@ Harjoittelijat olivat estyneitä kuvaus päivänä ja siksi heitä ei tiimi kuva
 - Wimma Lab- Forum
 ++ Code Cerub
 +++ Suunnittelutiimi
-++++ Projektipäällikkö, Hallinta ja Ohjaus, Nina
-++++ Vanhempi Projektipäällikkö, Arnold Suksi
-++++ Graafinen suunnnittelu, Purho Kekkonen
-++++ Palvelumuotoilu ja vaatimusmäärittely, Maija Keskinen
-++++ DevOps Asiantuntija, Reino Kasa
+++++ Nina
+++++ Arnold Suksi
+++++ Purho Kekkonen
+++++ Maija Keskinen
+++++ Reino Kasa
 +++ Tuotantotiimi
-++++ Graafinen suunnittelu, Purho Kekkonen
-++++ Arkkitehti, pääohjelmoija, Carola Kettunen
-++++ Ohjelmointi Frontend, Matti Urri
-++++ Ohjelmointi Backend, Kauno Koivisto
-++++ Palvelutuotanto, Heli Heikki
+++++ Purho Kekkonen
+++++ Carola Kettunen
+++++ Matti Urri
+++++ Kauno Koivisto
+++++ Heli Heikki
 -- Wimma Lab
 --- Tilaajan edustaja, Teemu K
 +++ Laadunvalvonta organisaatio
-++++ Testipäällikkö, Klaus Kähö
-++++ Tietoturvatestaus, Mauno Kara
+++++ Klaus Kähö
+++++ Mauno Kara
 ++++ Käytettävyystestajina harjoittelijat
 --- Tilaajan edustaja2, Marko R
 @endmindmap
