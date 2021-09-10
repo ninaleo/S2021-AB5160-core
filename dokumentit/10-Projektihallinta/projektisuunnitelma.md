@@ -122,7 +122,7 @@ Harjoittelijat olivat estyneitä kuvaus päivänä ja siksi heitä ei tiimi kuva
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
-__>(**kohdan 2 osioihin EI TEHDÄ TÄSSÄ VAIHEESSAN MITÄÄN!)__**Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
+__>(**kohdan 2 loppuihin osioihin EI TEHDÄ TÄSSÄ VAIHEESSAN MITÄÄN!)__**Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
 
 **Projektiryhmä**
 
@@ -241,7 +241,7 @@ _Kustannusarvion esittäminen taulukon avulla: _
 
 
 # 4. Laadunvarmistus
-
+__>(**kohdan 4 osioihin EI TEHDÄ TÄSSÄ VAIHEESSAN MITÄÄN! Poikkeusena kohdat )__
 _>Projektissa sovellettavat työmenetelmät, välineet, ohjeet ja standardit
 
 >Tässä kappaleessa luetellaan kaikki käytettävät menetelmät, työkalut ja standardit versionumeroineen. Usein toimeksiantajalla on jokin menetelmä, jota projektiryhmän olisi syytä noudattaa. Toimeksiantaja voi määrittää myös noudatettavat dokumenttien ulkoasustandardit. Muussa tapauksessa projektiryhmä räätälöi IT-instituutin tarjoamista mallipohjista itselleen soveltuvan ja toimeksiantajan hyväksymän mallin.
