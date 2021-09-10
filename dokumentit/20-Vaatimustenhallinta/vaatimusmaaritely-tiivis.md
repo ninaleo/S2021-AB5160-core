@@ -87,32 +87,6 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 ![](../assets/work-to-do.png)
 
-```plantuml
-Step1: Palvelun kuvaus mainosnäytöllä 
-Step2: Asiakas astuu ovesta sisään 
-Step3: Palveluun tutustuminen sisätiloissa
-Step4: Asiakas kysyy myyjää
-Step5: Myyjä esittelee tuotteen
-Step6: Asiakas pohdiskelee asiaa
-Step7: Asiakas tekee sopimuksen
-Step8: Asiakas ei ota tuotettava
-Step9: Myyjä suosittelee lisäpalveluita
-Step10: Jne
-Step11: Asiakas poistuu paikalta
-
-[*] --> Step1
-Step1 --> Step2
-Step2 --> Step3
-Step3 --> Step6
-Step3 --> Step4
-Step4 --> Step5
-Step5 --> Step6
-Step6 --> Step7
-Step6 --> Step8
-Step8 --> Step11
-Step7 --> Step9
-Step9 --> Step10
-```
 
 ```plantuml
 Step1: Käyttäjä WIMMA Lab- etusivulla 
@@ -123,7 +97,7 @@ Step5: Käyttäjä painaa "OK"- painiketta
 Step6: Käyttäjä WIMMA Lab- Forumilla
 Step7: Käyttäjä ei ole rekisteröitynyt palveluun ja valitsee "Create account"
 Step8: Käyttäjä luo käyttäjätilin
-Step9: Käyttäjälle lähtee vahvistusviesi sähköpostiin
+Step9: Käyttäjälle lähtee vahvistusviesti sähköpostiin
 Step10: Käyttäjä vahvistaa rekisteröitymisen ja siirtyy kirjautuneena palveluun
 
 
