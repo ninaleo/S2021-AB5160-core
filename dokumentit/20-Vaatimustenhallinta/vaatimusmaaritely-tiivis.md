@@ -133,7 +133,7 @@ Step2 --> Step3
 Step3 --> Step6
 Step3 --> Step4
 Step4 --> Step5
-Step5 --> Step6
+Step5 --> Step7
 Step6 --> Step7
 Step6 --> Step8 
 Step8 --> Step11
