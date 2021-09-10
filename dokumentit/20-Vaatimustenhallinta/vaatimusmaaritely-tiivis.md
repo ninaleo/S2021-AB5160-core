@@ -48,9 +48,7 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 ++ WIMMA Lab
 +++ Teemu K 
 +++ Marko R
-++ Kilpaileva valmistaja
-+++ Kilpailijan kissa
-+++ Kilpailijan koira
+++ Pääomasijoittaja
 -- Code Cerub
 --- Varasto
 --- Noutopiste 1.
