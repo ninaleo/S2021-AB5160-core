@@ -44,14 +44,14 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 ```plantuml
 @startmindmap
-+ Projektin tuotos
-++ Asiakas
-+++ Asiakkaan kaveri
-+++ Asiakkaan sukulainen
++ WIMMA Lab-Forum
+++ WIMMA Lab
++++ Teemu K 
++++ Marko R
 ++ Kilpaileva valmistaja
 +++ Kilpailijan kissa
 +++ Kilpailijan koira
--- Kauppias
+-- Code Cerub
 --- Varasto
 --- Noutopiste 1.
 -- Haasteelliset asiakkaat
