@@ -116,12 +116,12 @@ Step9 --> Step10
 
 ```plantuml
 Step1: Käyttäjä WIMMA Lab- etusivulla 
-Step2: Käyttäjä valitsee Forum- välilehden  
-Step3: Käyttäjä valitsee Sign-in 
-Step4: Käyttäjä syöttää Username ja Password
-Step5: Käyttäjä painaa OK- painiketta
+Step2: Käyttäjä valitsee "Forum" välilehden  
+Step3: Käyttäjä on reksteröitynyt ja valitsee "Sign-in" 
+Step4: Käyttäjä syöttää "Username" ja "Password"
+Step5: Käyttäjä painaa "OK"- painiketta
 Step6: Käyttäjä ei ole rekisteröitynyt palveluun
-Step7: Käyttäjä valitsee Create account
+Step7: Käyttäjä valitsee "Create account"
 Step8: Käyttäjä luo käyttäjätilin
 Step9: Käyttäjälle lähtee vahvistusviesti sähköpostiin
 Step10: Käyttäjä vahvstaa rekisteröitymisen ja siirtyy kirjautuneena palveluun
@@ -130,14 +130,12 @@ Step10: Käyttäjä vahvstaa rekisteröitymisen ja siirtyy kirjautuneena palvelu
 [*] --> Step1
 Step1 --> Step2
 Step2 --> Step3
-Step3 --> Step6
+Step2 --> Step7
 Step3 --> Step4
+Step7 --> Step8
 Step4 --> Step5
-Step5 --> Step7
-Step6 --> Step7
-Step6 --> Step8 
-Step8 --> Step11
-Step7 --> Step9
+Step8 --> Step9
+Step5 --> Step10 
 Step9 --> Step10
 ```
 
