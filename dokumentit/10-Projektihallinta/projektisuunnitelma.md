@@ -1,13 +1,10 @@
 # Projektisuunnitelma
 ![](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/raw/master/assets/ProjectClouds1.jpg?inline=false)
-## 1. Toimeksianto 
 
-
-## 1.1 Tausta ja lähtökohdat
+## 1.1 Toimeksianto
 
 Core Cerub on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. Toimeksianto on tuottaa palveluna asiakkaan toiveesta ns. Conduit- ohjelmisto pohjaista Foorumi- ratkaisua [WIMMA Lab-](https://www.wimmalab.org/)
 kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista [vaatimusmäärittelydokumentissa](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
-
 
 
 
