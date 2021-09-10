@@ -82,12 +82,6 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 **asiakaspolku PlantUML-esimerkki tilakoneena**
 
-> Kokeillaan luonnostella asiakaspolkua PlantUML-työkalun avulla. Kannattaa kokeilla ehdottomasti myös muita tapoja! 
-> Sovella esim. PlantUML SDL/Swimlane kuvausta?
-
-![](../assets/work-to-do.png)
-
-
 ```plantuml
 Step1: Käyttäjä WIMMA Lab- etusivulla 
 Step2: Käyttäjä valitsee "Forum" välilehden  
@@ -99,7 +93,7 @@ Step7: Käyttäjä ei ole rekisteröitynyt palveluun ja valitsee "Create account
 Step8: Käyttäjä luo käyttäjätilin
 Step9: Käyttäjälle lähtee vahvistusviesti sähköpostiin
 Step10: Käyttäjä vahvistaa rekisteröitymisen ja siirtyy kirjautuneena palveluun
-
+Step11: Käyttäjä lukee/julkaisee/kommentoi Forumilla
 
 [*] --> Step1
 Step1 --> Step2
@@ -112,6 +106,7 @@ Step8 --> Step9
 Step5 --> Step6 
 Step9 --> Step10
 Step10 --> Step6
+Step6 --> Step11
 ```
 
 ### Käyttöliittymänäkymä/mockup 
