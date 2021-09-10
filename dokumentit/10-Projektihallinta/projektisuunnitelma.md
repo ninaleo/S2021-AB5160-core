@@ -241,8 +241,8 @@ _Kustannusarvion esittäminen taulukon avulla: _
 
 
 # 4. Laadunvarmistus
-__>(**kohdan 4 osioihin EI TEHDÄ TÄSSÄ VAIHEESSAN MITÄÄN! Poikkeusena kohdat 4.4 ja 4.6 korjataan)__
-_>Projektissa sovellettavat työmenetelmät, välineet, ohjeet ja standardit
+__(kohdan 4 osioihin EI TEHDÄ TÄSSÄ VAIHEESSAN MITÄÄN! Poikkeusena kohdat 4.4 ja 4.6 korjataan)__
+_Projektissa sovellettavat työmenetelmät, välineet, ohjeet ja standardit
 
 >Tässä kappaleessa luetellaan kaikki käytettävät menetelmät, työkalut ja standardit versionumeroineen. Usein toimeksiantajalla on jokin menetelmä, jota projektiryhmän olisi syytä noudattaa. Toimeksiantaja voi määrittää myös noudatettavat dokumenttien ulkoasustandardit. Muussa tapauksessa projektiryhmä räätälöi IT-instituutin tarjoamista mallipohjista itselleen soveltuvan ja toimeksiantajan hyväksymän mallin.
 
