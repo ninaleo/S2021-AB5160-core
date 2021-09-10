@@ -120,11 +120,11 @@ Step2: Käyttäjä valitsee "Forum" välilehden
 Step3: Käyttäjä on reksteröitynyt ja valitsee "Sign-in" 
 Step4: Käyttäjä syöttää "Username" ja "Password"
 Step5: Käyttäjä painaa "OK"- painiketta
-Step6: Käyttäjä ei ole rekisteröitynyt palveluun ja valitsee "Create account"
-Step7: Käyttäjä luo käyttäjätilin
-Step8: Käyttäjälle lähtee vahvistusviesi sähköpostiin
-Step9: Käyttäjä vahvistaa rekisteröitymisen ja siirtyy kirjautuneena palveluun
-Step10: Käyttäjä WIMMA Lab- Forumilla
+Step6: Käyttäjä WIMMA Lab- Forumilla
+Step7: Käyttäjä ei ole rekisteröitynyt palveluun ja valitsee "Create account"
+Step8: Käyttäjä luo käyttäjätilin
+Step9: Käyttäjälle lähtee vahvistusviesi sähköpostiin
+Step10: Käyttäjä vahvistaa rekisteröitymisen ja siirtyy kirjautuneena palveluun
 
 
 [*] --> Step1
