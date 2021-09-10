@@ -337,12 +337,10 @@ _>”Projektiryhmien dokumentaatiosta jäävä osa tallennetaan X-järjestelmä�
 _>On tärkeää määritellä milloin, mihin tai miten projekti päättyy. Projektin päätös voi olla tietty päivämäärä, tietty tuotteen valmiusaste, tietty työtuntimäärä, tietty kulutettu rahasumma, kun asiakas ottaa tuotteen käyttöön, takuuaika on umpeutunut tai kun asiakas hyväksyy tuotteen._
 
 Projekti päättyy 22.11.2021, jolloin projektisopimuksen voimassaoloaika päättyy.
-
-## 6.4 Lopetustilaisuus
+## 6.4 Lopetusilaisuus 
 
 >Yleensä projektit päätetään yhteiseen päätösseminaariin. Tähän kirjataan osallistujat ja ajankohta. 
-
-* Saunailta :)?
+* Saunailta :)? oltava ISSUE ja henkilöt kutsuttu sinne!!
 
 
 ## 6.5 Projektin loppuraportti
