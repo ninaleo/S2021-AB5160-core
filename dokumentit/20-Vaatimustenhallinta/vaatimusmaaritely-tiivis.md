@@ -46,8 +46,8 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 ++ WIMMA Lab
 +++ Teemu K 
 +++ Marko R
-++ Pääomasijoittaja
--- Code Cerub
+++ Code Cerub
+-- Käyttäjä, OpiskelijaCode Cerub
 --- Varasto
 --- Noutopiste 1.
 -- Haasteelliset asiakkaat
