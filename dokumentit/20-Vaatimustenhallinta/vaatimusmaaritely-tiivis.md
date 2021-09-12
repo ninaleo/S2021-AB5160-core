@@ -47,10 +47,10 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 +++ Teemu K 
 +++ Marko R
 ++ Code Cerub
--- Käyttäjä, OpiskelijaCode Cerub
+-- Käyttäjä, Opiskelija
 --- Varasto
 --- Noutopiste 1.
--- Haasteelliset asiakkaat
+-- Käyttäjä, Yritys
 --- Kiusantekijä
 --- Satunnainen säätäjä
 @endmindmap
