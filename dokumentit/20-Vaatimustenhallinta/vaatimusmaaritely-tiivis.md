@@ -129,16 +129,24 @@ salt
 > Tässä kohtaa kannattaa tarkistaa mitä olivat asiakkaan esittämät toiveet palvelusta? Niistä voisi löytyä ehkä joitain tässä vaiheessa?
 
 
-- Oleelliset toiminnot (Esimerkkejä) 
-    - Asiakas_A voi lähettää postia toiselle henkilölle
-    - Asiakas_A voi saada tietoa aiemmin tehdyistä valinnoista
-    - Ylläpito-henkilö voi poistaa laskun Asiakaalta
-    - Ylläpito-henkilö voi luoda uuden laskun Asiakkaalle 
-    - Asiakas_A voi soittaa tuntemalleen kaverille
-    - Asiakas_B voi jakaa kuvan
-    - Asiakas_B kykenee tallettamaan tilanteen
-    - Asiakas_B voi liittää Asiakkaan_A ryhmään uuden henkilön
-    - etc..
+WIMMA Lab Forumin oleelliset toiminnot (Esimerkkejä) 
+    - Asiakas voi rekisteröityä 
+    - Rekisteräityessä vahvistuslinkki sähköpostiin
+    - Säännöt
+    - Käyttäjä sitoutuu noudattamaan Forumin sääntöjä
+    - Yhdistää opiskelija- käyttäjät ja yritys- käyttäjät
+    - Käyttäjä voi saada tietoa aiemmin tehdyistä kirjoituksista
+    - Käyttäjä voi keskustella toisten käyttäjien kanssa
+    - Käyttäjä voi kommentoida ja lukea kirjoituksia 
+    - Käyttäjä voi käyttää emojeita ilmaisuun
+    - Moderaattori voi poistaa asiattoman viestin/ kommentin
+    - Moderaattori voi poistaa asiattoman viestiketjun
+    - Moderaattori voi poistaa asiattoman käyttäjän tilapäisesti tai kokonaan
+    - Moderaattori voi muokata viestejä ja niiden otsikoita.
+    - Moderaattorilla ja Ylläpidolla on viimekädessä päätösvalta Forumilla
+    - Tarjoaa tärkeää tietoa WIMMA Labille käyttäjistä
+    - Palaute
+    
 
 
 
