@@ -132,11 +132,8 @@ salt
 WIMMA Lab Forumin oleelliset toiminnot (Esimerkkejä) 
     
     - Asiakas voi rekisteröityä 
-    
     - Rekisteräityessä vahvistuslinkki sähköpostiin
-    
     - Säännöt
-    
     - Käyttäjä sitoutuu noudattamaan Forumin sääntöjä
     - Yhdistää opiskelija- käyttäjät ja yritys- käyttäjät
     - Käyttäjä voi saada tietoa aiemmin tehdyistä kirjoituksista
