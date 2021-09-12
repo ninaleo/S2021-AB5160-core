@@ -121,15 +121,6 @@ salt
 
 
 ## Tärkeimmät toiminnallisuudet/ominaisuudet
-
-![](../assets/work-to-do.png)
-
-> Hahmotellaan tähän kohtaan ominaisuudet pelkästään ranskalaisilla viivoilla ja MindMap-kuvauksen avulla. Eli mitä tavoitellulla ratkaisulla/palvelulla mielestäsi on mahdollista tehdä? 
-> Mieti tilannetta, kun joku kysyy sinulta mitä palvelulla voi tehdä? Saat aikaa vastata 15 sekuntia. Mitä vastaat ja mitkä toiminnot nostatat esiin ehdottomasti valtteina verrattuna muihin vastaaviin ratkaisuihin/palveluihin?
-> Tässä kohtaa kannattaa tarkistaa mitä olivat asiakkaan esittämät toiveet palvelusta? Niistä voisi löytyä ehkä joitain tässä vaiheessa?
-
-
-WIMMA Lab Forumin oleelliset toiminnot (Esimerkkejä) 
     
     - Asiakas voi rekisteröityä 
     - Rekisteräityessä vahvistuslinkki sähköpostiin
@@ -153,19 +144,19 @@ WIMMA Lab Forumin oleelliset toiminnot (Esimerkkejä)
 
 ```plantuml
 @startmindmap
-+ Tuote, eli tuotettava ratkaisu
-++ Toiminnallisuus A
-+++ Toiminto 1
-+++ Toiminto 2
-++ Toiminnallisuus B
-+++ Toiminto 3
-+++ Toiminto 4
--- Toiminnallisus C - Viestin suojaus
---- Toiminto 5 - Suojauksen valinta
---- Toiminto 6 - Suojauksen vaihto
--- Toiminnallisuus D - Viestintä
---- Toiminto 7 - Viestin lähetys
---- Toiminto 8 - Viestin kuittaus
++ WIMMA Lab Forum
+++ Rekisteröityminen
++++ Kerätään tietoa käyttäjistä
++++ Oikeus Forumin monipuoliseen käyttöön
+++ Ylläpito/ Moderaattori
++++ Viimeinen päätösvalta
++++ Käyttäjä mukavuus (ei trollausta jne)
+-- Yhdistää
+--- Opiskija- käyttäjät
+--- Yritys- käyttäjät
+-- Viestintä
+--- Saadaan nopeaa palautetta
+--- Elävöittää sivustoa
 @endmindmap
 ```
 
