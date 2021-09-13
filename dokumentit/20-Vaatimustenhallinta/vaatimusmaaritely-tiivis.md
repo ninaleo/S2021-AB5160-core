@@ -26,9 +26,9 @@ Lisääntyneet tietoturvauhat ja palvelun käytön kasvu huomioidaan toteutukses
 
 ## Kohderyhmä
 
-- Opettajat 
 - Opiskelijat 
 - Yritykset 
+- Opettajat 
 - WIMMA Lab
 - Kansainväliset käyttäjät
 WIMMA Lab tarjoaa jo ennestään kanavan kohderhmien verkostoitumiselle. Forumin myötä mm. saavutettavuus paranee huimasti 
