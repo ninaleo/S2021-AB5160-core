@@ -26,8 +26,10 @@ Lisääntyneet tietoturvauhat ja palvelun käytön kasvu huomioidaan toteutukses
 
 ## Kohderyhmä
 
-_Millaisia ovat sen käyttäjät? Mikä tuotoksen tavoite on eri sidosryhmien kannalta? 
-Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät_
+WIMMA Lab käyttäjät, koostuu opiskelijoista että eri yrityksistä joile WIMMA Lab tarjoaa jo ennestään kanavaa verkostoitumiselle. Forumin myätä mm saavutettavuus paranee huimasti.
+Lisäksi kansainväliset käyttäjät sekä WIMMA Lab itse
+__Millaisia ovat sen käyttäjät? Mikä tuotoksen tavoite on eri sidosryhmien kannalta? 
+Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät__
 
 ## Sidosryhmäkartta
 
