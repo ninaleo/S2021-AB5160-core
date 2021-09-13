@@ -122,6 +122,10 @@ salt
 
 ## Tärkeimmät toiminnallisuudet/ominaisuudet
     
+    - Saavutettavuus
+    - Tietoturva
+    - Suorituskyky
+    - Käytettävyys
     - Asiakas voi rekisteröityä 
     - Rekisteräityessä vahvistuslinkki sähköpostiin
     - Säännöt
@@ -139,7 +143,6 @@ salt
     - Tarjoaa tärkeää tietoa WIMMA Labille käyttäjistä
     - Palaute
     
-
 
 
 ```plantuml
@@ -198,13 +201,16 @@ Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaat
 
 # Laadulliset eli ei-toiminnalliset vaatimukset
 
->Mitä olivat ei-toiminnalliset vaatimukset? Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon.
-[Ei-toiminnalliset vaatimukset](https://en.wikipedia.org/wiki/Non-functional_requirement) sisältää laajan joukko eri näkökulmia sähköiseen palveluun liittyen. Tärkeimmät kirjoittajan 
-näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus 
+[Käytettävyys (ISO 9241-11) ](https://fi.wikipedia.org/wiki/K%C3%A4ytett%C3%A4vyys)
 
-* Suorituskyky
-* Tietoturva
-* Saavutettavuus
+
+_ei-toiminnalliset vaatimukset? Esitä eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon.
+[Ei-toiminnalliset vaatimukset](https://en.wikipedia.org/wiki/Non-functional_requirement) sisältää laajan joukko eri näkökulmia sähköiseen palveluun liittyen. Tärkeimmät kirjoittajan 
+näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus _
+
+* Suorituskyky [Suorituskyky ](https://valkohattu.fi/artikkeli/verkkosivun-suorituskyky)
+* Tietoturva [Tietoturva ](https://vm.fi/documents/10623/360844/K%C3%A4sikirjan+liite+Tietoturvavaatimukset/56b3fb8f-bb54-4a65-a37f-79f6985d868c)
+* Saavutettavuus [Saavutettavuus direktiivi ](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/)
 
 ## Suorituskykyyn liittyvät vaatimukset
 
