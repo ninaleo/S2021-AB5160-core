@@ -166,17 +166,13 @@ salt
 
 ## Alustavat käyttäjätarinat
 
-![](../assets/work-to-do.png)
-
-> Ketterän kehityksen myötä on yleistynyt tapa kuvata asiakkaan tarpeita ns. käyttötarinoiden (User Story) muodossa. Kirjataan tähän ennalta tunnistetut käyttötarinat. Tutustu aiheeseen [User Story](https://en.wikipedia.org/wiki/User_story)
-
 | ID | Tyyppi | Kuvaus | Linkki |
-|:-:|:-:|:-:|:-:|
-| US-001 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #1 |
-| US-002 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | #2 |
-| US-003 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #3 |
-| US-004 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #4 |
-| US-005 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #5 |
+|:-:|:-:|:-:|:-:|<Roolina> voin <valmius> niin, että <saada etuutta>
+| US-001 | Käyttäjätarina | Asiakkaana haluan, että palvelu toimii ripeästi, jotta käyttäjät eivät hylkää sivustoa | #1 |
+| US-002 | Käyttäjätarina | Asiakkaana haluan, että voin kerätä tietoa käyttäjistä, jotta voin hyödyntää saamaani infoa palvelun kehityksessä | #2 |
+| US-003 | Käyttäjätarina | Asiakkaana haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #3 |
+| US-004 | Käyttäjätarina | Asiakkaana haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #4 |
+| US-005 | Käyttäjätarina | Asiakkaana haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #5 |
 
 ## Yleiset tekniset vaatimukset
 
