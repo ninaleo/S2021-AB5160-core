@@ -218,15 +218,16 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus _
 
 ## Suorituskykyyn liittyvät vaatimukset
 
-![](../assets/work-to-do.png)
-
->Millaisia vaatimuksia palveluun kohdistuu suorituskyvyn näkökulmasta?
-
 | ID | Tyyppi | Kuvaus |
 |:-:|:-:|:-:|
-| PERFREQ-0000 | Suorituskyky | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) |					
-| PERFREQ-0001 | Suorituskyky | Palvelun maksimi käyttäjä määrä on ? |
-| PERFREQ-0002 | Suorituskyky | ... ||
+| PERFREQ-0000 | Suorituskyky | Kirjautuminen on mahdollista yhtäaikaa 150 käyttäjällä (150 request/s) |					
+| PERFREQ-0001 | Suorituskyky | Palvelun maksimi käyttäjä määrä on 100 000 |
+| PERFREQ-0002 | Suorituskyky | Verkkosivu latautuu nopeasti myös mobiilissa* |
+| PERFREQ-0003 | Suorituskyky | FID **|
+
+*Googlen tutkimuksen linkki avautuu uuteen ikkunaan mukaan 53% mobiililaitteiden käyttäjistä poistuu sivuilta, joiden lataaminen kestää yli 3 sekuntia.
+** (First Input Delay) mittaa ajan, joka kuluu käyttäjän suorittamasta toimenpiteestä sen varsinaiseen toteuttamiseen. Esimerkiksi kun käyttäjä klikkaa heti sivuille tullessaan sivuilta löytyvää sisäistä linkkiä, taustalla toimiva JavaScript-koodi saattaa aiheuttaa viivettä toimenpiteelle, koska selain on vielä käsittelemässä aiempia tietoja.
+
 
 ## Tietoturvan vaatimukset
 
