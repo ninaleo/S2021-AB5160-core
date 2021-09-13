@@ -167,7 +167,7 @@ salt
 ## Alustavat käyttäjätarinat
 
 | ID | Tyyppi | Kuvaus | Linkki |
-|:-:|:-:|:-:|:-:|<Roolina> voin <valmius> niin, että <saada etuutta>
+|:-:|:-:|:-:|:-:|
 | US-001 | Käyttäjätarina | Asiakkaana haluan, että palvelu toimii ripeästi, jotta käyttäjät eivät hylkää sivustoa | #1 |
 | US-002 | Käyttäjätarina | Asiakkaana haluan, että voin kerätä tietoa käyttäjistä, jotta voin hyödyntää saamaani infoa palvelun kehityksessä | #2 |
 | US-003 | Käyttäjätarina | Asiakkaana haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #3 |
