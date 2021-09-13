@@ -225,7 +225,7 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus _
 | PERFREQ-0002 | Suorituskyky | Verkkosivu latautuu nopeasti myös mobiilissa* |
 | PERFREQ-0003 | Suorituskyky | FID **|
 
-*Googlen tutkimuksen linkki avautuu uuteen ikkunaan mukaan 53% mobiililaitteiden käyttäjistä poistuu sivuilta, joiden lataaminen kestää yli 3 sekuntia.
+* Googlen tutkimuksen linkki avautuu uuteen ikkunaan mukaan 53% mobiililaitteiden käyttäjistä poistuu sivuilta, joiden lataaminen kestää yli 3 sekuntia.
 ** (First Input Delay) mittaa ajan, joka kuluu käyttäjän suorittamasta toimenpiteestä sen varsinaiseen toteuttamiseen. Esimerkiksi kun käyttäjä klikkaa heti sivuille tullessaan sivuilta löytyvää sisäistä linkkiä, taustalla toimiva JavaScript-koodi saattaa aiheuttaa viivettä toimenpiteelle, koska selain on vielä käsittelemässä aiempia tietoja.
 
 
