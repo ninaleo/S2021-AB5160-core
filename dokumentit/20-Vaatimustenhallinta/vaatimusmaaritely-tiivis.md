@@ -26,8 +26,13 @@ Lisääntyneet tietoturvauhat ja palvelun käytön kasvu huomioidaan toteutukses
 
 ## Kohderyhmä
 
-WIMMA Lab käyttäjät, koostuu opiskelijoista että eri yrityksistä joile WIMMA Lab tarjoaa jo ennestään kanavaa verkostoitumiselle. Forumin myätä mm saavutettavuus paranee huimasti.
-Lisäksi kansainväliset käyttäjät sekä WIMMA Lab itse
+- Opettajat 
+- Opiskelijat 
+- Yritykset 
+- WIMMA Lab
+- Kansainväliset käyttäjät
+WIMMA Lab tarjoaa jo ennestään kanavan kohderhmien verkostoitumiselle. Forumin myötä mm. saavutettavuus paranee huimasti 
+
 __Millaisia ovat sen käyttäjät? Mikä tuotoksen tavoite on eri sidosryhmien kannalta? 
 Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät__
 
@@ -46,8 +51,6 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 @startmindmap
 + WIMMA Lab-Forum
 ++ WIMMA Lab
-+++ Teemu K 
-+++ Marko R
 ++ Code Cerub
 -- Käyttäjä, Opiskelija
 --- Varasto
@@ -66,10 +69,10 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 | ID | Tyyppi | Nimi | Piirteet |  Motivaatio |
 |:-:|:-:|:-:|:-:|:-:|
-| SR-001 | Sidosryhmä/Profiili | Asiakas A | Nuori 16-22V | Selkeä tarve palvelulle ja tarvitsee palvelua usein |
-| SR-002 | Sidosryhmä/Profiili | [Asiakas B - Profiili 1 ](pohjat/pohja-profiilikuvaus.md) | "Aikuinen" 22-45V | Tarve satunnainen, mutta yleisin asiakas  |
-| SR-003 | Sidosryhmä/Profiili | Rahoittaja | Pääomasijoittaja | Palvelun tuottamat tuotot |
-| SR-004 | Sidosryhmä/Profiili | Verottaja | Nuori karhu | Kerätä verotuloja  |
+| SR-001 | Sidosryhmä/Profiili | Käyttäjä, Opiskelija | "Aikuinen" 18-99V | Tarve palvelulle, oppii tiimityöskentelystä ja projektin hallinnasta |
+| SR-002 | Sidosryhmä/Profiili | Käyttäjä, Yritys ](pohjat/pohja-profiilikuvaus.md) | "Aikuinen" 18-99V | Tarve satunnainen, löytää työntekijä tai työharjoittelija  |
+| SR-003 | Sidosryhmä/Profiili | WIMMA Lab | Pääomasijoittaja | Palvelun tuottamat tuotot |
+| SR-004 | Sidosryhmä/Profiili | Käyttäjä, Opettaja | "Aikuinen" 25-99V |   |
 
 ## Palveluun liittyviä asiakaspolkuja
 
