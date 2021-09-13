@@ -63,16 +63,12 @@ ko. sidosryhmän/edustajan palveluun liittyvä motivaatio. Kuvauksen voi laatia 
 
 **Tarkennettut sidosryhmäprofiilit** 
 
-![](../assets/work-to-do.png)
-
-> Kuvataan tarkemmin sidosryhmäkartasssa esiteltyhä sidosryhmiä/profiileja. Tarvittaessa kuvataan tarkemmin valitut sidosryhmät ja tarkennetaan niitä, jos toimeksianto sitä edellyttää. Tähän sovelletaan alisivuja, joita tarpeen mukaan kopioidaan "pohjat"-kansiosta Katso esim. **Asiakas B**
-
 | ID | Tyyppi | Nimi | Piirteet |  Motivaatio |
 |:-:|:-:|:-:|:-:|:-:|
 | SR-001 | Sidosryhmä/Profiili | Käyttäjä, Opiskelija | "Aikuinen" 18-99V | Tarve palvelulle, oppii tiimityöskentelystä ja projektin hallinnasta |
 | SR-002 | Sidosryhmä/Profiili | Käyttäjä, Yritys ](pohjat/pohja-profiilikuvaus.md) | "Aikuinen" 18-99V | Tarve satunnainen, löytää työntekijä tai työharjoittelija  |
-| SR-003 | Sidosryhmä/Profiili | WIMMA Lab | Pääomasijoittaja | Palvelun tuottamat tuotot |
-| SR-004 | Sidosryhmä/Profiili | Käyttäjä, Opettaja | "Aikuinen" 25-99V |   |
+| SR-003 | Sidosryhmä/Profiili | WIMMA Lab | Pääomasijoittaja | Palaute ja käyttäjätiedot |
+| SR-004 | Sidosryhmä/Profiili | Käyttäjä, Opettaja | "Aikuinen" 25-99V | Tarve satunnainen  |
 
 ## Palveluun liittyviä asiakaspolkuja
 
@@ -131,8 +127,8 @@ salt
     - Tietoturva
     - Suorituskyky
     - Käytettävyys
-    - Asiakas voi rekisteröityä 
-    - Rekisteräityessä vahvistuslinkki sähköpostiin
+    - Käyttäjä voi rekisteröityä 
+    - Rekisteröityessä vahvistuslinkki sähköpostiin
     - Säännöt
     - Käyttäjä sitoutuu noudattamaan Forumin sääntöjä
     - Yhdistää opiskelija- käyttäjät ja yritys- käyttäjät
@@ -168,8 +164,6 @@ salt
 @endmindmap
 ```
 
-
-
 ## Alustavat käyttäjätarinat
 
 ![](../assets/work-to-do.png)
@@ -180,6 +174,9 @@ salt
 |:-:|:-:|:-:|:-:|
 | US-001 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #1 |
 | US-002 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin poistaa historian tekemistäni ostoista viimeisen kuukauden ajalta, koska en halua muistella menneitä | #2 |
+| US-003 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #3 |
+| US-004 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #4 |
+| US-005 | Käyttäjätarina | Esim. Käyttäjänä haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #5 |
 
 ## Yleiset tekniset vaatimukset
 
@@ -191,7 +188,9 @@ Ohjelmiostoratkaisuja määriteltäessä kannattaa erottaa puhtaasti tekniset/tu
 | HWREQ-0002 | Tekniset vaatimukset | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
 | HWREQ-0003 | Tekniset vaatimukset | Palvelimen muistikapasiteeti >32GB  ||
 | HWREQ-0005 | Tekniset vaatimukset | Palvelimen fyysinen sijainti on oltava EU-aluella| |
-| HWREQ-0005 | ... | ... ||
+| HWREQ-0006 | ... | ... ||
+| HWREQ-0007 | ... | ... ||
+| HWREQ-0008 | ... | ... ||
 
 # Toiminnalliset vaatimukset (Functional Requirements)
 
