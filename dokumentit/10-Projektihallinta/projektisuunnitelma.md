@@ -4,7 +4,7 @@
 ## 1.1 Toimeksianto
 
 [Code Cerub](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/10-Projektihallinta/esittely/) on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. [WIMMA Lab](https://www.wimmalab.org/) on haastekeskeinen oppimiskonsepti, joka toteutetaan virtuaalisesti vuonna 2021. 
-Konseptin tarkoituksena on integroida opiskelijoita työnmukaiseen projektityöskentelyyn.Toimeksianto on tuottaa palveluna asiakkaan toiveesta ns. Conduit- ohjelmisto pohjaista Foorumi- ratkaisua WIMMA Lab-
+Konseptin tarkoituksena on integroida opiskelijoita työnmukaiseen projektityöskentelyyn.Toimeksianto on tuottaa palveluna asiakkaan toiveesta kommunikointia varten ns. Conduit- ohjelmisto pohjaista Foorumi- ratkaisua WIMMA Lab-
 kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista [vaatimusmäärittelydokumentissa](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
 
 
