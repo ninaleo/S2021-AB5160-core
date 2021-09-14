@@ -81,18 +81,18 @@ Harjoittelijat olivat estyneitä kuvaus päivänä ja siksi heitä ei tiimi kuva
 
 | Nimi | Tehtävä | Työnantaja | LinkedIn |
 | : - : | : - : | : - : | : - : |
-| Nina | Projektihallinta ja ohjaus | Code Cerub | [LinkedIn]() 
-| Arnold Suksi | Vanhempi projektipäällikkö | Code Cerub | [LinkedIn]() 
-| Matti Urri | Ohjelmoija, Frontend | Code Cerub | [LinkedIn]() 
-| Kauno Koivisto | Ohjelmoija, Backend | Code Cerub | [LinkedIn]() 
-| Heli Heikki | Palvelutuotanto | Code Cerub | [LinkedIn]() 
-| Heikki Halipula | Asiakaspalvelu | Code Cerub | [LinkedIn]()
-| Purho "Grapizza" Kekkonen | Graafinen suunnittelu | Code Cerub | [LinkedIn]() 
-| Maija Keskinen | Palvelumuotoilu | Code Cerub | [LinkedIn]() 
-| Klaus Kähö | Testaus | Code Cerub | [LinkedIn]() 
-| Mauno Kara | Tietoturvatestaus | Code Cerub | [LinkedIn]() 
-| Carola "Cake" Kettunen | Arkkitehti / pääohjelmoija | Code Cerub | [LinkedIn]() 
-| Reino "Stackker" Kasa | DevvOps asiantuntija | Code Cerub | [LinkedIn]()
+| Nina | Projektihallinta ja ohjaus | Code Cerub | [LinkedIn]() |
+| Arnold Suksi | Vanhempi projektipäällikkö | Code Cerub | [LinkedIn]() |
+| Matti Urri | Ohjelmoija, Frontend | Code Cerub | [LinkedIn]() |
+| Kauno Koivisto | Ohjelmoija, Backend | Code Cerub | [LinkedIn]() |
+| Heli Heikki | Palvelutuotanto | Code Cerub | [LinkedIn]() |
+| Heikki Halipula | Asiakaspalvelu | Code Cerub | [LinkedIn]() |
+| Purho "Grapizza" Kekkonen | Graafinen suunnittelu | Code Cerub | [LinkedIn]() |
+| Maija Keskinen | Palvelumuotoilu | Code Cerub | [LinkedIn]() |
+| Klaus Kähö | Testaus | Code Cerub | [LinkedIn]() |
+| Mauno Kara | Tietoturvatestaus | Code Cerub | [LinkedIn]() | 
+| Carola "Cake" Kettunen | Arkkitehti / pääohjelmoija | Code Cerub | [LinkedIn]() | 
+| Reino "Stackker" Kasa | DevvOps asiantuntija | Code Cerub | [LinkedIn]() |
 
 
 ```plantuml
