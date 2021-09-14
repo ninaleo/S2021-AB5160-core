@@ -199,9 +199,9 @@ _ei-toiminnalliset vaatimukset? Esitä eri vaatimuksia erillisessä taulukossa t
 [Ei-toiminnalliset vaatimukset](https://en.wikipedia.org/wiki/Non-functional_requirement) sisältää laajan joukko eri näkökulmia sähköiseen palveluun liittyen. Tärkeimmät kirjoittajan 
 näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus _
 
-*[Suorituskyky ](https://valkohattu.fi/artikkeli/verkkosivun-suorituskyky)
-*[Tietoturva ](https://vm.fi/documents/10623/360844/K%C3%A4sikirjan+liite+Tietoturvavaatimukset/56b3fb8f-bb54-4a65-a37f-79f6985d868c)
-*[Saavutettavuus direktiivi ](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/)
+* [Suorituskyky ](https://valkohattu.fi/artikkeli/verkkosivun-suorituskyky)
+* [Tietoturva ](https://vm.fi/documents/10623/360844/K%C3%A4sikirjan+liite+Tietoturvavaatimukset/56b3fb8f-bb54-4a65-a37f-79f6985d868c)
+* [Saavutettavuus direktiivi ](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/)
 
 ## Suorituskykyyn liittyvät vaatimukset
 
