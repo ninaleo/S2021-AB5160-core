@@ -80,7 +80,7 @@ Harjoittelijat olivat estyneitä kuvaus päivänä ja siksi heitä ei tiimi kuva
 ## Code Cerub tiimimme
 
 | Nimi | Tehtävä | Työnantaja | LinkedIn |
-| : - : | : - : | : - : | : - : |
+| :-: | :-: | :-: | :-: |
 | Nina | Projektihallinta ja ohjaus | Code Cerub | [LinkedIn]() |
 | Arnold Suksi | Vanhempi projektipäällikkö | Code Cerub | [LinkedIn]() |
 | Matti Urri | Ohjelmoija, Frontend | Code Cerub | [LinkedIn]() |
