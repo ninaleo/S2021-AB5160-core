@@ -276,7 +276,12 @@ _> Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | RIS-001 | Ryhmän jäsen sairastuu flunssaan |  V3 | 60 % |[Tiimin jäsen 1]() | Ilmoita [tiiminvetajalle]() ja tarvittaesssa [toimeksiantajalle](). |
 | RIS-002 | Sähköt katkeavat kehitystyön aikana | V5 | 10 %  | [Tiimin jäsen 2]() | Varmistetaan, että kaikilla on käytössään varayhteydet esim. puhelimella |
-| RIS-003 | ... | ... | ...  | ... |
+| RIS-004 | Rahoitusongelmat | V5 | 10%  | Pidetään asiakas ajantasalla työnetenemisestä ja lasketaan mahdollisimman tarkka budjetti |
+| RIS-005 | ... | ... | ...  | ... |
+| RIS-006 | ... | ... | ...  | ... |
+| RIS-007 | ... | ... | ...  | ... |
+
+
 
 [Riskienhallintataulukko](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/riskitaulukko.md)
 
