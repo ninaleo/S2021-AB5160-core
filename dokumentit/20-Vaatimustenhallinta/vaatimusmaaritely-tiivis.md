@@ -170,9 +170,9 @@ salt
 |:-:|:-:|:-:|:-:|
 | US-001 | Käyttäjätarina | Asiakkaana haluan, että palvelu toimii ripeästi, jotta käyttäjät eivät hylkää sivustoa | #1 |
 | US-002 | Käyttäjätarina | Asiakkaana haluan, että voin kerätä tietoa käyttäjistä, jotta voin hyödyntää saamaani infoa palvelun kehityksessä | #2 |
-| US-003 | Käyttäjätarina | Asiakkaana haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #3 |
-| US-004 | Käyttäjätarina | Asiakkaana haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #4 |
-| US-005 | Käyttäjätarina | Asiakkaana haluan, että voin luoda raportin tekemistäni ostoista viimeisen kuukauden ajalta, koska se helpottaa oman talouteni hallintaa | #5 |
+| US-003 | Käyttäjätarina | Asiakkaana haluan, että voin tarjota ammattimaisen kohtauspaikan opiskelijoille ja yrityksille, koska se lisää projekteihin heittäytymistä ja luo suhteita | #3 |
+| US-004 | Käyttäjätarina | Asiakkaana haluan, että säännöt on listattu selkeästi rekisteröityessä ja vielä tiivistettynä sisään kirjautuessa, lisää kaikkien käyttömukavuutta | #4 |
+| US-005 | Käyttäjätarina | Asiakkaana haluan, että viime kädessä minulla on päätösvalta ja mmuokkaus mahdollisuus palvelussa, turvaa positiivisen ja eteenpäin vievän ympäristön käyttäjille | #5 |
 
 ## Yleiset tekniset vaatimukset
 
