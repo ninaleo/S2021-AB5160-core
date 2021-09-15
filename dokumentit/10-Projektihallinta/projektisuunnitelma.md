@@ -270,10 +270,10 @@ _>Kirjataan minne dokumentit tallennetaan/arkistoidaan, miten ne jaetaan ja kuka
 | ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka vastaa | Mitä toimintaan riskin ilmentyessä? | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | RIS-001 | Ryhmän jäsen sairastuu flunssaan |  V3 | 60 % |[Tiimin jäsen]() | Ilmoitus tiiminvetajalle ja tarvittaesssa toimeksiantajalle. |
-| RIS-002 | Sähköt katkeavat kehitystyön aikana | V5 | 10 %  | [Sähköyhtiö]() | Varmistetaan, että kaikilla on käytössään varayhteydet esim. puhelimella. |
+| RIS-002 | Sähköt katkeavat kehitystyön aikana | V4 | 10 %  | [Sähköyhtiö]() | Varmistetaan, että kaikilla on käytössään varayhteydet esim. puhelimella. |
 | RIS-004 | Rahoitusongelmat | V1 | 10%  | [Asiakas]() | Johtoryhmän kokous ja osapuolten kesken mietitään ratkaisua (kyseessä ei ole iso projekti). |
 | RIS-005 | Työntekijä irtisanoutuu | V2 | 10%  | [Johtoryhmä]() | Tehtävään uusi tekijä joko organisaatiosta tai sen ulkopuolelta  |
-| RIS-006 | Tietoliikenne ongelmat | V5 | 10%  |  [Palvelun tarjoaja]() | Vikailmoitus palvelun tarjoajalle |
+| RIS-006 | Tietoliikenne ongelmat | V4 | 10%  |  [Palvelun tarjoaja]() | Vikailmoitus palvelun tarjoajalle |
 | RIS-007 | Ulkoiset uhat, esim hyökkäys | V2 | 2%  |  [Tietoturvatiimi]() | Korjataan vauriot ja haavoittuvuus |
 
 
