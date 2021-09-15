@@ -274,12 +274,12 @@ _> Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään
 
 | ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka vastaa | Mitä toimintaan riskin ilmentyessä? | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| RIS-001 | Ryhmän jäsen sairastuu flunssaan |  V3 | 60 % |[Tiimin jäsen 1]() | Ilmoita [tiiminvetajalle]() ja tarvittaesssa [toimeksiantajalle](). |
-| RIS-002 | Sähköt katkeavat kehitystyön aikana | V5 | 10 %  | [Tiimin jäsen 2]() | Varmistetaan, että kaikilla on käytössään varayhteydet esim. puhelimella |
-| RIS-004 | Rahoitusongelmat | V1 | 10%  | Pidetään asiakas ajantasalla työnetenemisestä ja lasketaan mahdollisimman tarkka budjetti |
-| RIS-005 | ... | ... | ...  | ... |
-| RIS-006 | ... | ... | ...  | ... |
-| RIS-007 | ... | ... | ...  | ... |
+| RIS-001 | Ryhmän jäsen sairastuu flunssaan |  V3 | 60 % |[Tiimin jäsen]() | Ilmoita [tiiminvetajalle]() ja tarvittaesssa [toimeksiantajalle](). |
+| RIS-002 | Sähköt katkeavat kehitystyön aikana | V5 | 10 %  | [Sähköyhtiö]() | Varmistetaan, että kaikilla on käytössään varayhteydet esim. puhelimella |
+| RIS-004 | Rahoitusongelmat | V1 | 10%  | [Asiakas]() |Pidetään asiakas ajantasalla työnetenemisestä ja lasketaan mahdollisimman tarkka budjetti |
+| RIS-005 | Työntekijä irtisanoutuu | V2 | 10%  | [Johtoryhmä]() | Tehtävään uusi tekijä joko organisaatiosta tai sen ulkopuolelta  |
+| RIS-006 | Tietoliikenne ongelmat | V5 | 10%  |  [Palvelun tarjoaja]() | Vikailmoitus palvelun tarjoajalle |
+| RIS-007 | Ulkoiset uhat, esim hyökkäys | V2 | 2%  |  [Tietoturvatiimi]() | Korjataan vauriot ja haavoittuvuus |
 
 
 
