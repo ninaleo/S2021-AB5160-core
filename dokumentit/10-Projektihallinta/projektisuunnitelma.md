@@ -64,7 +64,7 @@ __SWOT__
 
 __Strenghts:__ asiakkaan toiveiden kartoittaminen, tiimin ammattitaito ja viestintä
 
-__Weaknesses:__ aikaraja
+__Weaknesses:__ aikaraja (projektin laajuus huomioonottaen ei ole todennäköinen heikkous)
 
 __Opportunities:__ uusien asiakkaiden ja yhteistyökumppaneiden saaminen sekä verkostoituminen
 
