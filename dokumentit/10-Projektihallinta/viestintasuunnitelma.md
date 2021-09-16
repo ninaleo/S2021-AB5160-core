@@ -30,10 +30,14 @@ Tiimin kokoukset pidetään Zoomissa.
 
 ## Sisäinen viestintä
 
->Sisäisellä viestinnällä tarkoitetaan tässä viestintää projektiryhmän sisällä. Sen tavoitteena on välittää projektiin liittyvää informaatiota kaikille ryhmän jäsenille ja näin >tukea ryhmän yhteistyötä ja edesauttaa ryhmän identiteetin muodostumista. Lisäksi sisäinen viestintä toimii kaiken ulkoisen viestinnän perustana.
->X projektin sisäisessä viestinnässä käytetään sekä formaaleja että epävirallisia kanavia. Projektiryhmä kokoontuu [maanantaiaamuisin] viikkopalaveriin, jossa suunnitellaan tulevan >viikon tehtävät ja edellisen käydään läpi edellisen viikon tapahtumat. [Projektipäällikkö valmistelee viikkopalaverin esityslistan ja kirjoittaa palaverin pohjalta >viikkosuunnitelman, jonka tehtävät kirjataan valittuun projektinohjaustyövälineeseen.] Kaikki projektiin liittyvä dokumentaatio pyritään säilyttämään yhdessä [dokumenttitietokannassa], jota projektiryhmän jäsenten tulee aktiivisesti seurata. Sihteeri tiedottaa kaikista merkittävistä tapahtumista ryhmän jäsenille valittuja kanavia käyttäen. 
+WIMMA Lab Forum- projektin sisäisessä viestinnässä käytetään sekä formaaleja että epävirallisia kanavia.
+Projektiryhmä kokoontuu päivittäin 10 minuutin aamukatsaukseen kello 8.50-9.00. Aamukatsauksessa tiimi vaihtaa keskenään projektiin liittyviä kuulumisia ja katsotaan tiivistetysti missä tilanteessa projekti nyt on, eli mitä on tehty ja mitä tehdään seuraavaksi. 
+Projektin alkuvaiheessa tuotantotiimi kokoontuu päivittäin kello 10.00 alkaen käymään järjestyksessä läpi päivän aihealuetta, materiaaliin on ajan säästämiseksi perehdytty itsenäisesti jo ennakkoon joten projektin työstäminen etenee keskustelun ohella tehokkaasti.
+Jotta kaikki tiimiläiset ovat tietoisia projektin vaiheista ja merkittävistä tapahtumista tiedotetaan tiimin jäseniä mm. Aamukatsausten tiivistelmillä Teams- kanavalla (asian määrästä riippuen joka- tai jokatoinen päivä) ja ydin asioiden löytämisen helpottamiseksi valmistunut materiaali linkitetään Code Cerub Teams- kanavalle.
+Dokumentaatiota työskentelystä pidetään gitissä, jota kaikki tiimiläiset pääsevät sitä kautta seuraamaan.
 
 
+ 
 **sisäisen että ulkoisen viestinnän tukena käytetään seuraavia apuvälineitä:**
 
 -	[LN sovellus], johon sisällytetään tiedot muun dokumentaation ulkopuolisista kontakteista eri sidosryhmien kanssa (esim. puhelu toimeksiantajalle).  
