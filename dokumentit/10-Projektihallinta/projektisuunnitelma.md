@@ -186,6 +186,7 @@ _> Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokona
 >Projektin sisältämät tavoitteet ja vaiheet (Lyhyt kuvaus kustakin ja mitä tuloksia kustakin syntyy)> 
 
 * [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/2)
+__Esisuunnittelu 30.8.2021 – 6.9.2021 (X h)__
 * [Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)
 * [Etappi 2](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)
 * [Etappi 3](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)
