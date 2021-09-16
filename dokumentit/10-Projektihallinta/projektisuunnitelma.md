@@ -61,14 +61,16 @@ Ei erikseen määriteltäviä termejä.
 ## 1.6 Projektiin liittyvät haasteet
 
 Projektille on määrätty tiukka kolmen kuukauden aikaraja ja ohjelmisto muutoksineen on oltava asiakkaan käytössä viimeistään 3kk projektin alkamisesta. Omat rajansa asettaa asiakkaan ennalta valitsema Conduit- ohjelmisto, tämä tosin ei vaikuta projektin valmistumiseen ajallisesti.
-__SWOT__
-Strengths:
 
-Weaknesses:
 
-Opportunities:
+**__SWOT__
+__S__trengths:
 
-Threats:
+__W__eaknesses:
+
+__O__pportunities:
+
+__T__hreats:
 
 # 2. Projektiorganisaatio
 
