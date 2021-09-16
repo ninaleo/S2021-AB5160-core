@@ -8,7 +8,7 @@ Määritellään WIMMA Lab Forum projektin yhteydessä käytetyt viestintämenet
 
 ## Projektin osapuolet voidaan jakaa viestinnän näkökulmasta neljään eri ryhmään:
 
-  1.[Projektiryhmän jäsenet Grizzly Code]	(https://gitlab.labranet.jamk.fi/ff2020s-team3/core/-/blob/master/dokumentit/10-Projektihallinta/projektisuunnit)
+  1.[Projektiryhmän jäsenet Grizzly Code](https://gitlab.labranet.jamk.fi/ff2020s-team3/core/-/blob/master/dokumentit/10-Projektihallinta/projektisuunnitelma.md)
   2.	Projektin ohjaajat, Ohjaaja/tuoteomistaja Marko Rintamäki
   3.	Toimeksiantajan edustajat Asiakkaan edustajana toimii tekninen arkkitehti Teemu Kontio
   4.	Ulkopuoliset henkilöt (esim. laitoksen johtaja, asiantuntijat jne.)
