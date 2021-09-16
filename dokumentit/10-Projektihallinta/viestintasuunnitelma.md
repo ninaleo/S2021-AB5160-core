@@ -8,7 +8,7 @@ Määritellään WIMMA Lab Forum projektin yhteydessä käytetyt viestintämenet
 
 ## Projektin osapuolet voidaan jakaa viestinnän näkökulmasta neljään eri ryhmään:
 
-1. Projektiryhmän jäsenet [Grizzly Code](https://gitlab.labranet.jamk.fi/ff2020s-team3/core/-/blob/master/dokumentit/10-Projektihallinta/projektisuunnitelma.md)
+1. Projektiryhmän jäsenet [Code Cerub](https://gitlab.labranet.jamk.fi/ff2020s-team3/core/-/blob/master/dokumentit/10-Projektihallinta/projektisuunnitelma.md)
  
 2.	Projektin ohjaajat, Ohjaaja/tuoteomistaja Marko Rintamäki
   
@@ -20,7 +20,9 @@ Määritellään WIMMA Lab Forum projektin yhteydessä käytetyt viestintämenet
 
 ## Yleiset viestintäkanavat
 
->X projektilla on käytettävissään viestintää varten: puhelin, telefax, sähköposti, LN tietokannat, posti, sisäinen posti, www, ilmoitustaulu sekä luonnollisesti erilaiset >kirjallisen ja verbaalisen viestinnän muodot. 
+WIMMA Lab Forum- projektilla on käytettävissään viestintää varten oma Teams kanava, Gitlab,  ja erilaiset kirjallisen ja verbaalisen viestinnän muodot. Sähköiset dokumentaatiot ja dokumentaatiot, LN tietokannat, www.
+
+Tiimin kokoukset pidetään Zoomissa.
 
 ## Kirjallisessa viestinnässä käytettävät mallit
 
