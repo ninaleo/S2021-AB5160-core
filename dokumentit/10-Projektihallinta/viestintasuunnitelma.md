@@ -2,7 +2,7 @@
 
 #	Johdanto
 
-Määritellään WIMMA Lab Forum projektin yhteydessä käytetyt viestintämenetelmät ja kanavat. Selkeällä ja yhdenmukaisella viestinnällä varmistetaan informaation kulku ja vaikutetaan projektin laatutavoitteiden toteutumiseen.
+Määritellään WIMMA Lab Forum projektin yhteydessä käytetyt viestintämenetelmät ja kanavat. Selkeällä ja yhdenmukaisella viestinnällä varmistetaan informaation kulku ja vaikutetaan projektin laatutavoitteiden toteutumiseen, myös sujuva vuorovaikutus tiimin sisällä ja asiakkaan kanssa ovat avain asemassa..
 
 #	Projektin osapuolet
 
