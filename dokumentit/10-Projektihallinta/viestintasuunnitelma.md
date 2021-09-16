@@ -12,7 +12,7 @@ Määritellään WIMMA Lab Forum projektin yhteydessä käytetyt viestintämenet
  
 2.	Projektin ohjaajat, Ohjaaja/tuoteomistaja Marko Rintamäki
   
-3.	Toimeksiantajan edustajat Asiakkaan edustajana toimii tekninen arkkitehti Teemu Kontio
+3.	Toimeksiantajan edustajat Asiakkaan edustajana toimii tekninen arkkitehti Teemu K
   
 4.	Ulkopuoliset henkilöt (esim. laitoksen johtaja, asiantuntijat jne.)
 
