@@ -62,18 +62,13 @@ Ei erikseen määriteltäviä termejä.
 
 __SWOT__
 
-Strengths:  - asiakkaan toiveiden kartoitus
-            - ammattitaito
-            - viestitys
+Strengths:  asiakkaan toiveiden kartoittaminen, tiimin ammattitaito ja viestintä
 
-Weaknesses: - aikaraja
+Weaknesses: aikaraja
 
-Opportunities:
-            - yhteistyökumppaneiden saaminen ja verkostoituminen 
+Opportunities: uusien asiakkaiden ja yhteistyökumppaneiden saaminen sekä verkostoituminen
 
-Threats:    - työntekijöiden sairastuminen ym
-            - tietoturvauhat
-            - tietotekniset ongelmat
+Threats:  työntekijöiden sairastuminen ym, tietoturvauhat ja tietotekniset ongelmat
 
 # 2. Projektiorganisaatio
 
