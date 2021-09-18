@@ -1,5 +1,6 @@
-# Projektisuunnitelma
 ![](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/raw/master/assets/ProjectClouds1.jpg?inline=false)
+
+# Projektisuunnitelma
 
 ## 1.1 Toimeksianto
 
