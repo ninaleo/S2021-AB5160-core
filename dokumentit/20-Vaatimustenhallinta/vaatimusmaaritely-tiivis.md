@@ -45,12 +45,15 @@ Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palv
 +++ WIMMA Lab
 +++ Code Cerub
 -- Ulkoiset sidosryhmät
---- Käyttäjä, Opiskelija
----- Varasto
----- Noutopiste 1.
---- Käyttäjä, Yritys
----- Kiusantekijä
----- Satunnainen säätäjä
+--- Opiskelijat
+--- Opettajat
+--- Aiemmat opiskijat
+--- Yritykset
+--- Muut oppilaitokset
+--- Satunnaiset vierailijat
+--- Toimeksiantajat
+--- Stalkkaajat
+--- Kiusantekijät
 @endmindmap
 ```
 
