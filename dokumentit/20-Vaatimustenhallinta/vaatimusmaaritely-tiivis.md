@@ -41,8 +41,9 @@ Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palv
 ```plantuml
 @startmindmap
 + WIMMA Lab-Forum
-++ WIMMA Lab
-++ Code Cerub
+++ Sisäiset sidosryhmät
++++ WIMMA Lab
++++ Code Cerub
 -- Käyttäjä, Opiskelija
 --- Varasto
 --- Noutopiste 1.
