@@ -44,12 +44,13 @@ Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palv
 ++ Sisäiset sidosryhmät
 +++ WIMMA Lab
 +++ Code Cerub
--- Käyttäjä, Opiskelija
---- Varasto
---- Noutopiste 1.
--- Käyttäjä, Yritys
---- Kiusantekijä
---- Satunnainen säätäjä
+-- Ulkoiset sidosryhmät
+--- Käyttäjä, Opiskelija
+---- Varasto
+---- Noutopiste 1.
+--- Käyttäjä, Yritys
+---- Kiusantekijä
+---- Satunnainen säätäjä
 @endmindmap
 ```
 
