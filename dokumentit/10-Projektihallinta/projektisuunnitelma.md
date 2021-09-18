@@ -171,18 +171,17 @@ _>Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan e
 **GANTT PlantUML-muodossa**
 
 ```plantuml
-Project starts the 2021-5-15
-[Projekti aktiivinen] Starts 2021-5-15 and ends 2021-8-15 
-[Määrittely vaihe] Starts 2021-5-15 and ends 2021-5-20
-[Suunittelu] Starts 2021-5-20 and ends 2021-6-5
-[Toteutus+suunnittelu] Starts 2021-6-5 and ends 2021-7-15
-[Testaus+korjaus] Starts 2021-7-16 and ends 2021-8-1
-[Hyväksyntätestaus] Starts 2021-8-1 and ends 2021-8-10
+Project starts the 2021-8-30
+[Projekti aktiivinen] Starts 2021-8-30 and ends 2021-11-19 
+[Määrittely vaihe] Starts 2021-8-30 and ends 2021-9-6
+[Suunittelu] Starts 2021-9-6 and ends 2021-9-20
+[Toteutus+suunnittelu] Starts 2021-9-20 and ends 2021-11-19
+[Testaus+korjaus] Starts 2021-9-27 and ends 2021-10-4
+[Hyväksyntätestaus] Starts 2021-11-12 and ends 2021-11-18
 [Luovutus] Starts 2021-8-10 and ends 2021-8-15
 ```
 
-_> Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). > > Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös > > IT-instituutin opiskelijaprojekteja). 
->Projektin elinkaari voidaan jakaa erityyppisiin vaiheisiin. Kussakin vaiheessa tuotetaan määrätyt tuotteet, kuten selvitys, suunnitelmat, prototyyppi, laite jne. Kunkin vaiheen loppuun sovitaan arviointi, hyväksyntä tai katselmointi. Ohjelmistoprojekti jakautuu tyypillisesti seitsemään vaiheeseen: perustaminen, esitutkimus, analyysi, suunnittelu, toteutus, testaus ja lopettaminen. Joskus esitutkimus on oma projektinsa, joskus analyysi sisällytetään suunnitteluun jne. Testaus ei välttämättä ole oma vaiheensa, vaan se sisältyy kaikkiin vaiheisiin. Usein edetään inkrementaalisesti eli ensin suunnitellaan ja toteutetaan yksi asia kokonaisuudessaan ennen kuin edetään seuraavaan asiakokonaisuuteen. Ei ole yhtä ainutta ”oikeaa” vaihejakoa, mutta jos toimeksiantajalla on oma menetelmänsä ja siihen liittyvät mallipohjat, niin opiskelijaprojekteissa käytetään ensisijaisesti niitä. Yhä useammin käytetään ketterää sovelluskehitystä eli ohjelmisto tehdään 1-4 viikon sprinteissä._
+_Projektin elinkaari voidaan jakaa erityyppisiin vaiheisiin. Kussakin vaiheessa tuotetaan määrätyt tuotteet, kuten selvitys, suunnitelmat, prototyyppi, laite jne. Kunkin vaiheen loppuun sovitaan arviointi, hyväksyntä tai katselmointi. Ohjelmistoprojekti jakautuu tyypillisesti seitsemään vaiheeseen: perustaminen, esitutkimus, analyysi, suunnittelu, toteutus, testaus ja lopettaminen. Joskus esitutkimus on oma projektinsa, joskus analyysi sisällytetään suunnitteluun. Testaus ei välttämättä ole oma vaiheensa, vaan se sisältyy kaikkiin vaiheisiin. Usein edetään inkrementaalisesti eli ensin suunnitellaan ja toteutetaan yksi asia kokonaisuudessaan ennen kuin edetään seuraavaan asiakokonaisuuteen. Ei ole yhtä ainutta ”oikeaa” vaihejakoa, mutta jos toimeksiantajalla on oma menetelmänsä ja siihen liittyvät mallipohjat, niin käytetään ensisijaisesti niitä. Yhä useammin käytetään ketterää sovelluskehitystä eli ohjelmisto tehdään 1-4 viikon sprinteissä._
 
 
 
