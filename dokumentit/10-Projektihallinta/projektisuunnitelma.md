@@ -317,7 +317,6 @@ _Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteer
 
 [Viestintäsuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/viestintasuunnitelma.md)
 
-_>Listaa projektissa sovitut työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus._
 
 # 6. Projektin päättyminen
 
