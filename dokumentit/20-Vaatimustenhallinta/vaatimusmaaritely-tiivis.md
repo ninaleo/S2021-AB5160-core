@@ -59,7 +59,6 @@ WIMMA Lab tarjoaa jo ennestään kanavan kohderhmien verkostoitumiselle. Forumin
 --- Muut oppilaitokset
 --- Satunnaiset vierailijat
 --- Toimeksiantajat
---- Stalkkaajat
 --- Kiusantekijät
 @endmindmap
 ```
