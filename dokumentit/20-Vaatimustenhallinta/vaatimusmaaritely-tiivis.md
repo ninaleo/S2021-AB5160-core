@@ -8,7 +8,11 @@
 
 WIMMA Lab on Jyväskylän ammattikorkeakoulun (JAMK) oppimisympäristö, jossa opiskelijat toteuttavat virtuaalisten yritystensä kautta yritysten ja työnantajien erilaisia toimeksiantoja. WIMMA Lab -oppimisympäristön tarkoitus on opettaa opiskelijoille tiimityöskentelytaitoja, ketterää toimintatapaa ja ongelmanratkaisukykyjä. Samalla opiskelijat oppivat hyödyntämään työelämässä hyödyllisiä palvelumuotoilun prosesseja. Virtuaaliyritysten saamat toimeksiannot ovat työelämälähtöisiä ja vastaavat mahdollisimman tarkasti oikeiden yritysten saamia toimeksiantoja. Tärkeänä tavoitteena on oppia kehittämään yhteistä liiketoimintaa ja perehtyä uusiin teknologioihin sekä luoda verkostoja liike-elämään.
 
-Projektin tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta asiakkaan tarpeisiin sopiva versio joka integroituu visuaalisesti hyvin asiakkaan jo olemassa oleviin kotisivuihin sekä tiedon jakamisesssa tarvittavaan linkitykseen sivuilla jo olemassa olevaan materiaaliin.
+Toimeksianto on muokata ja tuottaa palveluna Foorumi-ratkaisua WIMMA Lab-kotisivujen osaksi asiakkaan tarpeisiin sopiva versio joka integroituu visuaalisesti hyvin asiakkaan jo olemassa oleviin kotisivuihin sekä tiedon jakamisesssa tarvittavaan linkitykseen sivuilla jo olemassa olevaan materiaaliin..
+Foorumin pohjana käytetään ns. Conduit-ohjelmistoa, joka on ennalta valittu asiakkaan puolesta ja sitä ei voida muuttaa.
+Syynä tähän on aikataulu.
+Asiakkaalla on vahva oletus, että tämä säästää aikaa kehitykseltä ja voidaan keskittyä nopeampaan käyttöön ottoon.
+Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän ‑opintojakson puitteissa.
 
 
 Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän 
