@@ -42,7 +42,7 @@ Dokumentaatiota työskentelystä pidetään Gitissä, jota kaikki tiimiläiset p
 
 -	Teams  
 -	Zoom
--	Git
+-	Gitlab
 
 ## Viestintä tukiryhmien kanssa
 
