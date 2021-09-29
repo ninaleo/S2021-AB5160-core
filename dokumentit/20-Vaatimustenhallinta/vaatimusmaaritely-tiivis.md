@@ -41,8 +41,7 @@ Lisääntyneet tietoturvauhat ja palvelun käytön kasvu huomioidaan toteutukses
 - Kansainväliset käyttäjät
 WIMMA Lab tarjoaa jo ennestään kanavan kohderhmien verkostoitumiselle. Forumin myötä mm. saavutettavuus paranee huimasti 
 
-__Millaisia ovat sen käyttäjät? Mikä tuotoksen tavoite on eri sidosryhmien kannalta? 
-Kannattaa nostaa esiin lyhyesti mahdolliset loppukäyttäjä ja oleellisiin palvelusta hyötyviin sidosryhmät__
+
 
 ## Sidosryhmäkartta
 
