@@ -29,6 +29,8 @@ Code Cerub myös korjaa WIMMA Lab- palvelun saavutettavuuden EU:n asettamien vaa
 Normaalitilanteessa yhtäaikaisia käyttäjiä uskotaan olevan noin 10 mutta aktiivisessa tilanteessa 150 asiakasta kerrallaan.
 Lisääntyneet tietoturvauhat ja palvelun käytön kasvu huomioidaan toteutuksessa vastaamaan Kyberturvallisuus- keskuksen jakamia hyviä käytänteitä.
 
+[Projektisuunnitelmassa kirjatut tavoitteet ja tehtävät](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/projektisuunnitelma.md/).
+
 
 ## Kohderyhmä
 
