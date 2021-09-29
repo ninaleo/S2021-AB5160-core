@@ -20,7 +20,7 @@ Määritellään WIMMA Lab Forum projektin yhteydessä käytetyt viestintämenet
 
 ## Yleiset viestintäkanavat
 
-WIMMA Lab Forum- projektilla on käytettävissään viestintää varten oma Teams kanava, Gitlab,  ja erilaiset kirjallisen ja verbaalisen viestinnän muodot. Sähköiset dokumentaatiot ja dokumentaatiot, LN tietokannat, www.
+WIMMA Lab Forum- projektilla on käytettävissään viestintää varten oma Teams kanava, Gitlab,  ja erilaiset kirjallisen ja verbaalisen viestinnän muodot. Sähköiset dokumentaatiot ja dokumentaatiot.
 
 Tiimin kokoukset pidetään Zoomissa.
 
