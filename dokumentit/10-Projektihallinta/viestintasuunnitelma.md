@@ -40,9 +40,9 @@ Dokumentaatiota työskentelystä pidetään Gitissä, jota kaikki tiimiläiset p
  
 **sisäisen että ulkoisen viestinnän tukena käytetään seuraavia apuvälineitä:**
 
--	[Teams]  
--	[Zoom]
--	[Git]
+-	Teams  
+-	Zoom
+-	Git
 
 ## Viestintä tukiryhmien kanssa
 
