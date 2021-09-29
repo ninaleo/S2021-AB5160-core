@@ -34,14 +34,15 @@ WIMMA Lab Forum- projektin sisäisessä viestinnässä käytetään sekä formaa
 Projektiryhmä kokoontuu päivittäin 10 minuutin aamukatsaukseen kello 8.50-9.00. Aamukatsauksessa tiimi vaihtaa keskenään projektiin liittyviä kuulumisia ja katsotaan tiivistetysti missä tilanteessa projekti nyt on, eli mitä on tehty ja mitä tehdään seuraavaksi. 
 Projektin alkuvaiheessa tuotantotiimi kokoontuu päivittäin kello 10.00 alkaen käymään järjestyksessä läpi päivän aihealuetta, materiaaliin on ajan säästämiseksi perehdytty itsenäisesti jo ennakkoon joten projektin työstäminen etenee keskustelun ohella tehokkaasti.
 Jotta kaikki tiimiläiset ovat tietoisia projektin vaiheista ja merkittävistä tapahtumista tiedotetaan tiimin jäseniä mm. Aamukatsausten tiivistelmillä Teams- kanavalla (asian määrästä riippuen joka- tai jokatoinen päivä) ja ydin asioiden löytämisen helpottamiseksi valmistunut materiaali linkitetään Code Cerub Teams- kanavalle.
-Dokumentaatiota työskentelystä pidetään gitissä, jota kaikki tiimiläiset pääsevät sitä kautta seuraamaan.
+Dokumentaatiota työskentelystä pidetään Gitissä, jota kaikki tiimiläiset pääsevät sitä kautta seuraamaan.
 
 
  
 **sisäisen että ulkoisen viestinnän tukena käytetään seuraavia apuvälineitä:**
 
--	[LN sovellus], johon sisällytetään tiedot muun dokumentaation ulkopuolisista kontakteista eri sidosryhmien kanssa (esim. puhelu toimeksiantajalle).  
--	[A sovellus, jonka avulla ryhmän LN sähköpostiosoitteeseen tullut posti jaetaan edelleen projektiryhmäläisten henkilökohtaisiin sähköpostiosoitteisiin.]
+-	[Teams]  
+-	[Zoom]
+-	[Git]
 
 ## Viestintä tukiryhmien kanssa
 
