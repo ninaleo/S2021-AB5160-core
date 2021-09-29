@@ -67,10 +67,10 @@ WIMMA Lab tarjoaa jo ennestään kanavan kohderhmien verkostoitumiselle. Forumin
 
 | ID | Tyyppi | Nimi | Piirteet |  Motivaatio |
 |:-:|:-:|:-:|:-:|:-:|
-| SR-001 | Sidosryhmä/Profiili | Käyttäjä, Opiskelija | "Aikuinen" 18-99V | Tarve palvelulle, oppii tiimityöskentelystä ja projektin hallinnasta |
-| SR-002 | Sidosryhmä/Profiili | Käyttäjä, Yritys ](pohjat/pohja-profiilikuvaus.md) | "Aikuinen" 18-99V | Tarve satunnainen, löytää työntekijä tai työharjoittelija  |
+| SR-001 | Sidosryhmä/Profiili | Käyttäjä, Opiskelija | 18-99V | Tarve palvelulle, oppii tiimityöskentelystä ja projektin hallinnasta |
+| SR-002 | Sidosryhmä/Profiili | Käyttäjä, Yritys ](pohjat/pohja-profiilikuvaus.md) | 18-99V | Tarve satunnainen, löytää työntekijä tai työharjoittelija  |
 | SR-003 | Sidosryhmä/Profiili | WIMMA Lab | Pääomasijoittaja | Palaute ja käyttäjätiedot |
-| SR-004 | Sidosryhmä/Profiili | Käyttäjä, Opettaja | "Aikuinen" 25-99V | Tarve satunnainen  |
+| SR-004 | Sidosryhmä/Profiili | Käyttäjä, Opettaja | 25-99V | Tarve satunnainen  |
 
 ## Palveluun liittyviä asiakaspolkuja
 
