@@ -158,7 +158,7 @@ salt
 +++ Viimeinen päätösvalta
 +++ Käyttäjä mukavuus (ei trollausta jne)
 -- Yhdistää
---- Opiskija- käyttäjät
+--- Opiskelija- käyttäjät
 --- Yritys- käyttäjät
 -- Viestintä
 --- Saadaan nopeaa palautetta
