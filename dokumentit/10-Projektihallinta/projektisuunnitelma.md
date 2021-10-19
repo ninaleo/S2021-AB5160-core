@@ -63,17 +63,26 @@ Ei erikseen määriteltäviä termejä.
 
 __SWOT__
 
-__Strenghts:__ asiakkaan toiveiden kartoittaminen, tiimin ammattitaito ja viestintä
+__Strenghts:__ 
+* asiakkaan toiveiden kartoittaminen
+* tiimin ammattitaito 
+* viestintä
 
-__Weaknesses:__ aikaraja (projektin laajuus huomioonottaen ei ole todennäköinen heikkous)
+__Weaknesses:__ 
+* aikaraja (projektin laajuus huomioonottaen ei ole todennäköinen heikkous)
 
-__Opportunities:__ uusien asiakkaiden ja yhteistyökumppaneiden saaminen sekä verkostoituminen
+__Opportunities:__ 
+* uusien asiakkaiden ja yhteistyökumppaneiden saaminen 
+* verkostoituminen
 
-__Threats:__  työntekijöiden sairastuminen ym, tietoturvauhat ja tietotekniset ongelmat
+__Threats:__  
+* työntekijöiden sairastuminen 
+* tietoturvauhat  
+* tietotekniset ongelmat
 
 # 2. Projektiorganisaatio
 
-Organisaatiossa ovat Code Cerub henkilöstö, Harjoittelijat Wilma Wimman, Edit Files ja Mar Adona. Asiakkaan edustajana Teemu K sekä Asiakkaan tuoteomistaja Marko R.
+Organisaatiossa ovat Code Cerub henkilöstö ja harjoittelijat. Asiakkaan edustajana Teemu K sekä Asiakkaan tuoteomistaja Marko R.
 
 
 ## 2.1 Organisaation esittely
