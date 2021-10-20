@@ -90,11 +90,7 @@ __Threats:__
 
 ## 2.1 Organisaation esittely
 
-Code Cerub WIMMA Lab Forum- Projekti organisaatioon kuuluu Code Cerub organisaation henkilökunta ja harjoittelijat Wilma Wimman, Edit Files sekä Mar Adona.
-Code Cerub- harjoittelijat ovat jo suorittaneet opintonsa ja ovat nyt neljän kuukauden palkattomalla koeajalla jonka aikana he toimivat osana teknistä tiimiä monipuolisissa ICT- alan tehtävissä. Koeajan jälkeen harjoittelijat siirtyvät vuoden mittaiseen palkalliseen harjoittelujaksoon vuoden 2022 loppuun. Töitä koeajalla tehdään pääsääntöisesti toimistoaikoina, mutta toisinaan myös iltaisin ja viikonloppuisin.
-Harjoittelijat olivat estyneitä kuvaus päivänä ja siksi heitä ei tiimi kuvassa ole.
-
-## Code Cerub tiimimme
+# Code Cerub tiimimme
 
 | Nimi | Tehtävä | Työnantaja | LinkedIn |
 | :-: | :-: | :-: | :-: |
