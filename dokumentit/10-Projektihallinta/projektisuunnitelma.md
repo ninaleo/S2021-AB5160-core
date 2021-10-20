@@ -278,7 +278,7 @@ _>Kuvataan muutosten hallintaproseduuri projektinkäytäntöihin tai projektin t
 
 ## 4.3 Dokumentointi
 
-_>Kirjataan minne dokumentit tallennetaan/arkistoidaan, miten ne jaetaan ja kuka on vastuussa eri dokumenteista._
+Dokumentit tallennetaan Gitlabiin ja dokumentin mahdollinen vastuuhenkilö on kirjattu erikseen dokumenttiin.
 
 ## 4.4 Riskien hallinta
 
@@ -297,7 +297,14 @@ _>Kirjataan minne dokumentit tallennetaan/arkistoidaan, miten ne jaetaan ja kuka
 
 ## 4.5 Katselmointikäytäntö
 
-_>Luetellaan ja alustavasti aikataulutetaan projektin tuloskatselmukset laaditun toteutussuunnitelman pohjalta. Esitetään luettelomaisesti, mitä katselmuksia pidetään, alustava ajankohta, käsiteltävät asiat, osallistujat sekä käytännöt katselmointimateriaalin toimittamisesta (mitä, milloin, miten)._
+Katselmoinnissa mahdollisesti tarvittavat dokumentit toimitetaan kunkin katselmoinnin aikana osapuolille nähtäväksi
+
+* Projektin etenemisen katselmointi Code Cerub- tiimin sisäisesti joka perjantai kello 12.00
+* Lähtötilannekatselmointi projektiorganisaation kanssa
+* Alustava aikataulullinen katselmointi, dokumenttien sekä demoversion katselmointi asiakkaan ja projektiorganisaation kanssa
+* Toteutuksen aikaansaannoksen välikatselmointi, muutosten ja parannusten huomiointi asiakkaan ja projektiorganisaation kanssa
+* Muutosten ja parannusten muokkaus, korjaus ja testaus
+* Luovutus ja käyttöönottokatselmointi asiakkaan kanssa
 
 ## 4.6 Projektisuunnitelmaa täydentävät suunnitelmat
 
@@ -314,19 +321,24 @@ _>Luetellaan ja alustavasti aikataulutetaan projektin tuloskatselmukset laaditun
 
 * [Riskihallintasuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/riskitaulukko.md)
 
-
+* Arkkitehtuurisuunnitelma
 
 ## 4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
 
-_>Projektisuunnitelman avulla reagoidaan poikkeamiin ja ympäristömuutoksiin, joten sitä päivitetään projektin aikana. Tähän kohtaan kirjataan ne ajankohdat, jolloin suunnitelman ajantasaisuus ainakin on tarkistettava._
+Projektin etenemistä seurataan organisaatiossa viikottain mahdollisten muutosten varalta ja muutokset päivitetään ajantasalle projektisuunnitelmaan.
 
 ## 4.8 Projektin keskeyttämiskriteerit
 
-_Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteerit. Näitä ei kuitenkaan opiskelijaprojekteissa käytetä, koska projekteissa käytetään tietty tuntimäärä tuloksen tekoon ja tulos luovutetaan sellaisena, kun se opintojakson päättyessä on. Projektiryhmä tekee kuitenkin jatkokehityssuunnitelman, josta mahdollinen uusi projekti jatkaa._
+Projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteerit soveltaen erillistä sopimusta, ks. projektisopimuksen kohta 17 Sopimuksen päättäminen. Tätä ei kuitenkaan opiskelijaprojekteissa käytetä, koska projekteissa käytetään tietty tuntimäärä tuloksen tekoon ja tulos luovutetaan sellaisena, kun se opintojakson päättyessä on. Projektiryhmä tekee kuitenkin jatkokehityssuunnitelman, josta mahdollinen uusi projekti jatkaa.
 
 # 5. Tiedonvälitys ja projektin etenemisen seuranta (viestintäsuunnitelma)
 
 ## 5.1 Viestintäsuunnitelma
+
+Viestinnässä hyödynnetään pääsääntöisesti etäyhteyksiä Microsoft Teams avulla sekä projektin omaa Gitlab repositoriota, jossa tärkeimmät dokumentit saatavilla. Asiakastapaamisissa sovelletaan toistaiseksi Zoom -videoviestintäsovellusta. Viestinnästä vastaa projektin viesintävastaava yhteistyössä Team leaderin kanssa.
+-Viestintäkanavia: Teams, Gitlab, Zoom
+-Palavereja: Suunnittelu maanantaisin kello 10.00, Daily joka aamu kello 8.15, ohjaus, katselmointi perjantaisin kello 12.00
+Code Cerub- viestintäsuunnitelma
 
 [Viestintäsuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/viestintasuunnitelma.md)
 
@@ -336,8 +348,8 @@ _Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteer
 ## 6.1 Lopputuotteen luovutus, käyttöönotto
 
 ![](../assets/work-to-do.png)
-
-_>Projektin lopputuote tulee myös dokumentoida järkevällä tasolla. Osana lopputuotetta saattaa olla asiakkaalle tarjottavaa käyttöönottokoulutusta ja mahdollisesti asennus- tai käyttöönotto­palvelua. Mikäli koulutuksen rooli projektin kannalta on huomattava (esimerkiksi ohjelmiston käyttäjät eivät ole olleet mukana projektissa ja eivät tiedä miten järjestelmä toimii) tulee projektisuunnitelmaan liittää suunnitelma asiakkaalle tarjottavasta koulutuksesta. Lisäksi jos on tarpeen, tulee projektisuunnitelmaan liittää myös asennussuunnitelma ja käyttöönottosuunnitelma._
+Lopputuote luovutetaan asiakkaalle projektin virallisen päättymisen yhteydessä, jolloin otetaan huomioon tarvittavat asennusohjeet ja käyttöönottokoulutus palvelulle.
+Projektisuunnitelmaan liittää myös asennussuunnitelma ja käyttöönottosuunnitelma.
 
 ## 6.2 Projektin tuottaman aineiston taltiointi, arkistointi ja säilytysaika
 
