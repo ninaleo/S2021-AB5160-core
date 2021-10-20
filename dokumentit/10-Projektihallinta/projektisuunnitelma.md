@@ -347,15 +347,12 @@ Code Cerub- viestintäsuunnitelma
 
 ## 6.1 Lopputuotteen luovutus, käyttöönotto
 
-![](../assets/work-to-do.png)
 Lopputuote luovutetaan asiakkaalle projektin virallisen päättymisen yhteydessä, jolloin otetaan huomioon tarvittavat asennusohjeet ja käyttöönottokoulutus palvelulle.
-Projektisuunnitelmaan liittää myös asennussuunnitelma ja käyttöönottosuunnitelma.
+Projektisuunnitelmaan liitetään myös asennussuunnitelma ja käyttöönottosuunnitelma asiakasta varten.
 
 ## 6.2 Projektin tuottaman aineiston taltiointi, arkistointi ja säilytysaika
 
-_>”Projektiryhmien dokumentaatiosta jäävä osa tallennetaan X-järjestelmään” 
->Toimeksiantajan kanssa tulee tarvittaessa voida sopia, mitkä dokumentit voidaan jättää opiksi seuraaville projekteille. 
->Tyypillisesti eri suunnitelmat ja loppuraportti sopivin osin ovat tällaisia dokumentteja. _
+Tuotettu dokumentaatio projektista säilyvät toistaiseksi myös projektin loputtua. Mahdollisista dokumenttien jatkotaltioinnista sovitaan erikseen. Katso kohta 6.5 Loppuraportti
 
 ## 6.3 Projektin virallinen päättäminen
 
