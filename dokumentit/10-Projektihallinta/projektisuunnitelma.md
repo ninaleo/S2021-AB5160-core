@@ -63,7 +63,7 @@ Ei erikseen määriteltäviä termejä.
 
 ## 1.6 Projektiin liittyvät haasteet
 
-__SWOT__
+__SWOT- ANALYYSI PROJEKTISTA__
 
 __Strenghts:__ 
 * asiakkaan toiveiden kartoittaminen
