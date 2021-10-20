@@ -92,7 +92,7 @@ __Threats:__
 
 # Code Cerub tiimimme
 
-| Nimi | Tehtävä | Työnantaja | LinkedIn |
+| Nimi | Vastuualue | Organisaatio | LinkedIn |
 | :-: | :-: | :-: | :-: |
 | Nina | Projektihallinta ja ohjaus | Code Cerub | [LinkedIn](https://www.linkedin.com/in/ninaleonardi/) |
 | Arnold Suksi | Vanhempi projektipäällikkö | Code Cerub | [LinkedIn]() |
