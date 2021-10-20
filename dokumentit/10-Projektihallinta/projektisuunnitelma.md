@@ -185,8 +185,8 @@ Forum- keskustelupalsta oltava käytössä viimeistään 3kk kuluttua projektin 
 Project starts the 2021-8-30
 [Projekti aktiivinen] Starts 2021-8-30 and ends 2021-11-19 
 [Esisuunnittelu] Starts 2021-8-30 and ends 2021-9-6
-[Suunittelu] Starts 2021-9-6 and ends 2021-9-20
-[Aloitus & suunnittelu] Starts 2021-9-20 and ends 2021-10-18
+[Suunittelu] Starts 2021-9-6 and ends 2021-10-4
+[Toteutusvaihe] Starts 2021-10-4 and ends 2021-11-8
 [Testaus+korjaus] Starts 2021-9-27 and ends 2021-10-4
 [Hyväksyntätestaus] Starts 2021-11-12 and ends 2021-11-18
 [Luovutus ja lopetus] Starts 2021-8-10 and ends 2021-8-15
