@@ -67,8 +67,11 @@ __SWOT__
 
 __Strenghts:__ 
 * asiakkaan toiveiden kartoittaminen
+* toimivan ohjelmiston ensisijaisuus
 * tiimin ammattitaito 
-* viestintä
+* suora viestintä  
+* nopea muutoksiin reagointi
+
 
 __Weaknesses:__ 
 * aikaraja (projektin laajuus huomioonottaen ei ole todennäköinen heikkous)
