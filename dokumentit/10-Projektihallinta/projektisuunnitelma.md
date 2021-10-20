@@ -232,10 +232,10 @@ __Toteutus alkaa 20.9.2021 (X h)__
 Vaiheen tuloksena.......
 
 **Etappi 3**
-__Tarkistukset ja korjaukset alkaa 27.9.2021 (X h)__
+__Koekäyttö ja korjaukset 2021.11.15 - 2021.11.26 (X h)__
 
-Tarkistukset ja korjaukset sisällytetään projektin 3kk aikajanalle niin, että tarkistukset tehdään joka toinen maanantai projektin alusta aina lokakuun loppuun saakka. Ensimmäinen Tarkistus ja korjaus 27.9.2021 ja siitä eteenpäin ma 27.9.2021, ma 11.10.2021 ja ma 25.10.2021, näin projektin suunta on koko ajan oikea ja tiimi työskentelee yhdessä. 
-Tarkistusten määrä lisätty koska projektissa on useita harjottelijoita ja täten budjetissa on väljyyttä ja laadun varmistaminen useammin on mahdollista, tärkeä myös harjoittelijat huomioonottaen (opetus).
+* Palvelu esittely yleisölle ja koekäyttö
+* Palautteen kerääminen koekäyttäjiltä
 
 
 **Etappi 4 Luovutus ja projektin lopetus** 
@@ -249,10 +249,10 @@ __Lopetus 29.11.2021 – 4.12.2021 (1 vko)__
 Lopettamisvaiheen tuloksena laaditaan projektin loppuraportti  ja esitys johtoryhmälle
 
 
-
 **Etappi 5**
 __Palvelu tuotannossa perjantaina 4.12.2021 (X h)__
-WIMMA Lab- kotisivut uudella Forum- keskustelupalsta ominaisuudella käytössä.
+
+Vaiheen tuloksena WIMMA Lab- kotisivut uudella Forum- keskustelupalsta ominaisuudella käytössä.
 
 
 ## 3.2 Projektin alustavat kustannusarvio
