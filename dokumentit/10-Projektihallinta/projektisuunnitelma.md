@@ -184,12 +184,12 @@ Forum- keskustelupalsta oltava käytössä viimeistään 3kk kuluttua projektin 
 ```plantuml
 Project starts the 2021-8-30
 [Projekti aktiivinen] Starts 2021-8-30 and ends 2021-11-19 
-[Määrittely vaihe] Starts 2021-8-30 and ends 2021-9-6
+[Esisuunnittelu] Starts 2021-8-30 and ends 2021-9-6
 [Suunittelu] Starts 2021-9-6 and ends 2021-9-20
 [Toteutus+suunnittelu] Starts 2021-9-20 and ends 2021-11-19
 [Testaus+korjaus] Starts 2021-9-27 and ends 2021-10-4
 [Hyväksyntätestaus] Starts 2021-11-12 and ends 2021-11-18
-[Luovutus] Starts 2021-8-10 and ends 2021-8-15
+[Luovutus ja lopetus] Starts 2021-8-10 and ends 2021-8-15
 ```
 
 
