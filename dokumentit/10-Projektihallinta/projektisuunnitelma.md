@@ -185,10 +185,10 @@ Forum- keskustelupalsta oltava käytössä viimeistään 3kk kuluttua projektin 
 Project starts the 2021-8-30
 [Projekti aktiivinen] Starts 2021-8-30 and ends 2021-12-4
 [Esisuunnittelu] Starts 2021-8-30 and ends 2021-9-6
-[Suunittelu] Starts 2021-9-6 and ends 2021-10-4
+[Aloitus & suunittelu] Starts 2021-9-6 and ends 2021-10-4
 [Toteutusvaihe] Starts 2021-10-4 and ends 2021-11-8
 [Tarkistus asiakkaan kanssa] Starts 2021-10-18 and ends 2021-10-22
-[Hyväksyntätestaus & korjaukset] Starts 2021-11-15 and ends 2021-11-26
+[Koekäyttö & korjaukset] Starts 2021-11-15 and ends 2021-11-26
 [Luovutus ja lopetus] Starts 2021-11-29 and ends 2021-12-4
 ```
 
@@ -196,17 +196,17 @@ Project starts the 2021-8-30
 _Projektin sisältämät tavoitteet ja vaiheet (Lyhyt kuvaus kustakin ja mitä tuloksia kustakin syntyy)_
 
 * [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/2)
-Esisuunnittelu 30.8.2021 – 6.9.2021 (X h)
+Esisuunnittelu 2021.8.30 - 2021.9.6 (X h)
 * [Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)
-Aloitus ja suunnittelu 6.9.2021 - 20.9.2021 (X h)
+Aloitus ja suunnittelu 2021.9.6 - 2021.10.4 (X h)
 * [Etappi 2](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)
-Toteutus alkaa 20.9.2021 (X h)
+Toteutus alkaa 10.4.2021 (X h)
 * [Etappi 3](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)
-Tarkistukset ja korjaukset alkaa 27.9.2021 (X h)
+Koekäyttö ja korjaukset 2021.11.15 - 2021.11.26 (X h)
 * [Etappi 4](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)
-Lopetus 12.11.2021 – 19.11.2021 (X h)
+Luovutus ja lopetus 2021.11.29 - 2021.12.4 (X h)
 * [Etappi 5](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/7)
-Palvelu tuotannossa 19.11.2021 (X h)
+Palvelu tuotannossa 12.4.2021 (X h)
 
 _(Opettaja: Jokainen vaihe, niiden vaatimat aikaresurssit ja tulokset läpi lyhyesti. Vaiheet ja niiden tehtävät kuvataan tarkemmin vaihesuunnitelmissa. Parhaillaan meneillään olevasta vaiheesta tulee olla tiedossa tarkasti kuka tekee ja kuinka paljon työtä tämän vaiheen tehtävien suorittamiseksi. Myöhempien vaiheiden työmääräarviot voidaan esittää alkuvaiheessa karkealla tasolla, jota sitten projektin edetessä tarkennetaan yksityiskohtaiselle tasolle. Tämä tapahtuu jokaisen vaiheen lopussa, jolloin suunnitellaan tarkemmin seuraava vaihe.
 Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projektin vaiheista, niiden kestoista ja työmääristä laaditaan myös nk. Gantt-kaavio (liitteenä), jossa näkyy myös vaiheiden väliset riippuvuudet ja tärkeimmät etapit (esim. johtoryhmän kokouspäivämäärät).)_
