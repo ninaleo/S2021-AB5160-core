@@ -163,7 +163,7 @@ _>projektin aloitus, työtilat ja viestintävälineet, palaverikäytäntö ja yh
 
 ## 2.6. Projektin päättyminen
 
-10.12.2021
+4.12.2021
 
 # 3. Projektin ajalliset tavoitteet	
 Forum- keskustelupalsta oltava käytössä viimeistään 3kk kuluttua projektin alkamisesta.
