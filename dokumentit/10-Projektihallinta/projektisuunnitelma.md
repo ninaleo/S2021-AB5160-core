@@ -87,8 +87,6 @@ __Threats:__
 
 # 2. Projektiorganisaatio
 
-Organisaatiossa ovat Code Cerub henkilöstö ja harjoittelijat. Asiakkaan edustajana Teemu K sekä Asiakkaan tuoteomistaja Marko R.
-
 
 ## 2.1 Organisaation esittely
 
