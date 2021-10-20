@@ -136,19 +136,17 @@ __Threats:__
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
-__>(**kohdan 2 loppuihin osioihin EI TEHDÄ TÄSSÄ VAIHEESSAN MITÄÄN!)__**Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
-
 **Projektiryhmä**
 
-”Projektiryhmä suorittaa johtoryhmän projektille asettamat tehtävät käytettävissä olevien resurssien puitteissa. Projektin aikana ryhmän päällikön ja sihteerin roolit kiertävät ryhmän sisällä siten, että jokainen ryhmän jäsen toimii >kerran kummassakin roolissa.”
+Projektiryhmän muodostavat Code Cerub työntekijät vastuualueineen.
 
 **Johtoryhmä**
 
-”Johtoryhmän muodostavat siihen valitut projektiryhmän, ohjaajien ja toimeksiantajan edustajat. Johtoryhmän kokouksiin >voidaan tarvittaessa kutsua myös muita henkilöitä, esim. asiantuntijoita. Johtoryhmän kokoonpano on esitelty >projektisopimuksen liitteessä <X>.” 
+Johtoryhmään kuuluvat tällä hetkellä Code Cerub:n Team leader, yksi ohjelmoija, Asiakas Teemu K. sekä asiakkaan tuoteomistaja Marko R.
 
 **Tukiryhmä**
 
-Tukiryhmän tehtävänä on antaa projektiryhmälle sisällöllistä opastusta tehtävän suorittamiseksi. Kappaleessa tulee esitellä projektin muut sidosryhmät (asiakas, ulkopuoliset konsultit, jne.) henkilötasolla. Asiakkaan mukana olevista >henkilöistä tulee mainita ainakin nimi, yhteystiedot, toimenkuva sekä rooli projektissa.
+Tukiryhmä toimii taustatukena ja heitä ovat ohjaava kurssiopettaja sekä kollegat eli toiset ryhmäläiset.
 _
 
 ## 2.3. Projektin vaiheet ja taloudelliset tavoitteet
@@ -165,7 +163,7 @@ _>projektin aloitus, työtilat ja viestintävälineet, palaverikäytäntö ja yh
 
 ## 2.6. Projektin päättyminen
 
-___luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen___
+10.12.2021
 
 # 3. Projektin ajalliset tavoitteet	
 Forum- keskustelupalsta oltava käytössä viimeistään 3kk kuluttua projektin alkamisesta.
