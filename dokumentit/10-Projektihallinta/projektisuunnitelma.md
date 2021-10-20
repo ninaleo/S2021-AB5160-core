@@ -212,14 +212,14 @@ Palvelu tuotannossa 12.4.2021 (X h)
 **Etappi 0**
 __Esisuunnittelu 30.8.2021 – 6.9.2021 (X h)__
 
-* projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa
-* luodaan tuotantoryhmän webbisivut
-* tutustutaan tarkemmin toimeksiantoon
-* aloitetaan kohdealueeseen perehtyminen 
-* laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa 
-* muodostetaan johtoryhmä
-* pidetään 1. johtoryhmän kokous 
-* allekirjoitetaan projektisopimus.
+* Projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa
+* Luodaan tuotantoryhmän webbisivut
+* Lutustutaan tarkemmin toimeksiantoon
+* Aloitetaan kohdealueeseen perehtyminen 
+* Laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa 
+* Muodostetaan johtoryhmä
+* Pidetään 1. johtoryhmän kokous 
+* Allekirjoitetaan projektisopimus.
 
 Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.
 
@@ -238,15 +238,20 @@ Tarkistukset ja korjaukset sisällytetään projektin 3kk aikajanalle niin, ett�
 Tarkistusten määrä lisätty koska projektissa on useita harjottelijoita ja täten budjetissa on väljyyttä ja laadun varmistaminen useammin on mahdollista, tärkeä myös harjoittelijat huomioonottaen (opetus).
 
 
-**Etappi 4 Luovutus ja projektin lopetus 12.11.2021** 
-__Lopetus 12.11.2021 – 19.11.2021 (X h)__
+**Etappi 4 Luovutus ja projektin lopetus** 
+__Lopetus 29.11.2021 – 4.12.2021 (1 vko)__
 
->Projektin luovutus ja lopetus, aikaa varattu viikko. Laaditaan projektin loppuraportti (lopettamisvaiheen tuloksena) ja esitys johtoryhmälle. Luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. 
+* Projektin luovutus ja lopetus, aikaa varattu viikko. 
+* Luovutetaan projektin tulos toimeksiantajalle
+* Pidetään viimeinen johtoryhmän kokous viikolla X 
+* Puretaan projektin organisaatio. 
 
- Palvelu tuotannossa perjantaina 19.11.2021. 3kk määräaika umpeutuu maanantaina 22.11.2021. 
+Lopettamisvaiheen tuloksena laaditaan projektin loppuraportti  ja esitys johtoryhmälle
+
+
 
 **Etappi 5**
-__Palvelu tuotannossa 19.11.2021 (X h)__
+__Palvelu tuotannossa perjantaina 4.12.2021 (X h)__
 WIMMA Lab- kotisivut uudella Forum- keskustelupalsta ominaisuudella käytössä.
 
 
