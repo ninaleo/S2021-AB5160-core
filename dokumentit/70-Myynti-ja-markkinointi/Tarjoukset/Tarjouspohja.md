@@ -42,14 +42,16 @@ MockUpin mukainen konsepti (liite 1)
 
 ## 4. Hinnat ja veloitukset
 
-Kokonaishinta 81 000,00 € (sis. alv 24%), seuraavan aikataulun mukaisesti
+Kokonaishinta 76 632,00 € (sisältää alv 24%), seuraavan aikataulun mukaisesti
 
-* maksupiste		€	eräpäivä *
-* E1	Sopimuksen allekirjoitus	26 000,00	19.10.2018
-* E2	Päätestaussuunnitelma	15 000,00	14.11.2018
-* E3	Hyväksyntätestaus	20 000,00	28.11.2018
-* E4	Käyttöönotto	20 000,00	19.12.2018
-* Maksun eräpäivä 7 vrk etapista
+| Etappi | Maksupiste | Hinta € | Laskutuspäivä |
+|:-:|:-:|:-:|:-:|
+| E1 | Sopimuksen allekirjoitus | 25 632,00€ | 27.10.2021 |
+| E2 | Päätestaussuunnitelma | 15 000,00€ | 14.11.2021 |
+| E3 | Hyväksyntätestaus |18 000,00€ | 28.11.2021 |
+| E4 | Käyttöönotto | 18 000,00€ | 07.12.2021 |
+
+* Maksun eräpäivä 14 arkipäivää etapista
 
 ### Työn jakautuminen:
 
