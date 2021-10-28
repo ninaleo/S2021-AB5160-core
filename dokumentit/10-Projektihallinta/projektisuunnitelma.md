@@ -355,9 +355,10 @@ Tuotettu dokumentaatio projektista säilyvät toistaiseksi myös projektin loput
 
 ## 6.3 Projektin virallinen päättäminen
 
-![](../assets/work-to-do.png)
+Projekti ja projektisopimuksen voimassaoloaika päättyy 4.12.2021 tällöin palvelu ja sopimukseen kirjatut ominaisuudet on otettu käyttöön.
 
-_>On tärkeää määritellä milloin, mihin tai miten projekti päättyy. Projektin päätös voi olla tietty päivämäärä, tietty tuotteen valmiusaste, tietty työtuntimäärä, tietty kulutettu rahasumma, kun asiakas ottaa tuotteen käyttöön, takuuaika on umpeutunut tai kun asiakas hyväksyy tuotteen._
+
+
 
 Projekti päättyy 22.11.2021, jolloin projektisopimuksen voimassaoloaika päättyy.
 ## 6.4 Lopetusilaisuus 
