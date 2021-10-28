@@ -320,7 +320,7 @@ Katselmoinnissa mahdollisesti tarvittavat dokumentit toimitetaan kunkin katselmo
 
 * [Riskihallintasuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/10-Projektihallinta/riskitaulukko.md)
 
-* Arkkitehtuurisuunnitelma
+* [Arkkitehtuurisuunnitelma](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/blob/master/dokumentit/30-Suunnittelu-ja-toteutus/arkkitehtuuri-ja-tekninentoteutus.md)
 
 ## 4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
 
