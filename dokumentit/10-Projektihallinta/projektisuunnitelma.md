@@ -360,14 +360,15 @@ Projekti ja projektisopimuksen voimassaoloaika päättyy 4.12.2021 tällöin pal
 
 
 
-Projekti päättyy 22.11.2021, jolloin projektisopimuksen voimassaoloaika päättyy.
+Projekti päättyy 4.12.2021, jolloin projektisopimuksen voimassaoloaika päättyy.
+
 ## 6.4 Lopetusilaisuus 
 
->Yleensä projektit päätetään yhteiseen päätösseminaariin. Tähän kirjataan osallistujat ja ajankohta. 
-* Saunailta :)? oltava ISSUE ja henkilöt kutsuttu sinne!!
+Projekti päätetään yhteiseen päätösseminaariin 10.12.2021 klo 14.00 alkaen Ravintola Kissanviiksissä. Osallistujat vastaanottavat kutsun sähköpostiinsa. 
+>oltava ISSUE ja henkilöt kutsuttu sinne!!
 
 
 ## 6.5 Projektin loppuraportti
 
->Projektin loppuraportti laaditaan viimeiseen johtoryhmän kokoukseen mennessä.
+Projektin loppuraportti laaditaan viimeiseen johtoryhmän kokoukseen mennessä.
 
