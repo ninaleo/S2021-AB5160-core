@@ -358,14 +358,9 @@ Tuotettu dokumentaatio projektista säilyvät toistaiseksi myös projektin loput
 Projekti ja projektisopimuksen voimassaoloaika päättyy 4.12.2021 tällöin palvelu ja sopimukseen kirjatut ominaisuudet on otettu käyttöön.
 
 
-
-
-Projekti päättyy 4.12.2021, jolloin projektisopimuksen voimassaoloaika päättyy.
-
-## 6.4 Lopetusilaisuus 
+## 6.4 Lopetustilaisuus 
 
 Projekti päätetään yhteiseen päätösseminaariin 10.12.2021 klo 14.00 alkaen Ravintola Kissanviiksissä. Osallistujat vastaanottavat kutsun sähköpostiinsa. 
->oltava ISSUE ja henkilöt kutsuttu sinne!!
 
 
 ## 6.5 Projektin loppuraportti
