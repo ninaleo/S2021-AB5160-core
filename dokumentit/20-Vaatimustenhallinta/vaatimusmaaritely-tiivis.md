@@ -1,6 +1,6 @@
 # Tiivistetty vaatimusmäärittely
 
-* [WIMMA Lab- Forum] 
+* [WIMMA Lab- Forum]
 * Projektimäärittely/vaatimusmäärittelyn tiivistetty versio v 0.3 4.1.2021 (NarsuMan)
 
 
