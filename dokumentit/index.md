@@ -1,11 +1,11 @@
 # Tervetuloa sivuilleni.
 
-Olen Nina ja lisään infoa ja kerron itsestäni lisää myöhemmin kun tiedän tiedoston kohderyhmän ja käyttötarkoituksen paremmin.
+Täältä pääset tutustumaan Code Cerubin [kotisivuille](http://open-project-framework.pages.labranet.jamk.fi/)
+ ja henkilöstöön. Tervetuloa.
 
 ## Apua ja neuvoja
 
-* Kotisivut löytyvät [täältä](http://open-project-framework.pages.labranet.jamk.fi/)
-
+* Call me maybe
 
 
 
