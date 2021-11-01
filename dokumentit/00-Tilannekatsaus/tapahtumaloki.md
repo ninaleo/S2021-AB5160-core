@@ -10,7 +10,7 @@
 * Aloitimme kohdealueeseen perehtyminen 
 * Laadimme projektisuunnitelman yhteistyössä toimeksiantajan edustajien kanssa 
 * Muodostimme johtoryhmän
-* Pidimme 1.johtoryhmän kokouksen
+* Pidimme 1. JORY (johtoryhmän) kokouksen
 * Allekirjoitimme projektisopimus. 
 
 *__Toteutusvaihe 4.10.2021 - 8.11.2021__
