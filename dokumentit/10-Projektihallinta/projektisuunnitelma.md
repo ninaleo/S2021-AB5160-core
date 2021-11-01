@@ -198,13 +198,12 @@ __Esisuunnittelu 30.8.2021 – 6.9.2021__
 
 Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.
 
-**[Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)
+**[Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)**
 __Aloitus ja suunnittelu 6.9.2021 - 20.9.2021__
 Vaiheen tuloksena.......
 
-**[Etappi 2](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)
->Toteutus alkaa 10.4.2021
-__Toteutus alkaa 20.9.2021 
+**[Etappi 2](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)**
+__Toteutus alkaa 20.9.2021__
 Vaiheen tuloksena.......
 
 **[Etappi 3](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)**
