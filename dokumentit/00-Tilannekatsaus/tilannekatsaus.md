@@ -1,13 +1,7 @@
 # Tilannekatsaus
 
-![](https://openclipart.org/image/400px/svg_to_png/173434/interview.png)
 
 ## Ajanhetki (viikko/sprint)
-
-![](../assets/work-to-do.png)
-
-
-* Tilannekatsauksen ajanhetki _X_
 
 **Päivitä linkit osoittamaan projektin repositoriota!**
 
