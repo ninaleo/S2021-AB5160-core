@@ -1,7 +1,5 @@
-# Tervetuloa sivuilleni.
+# Tervetuloa tutustumaan Code Cerub:in henkilöstöön sekä [kotisivuille](http://open-project-framework.pages.labranet.jamk.fi/)
 
-Täältä pääset tutustumaan Code Cerubin [kotisivuille](http://open-project-framework.pages.labranet.jamk.fi/)
- ja henkilöstöön. Tervetuloa.
 
 ## Apua ja neuvoja
 
