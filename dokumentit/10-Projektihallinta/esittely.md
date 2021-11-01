@@ -27,6 +27,5 @@ Heli Heikki, Arnold Suksi, Heikki Halipula, Klaus Kähö, Mauno Kara
 Alarivi vasemmalta oikealle: 
 Matti Urri, Kauno Koivisto, Nina, Maija Keskinen, Reino Kasa, Carola Kettunen
 
-## Kotisivut
 
-* [Tiimin kotisivut]()
+* [Tiimin kotisivut](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core)
