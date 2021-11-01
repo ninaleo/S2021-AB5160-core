@@ -199,12 +199,14 @@ __Esisuunnittelu 30.8.2021 – 6.9.2021__
 Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.
 
 **[Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)**
-__Aloitus ja suunnittelu 6.9.2021 - 20.9.2021__
-Vaiheen tuloksena.......
+__Aloitus ja suunnittelu 6.9.2021 - 4.10.2021__
+*Johtoryhmän kokous (JORY)
+Vaiheen tuloksena kootaan tiimi ja käynnistetään sen yhteistyö sekä aktivoidaan toimintaympäristö
 
 **[Etappi 2](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)**
-__Toteutus alkaa 20.9.2021__
-Vaiheen tuloksena.......
+__Toteutusvaihe 4.10.2021 - 8.11.2021__
+Tehdyn työn välikatselmointi asiakkaan kanssa 18.10.2021 - 22.10.2021.
+Vaiheen tuloksena toimeksianto etenee asiakkaan toivomalla tavalla seuraavaan etappiin saakka.
 
 **[Etappi 3](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)**
 __Koekäyttö ja korjaukset 15.11.2021 - 26.11.2021__
@@ -214,8 +216,8 @@ __Koekäyttö ja korjaukset 15.11.2021 - 26.11.2021__
 
 
 **[Etappi 4](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)**
->Luovutus ja lopetus 29.112021 - 4.12.2021 
-__Lopetus 29.11.2021 – 4.12.2021 (1 vko)__
+__Luovutus ja lopetus 29.112021 - 4.12.2021__
+
 
 * Projektin luovutus ja lopetus, aikaa varattu viikko. 
 * Luovutetaan projektin tulos toimeksiantajalle
