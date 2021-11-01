@@ -351,5 +351,5 @@ Projekti päätetään yhteiseen päätösseminaariin 10.12.2021 klo 14.00 alkae
 
 ## 6.5 Projektin loppuraportti
 
-Projektin loppuraportti laaditaan viimeiseen johtoryhmän kokoukseen mennessä.
+Projektin loppuraportti laaditaan viimeiseen johtoryhmän kokoukseen 1.12.2021 mennessä.
 
