@@ -1,6 +1,6 @@
 # Tiivistetty vaatimusmäärittely
 
-* [WIMMA Lab- Forum]
+* WIMMA Lab- Forum
 * Projektimäärittely/vaatimusmäärittelyn tiivistetty versio v 0.3 4.1.2021 (NarsuMan)
 
 
@@ -14,9 +14,6 @@ Syynä tähän on aikataulu.
 Asiakkaalla on vahva oletus, että tämä säästää aikaa kehitykseltä ja voidaan keskittyä nopeampaan käyttöön ottoon.
 Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän ‑opintojakson puitteissa.
 
-
-Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän 
-<TTOS2070> ‑opintojakson puitteissa. 
 
 ## Tavoitteet 
 Tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta sopiva versio asiakkaan nykyisiin ja tuntuvasti kasvaviin tarpeisiin niin että palvelun saavutettavuus vastaa EU:n asettamia vaatimuksia. Lisäksi palvelun on oltava saatavilla 24/7 ja SLA:ssa vaatimuksena on 99% käyttöaste, kyberturvallisuuteen panostetaan myös. Näistä lisää [laajassa vaatimusmäärittelyssä](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaarittely-laaja/).
@@ -39,7 +36,7 @@ Lisääntyneet tietoturvauhat ja palvelun käytön kasvu huomioidaan toteutukses
 - Opettajat 
 - WIMMA Lab
 - Kansainväliset käyttäjät
-WIMMA Lab tarjoaa jo ennestään kanavan kohderhmien verkostoitumiselle. Forumin myötä mm. saavutettavuus paranee huimasti 
+WIMMA Lab tarjoaa jo ennestään kanavan kohderyhmien verkostoitumiselle. Forumin myötä mm. saavutettavuus paranee huimasti 
 
 
 
@@ -67,10 +64,11 @@ WIMMA Lab tarjoaa jo ennestään kanavan kohderhmien verkostoitumiselle. Forumin
 
 | ID | Tyyppi | Nimi | Piirteet |  Motivaatio |
 |:-:|:-:|:-:|:-:|:-:|
-| SR-001 | Sidosryhmä/Profiili | Käyttäjä, Opiskelija | 18-99V | Tarve palvelulle, oppii tiimityöskentelystä ja projektin hallinnasta |
-| SR-002 | Sidosryhmä/Profiili | Käyttäjä, Yritys ](pohjat/pohja-profiilikuvaus.md) | 18-99V | Tarve satunnainen, löytää työntekijä tai työharjoittelija  |
+| SR-001 | Sidosryhmä/Profiili | Käyttäjä, Opiskelija | 18-35V | Tarve palvelulle, oppii tiimityöskentelystä ja projektin hallinnasta |
+| SR-002 | Sidosryhmä/Profiili | Käyttäjä, Yritys ](pohjat/pohja-profiilikuvaus.md) | 18-70V | Tarve satunnainen, löytää työntekijä tai työharjoittelija  |
 | SR-003 | Sidosryhmä/Profiili | WIMMA Lab | Pääomasijoittaja | Palaute ja käyttäjätiedot |
-| SR-004 | Sidosryhmä/Profiili | Käyttäjä, Opettaja | 25-99V | Tarve satunnainen  |
+| SR-004 | Sidosryhmä/Profiili | Käyttäjä, Opettaja | 25-70V | Tarve satunnainen  |
+| SR-005 | Sidosryhmä/Profiili | Muut oppilaitokset | 15-70V | Tiedon haku |
 
 ## Palveluun liittyviä asiakaspolkuja
 
@@ -181,34 +179,40 @@ salt
 > Teknisiä ratkaisuja määriteltäessa on hyvä tunnistaa tarvittavat teknologiat, laitteistot tai muut tarvittavat fyysiset ratkaisut. 
 Ohjelmiostoratkaisuja määriteltäessä kannattaa erottaa puhtaasti tekniset/tuotannolliset vaatimukset ja kirjata ne vaatimusmäärittelyyn esimerkiksi teknisinä vaatimuksina. 
 
-| ID | Tyyppi | Kuvaus | 
+| ID | Tyyppi | Kuvaus | Priorisointi |
 |:-:|:-:|:-:|
 | HWREQ-0002 | Tekniset vaatimukset | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
-| HWREQ-0003 | Tekniset vaatimukset | Palvelimen muistikapasiteeti >32GB  ||
-| HWREQ-0005 | Tekniset vaatimukset | Palvelimen fyysinen sijainti on oltava EU-aluella| |
-| HWREQ-0006 | ... | ... ||
-| HWREQ-0007 | ... | ... ||
-| HWREQ-0008 | ... | ... ||
+| HWREQ-0003 | Tekniset vaatimukset | Palvelimen muistikapasiteeti >32GB  | P1 |
+| HWREQ-0005 | Tekniset vaatimukset | Palvelimen fyysinen sijainti on oltava EU-aluella| P1 |
+| HWREQ-0006 | Tekniset vaatimukset |  | P1 |
+| HWREQ-0007 | Tekniset vaatimukset |  | P1 |
+| HWREQ-0008 | Tekniset vaatimukset |  | P1 |
 
 # Toiminnalliset vaatimukset (Functional Requirements)
 
 >Mitä toimintoja palveluun liittyy? Nämä kannattaa kirjata ensi ns. toiminnallisina vaatimuksina? Toiminnallisilla vaatimuksilla kuvataan ohjelmistolta/järjestelmältä vaadittuja toimintoja.
 Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaatimuksen kirjaamista samaan lauseeseen! Jokainen vaatimus erikseen.
 
-| ID | Tyyppi | Kuvaus | Toiminnallisuus johon vaatimus vaikuttaa |								
+| ID | Tyyppi | Kuvaus | Toiminnallisuus johon vaatimus vaikuttaa |	Priorisointi	|						
 |:-:|:-:|:-:|:-:|
 | FUNCREQ-C0001 | Toiminnallinen vaatimus | Krjautumiseen voi käyttää Facebook-tunnuksia | [Toiminnallisuus X](pohjat/pohja-ominaisuus.md) |
-| FUNCREQ-C0002 | Toiminnallinen vaatimus | Käyttöliittymää voidaan ohjata äänikomennoilla | [Toiminnallisuus Y](pohjat/pohja-ominaisuus.md) |
-| FUNCREQ-C0003 | Toiminnallinen vaatimus | ... | ... |
+| FUNCREQ-C0002 | Toiminnallinen vaatimus | Käyttöliittymää voidaan ohjata äänikomennoilla | [Toiminnallisuus](pohjat/pohja-ominaisuus.md) |
+| FUNCREQ-C0003 | Toiminnallinen vaatimus | WIMMA Lab- teema | P1 | 
+| FUNCREQ-C0004 | Toiminnallinen vaatimus | Some jako | P1 |
+| FUNCREQ-C0005 | Toiminnallinen vaatimus | Tietosuojatiedote | P1 |
+| FUNCREQ-C0006 | Toiminnallinen vaatimus | Englannin kieli | P1 |
+
 
 # Laadulliset eli ei-toiminnalliset vaatimukset
 
 [Käytettävyys (ISO 9241-11) ](https://fi.wikipedia.org/wiki/K%C3%A4ytett%C3%A4vyys)
 
+* Suorituskyky
+* Tietoturva
+* Saavutettavuus
 
-_ei-toiminnalliset vaatimukset? Esitä eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon.
-[Ei-toiminnalliset vaatimukset](https://en.wikipedia.org/wiki/Non-functional_requirement) sisältää laajan joukko eri näkökulmia sähköiseen palveluun liittyen. Tärkeimmät kirjoittajan 
-näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus _
+[vaatimuslista](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon.
+[Ei-toiminnalliset vaatimukset](https://en.wikipedia.org/wiki/Non-functional_requirement)
 
 * [Suorituskyky ](https://valkohattu.fi/artikkeli/verkkosivun-suorituskyky)
 * [Tietoturva ](https://vm.fi/documents/10623/360844/K%C3%A4sikirjan+liite+Tietoturvavaatimukset/56b3fb8f-bb54-4a65-a37f-79f6985d868c)
@@ -221,7 +225,7 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus _
 | PERFREQ-0000 | Suorituskyky | Kirjautuminen on mahdollista yhtäaikaa 150 käyttäjällä (150 request/s) |					
 | PERFREQ-0001 | Suorituskyky | Palvelun maksimi käyttäjä määrä on 100 000 |
 | PERFREQ-0002 | Suorituskyky | Verkkosivu latautuu nopeasti myös mobiilissa* |
-| PERFREQ-0003 | Suorituskyky | FID **|
+| PERFREQ-0003 | Suorituskyky | Skaalautuu oikein eri laitteilla|
 
 * Googlen tutkimuksen linkki avautuu uuteen ikkunaan mukaan 53% mobiililaitteiden käyttäjistä poistuu sivuilta, joiden lataaminen kestää yli 3 sekuntia.
 ** (First Input Delay) mittaa ajan, joka kuluu käyttäjän suorittamasta toimenpiteestä sen varsinaiseen toteuttamiseen. Esimerkiksi kun käyttäjä klikkaa heti sivuille tullessaan sivuilta löytyvää sisäistä linkkiä, taustalla toimiva JavaScript-koodi saattaa aiheuttaa viivettä toimenpiteelle, koska selain on vielä käsittelemässä aiempia tietoja.
@@ -229,22 +233,19 @@ näkökulmasta ovat seuraavat: Suorituskyky, tietoturva ja saavutettavuus _
 
 ## Tietoturvan vaatimukset
 
-![](../assets/work-to-do.png)
-
->Millaisia vaatimuksia palveluun kohdistuu tietoturvan näkökulmasta? Tutustu samalla [VAHTI ohjeistukseen](https://vm.fi/documents/10623/360844/K%C3%A4sikirjan+liite+Tietoturvavaatimukset/56b3fb8f-bb54-4a65-a37f-79f6985d868c)
+[VAHTI ohjeistukseen](https://vm.fi/documents/10623/360844/K%C3%A4sikirjan+liite+Tietoturvavaatimukset/56b3fb8f-bb54-4a65-a37f-79f6985d868c)
 
 | ID | Tyyppi | Kuvaus | Miten testataan? |
 |:-:|:-:|:-:|:-:|
 | SECURITY-REQ-0001 | Salasanassa on käytettävä vähintään MD5-tason salausta, koska [CONSTRAIN-000]() sitä edellyttää | [Testitapaus X]() |
 | SECURITY-REQ-0002 | Jokainen tapahtuma palvelussa on kirjattava käyttölogiin, että niitä voidaan tarkastella myöhemmin | [Testitapaus Y]() |
-| SECURITY-REQ-0003 | ... | ... |
+| SECURITY-REQ-0003 | Https- sertifikaatti | Testitapaus Y |
+| SECURITY-REQ-0004 | Hallinnointi EU- alueella  | Testitapaus X |
+| SECURITY-REQ-0005 | GDPR- Tietosuojatiedote | Testitapaus X |
 
 ## Saavutettavuuden vaatimukset
 
-![](../assets/work-to-do.png)
-
->Mitä tarkoitetaan saavutettavuudella? Millaisia asioita/ohjeistuksia on otettava huomioon palvelua toteutettaessa?
-Tutustu [saavutettavuusdirektiiviin](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/) ja kirjaa  
+[saavutettavuusdirektiiviin](https://saavutettavuusdirektiivi.fi/saavutettavuus-verkkopalveluissa/) ja kirjaa  
 
 | ID  | Luokka | Kuvaus | Miten testataan? |
 |:-:|:-:|:-:|:-:|
@@ -263,11 +264,9 @@ saataa olla varsin ratkaiseva pitemmällä tähtäimella. Esimerkkinä tästä o
 |:-:|:-:|:-:|:-:|
 | CONSTRAIN-000  | Rajaus | Palvelun kirjautumisprosessin on noudatettava JUHTA-hyväksyttyjä käytänteitä  | [Kirjautuminen ft1](pohjat/pohja-ominaisuus.md) |
 | CONSTRAIN-001 | Rajaus | On huomioitava Standardi ZZZ osana palvelun tapahtuma login talletusta | [Log-palvelin](pohjat/pohja-ominaisuus.md)|
-| CONSTRAIN-002 | Rajaus | ... | ... |
+
 
 ### Palvelun tuotantoympäristö
-
-> Vaatimusmäärittelyn tukena sovelletaan erilaisia kuvauksia, joista esimerkkinä UML-kuvauskieleen liittyvä sijoittelu näkymä, eli "Deployment Diagram", kuvauksen avulla voi esittää miten palvelu on tarkoitus toteuttaa käytännössä. Missä sijaitsevat eri osat palvelusta ja miten eri osat on kytketty toisiinsa.
 
 ```plantuml
 @startuml
@@ -306,10 +305,6 @@ Logger_Container -- MariaDB_Container
 ```
 ## Palveluun liittyvät muut järjestelmät
 
-Alla olevat kuvaukset ovat esimerkkejä UML-kuvauksen mahdollisuuksista, kannattaa tutustua tarkemmin laajempaan vaatimusmäärittely pohjaan,  koska siitä löytyy esimerkkejä.
-
-> Järjestelmien välisiä yhteyksiä voidaan kuvata tarvittaessa esim. UML-kuvauksiin liittyvän sekvenssikaavion muodossa (Sequence Diagram). 
-
 ```plantuml
 Client_Host --> Service_Frontend: Login Request
 Service_Frontend --> Service_Backend : Logging request check
@@ -320,8 +315,6 @@ Service_Frontend --> Client_Host : Logged in
 
 ```
 ## Standardit ja lähteet
-
-> Vaatimusmäärittelyyn kannattaa liittää mukaan kaikki tärkeät lähteet, joista on hyötyä tai merkitystä kokonaisuuden kannalta. Standardit ja ennalta jaetut ohjeistukset ovat hyödyllisiä lähteitä ja tarvittaessa tukevat esitettyjä vaatimuksia.
 
 | ID | Nimi | Linkki | Kuvaus |  
 |:-:|:-:|:-:|:-:|
