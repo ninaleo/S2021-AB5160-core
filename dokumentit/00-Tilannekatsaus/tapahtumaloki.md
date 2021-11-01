@@ -13,8 +13,8 @@
 * Pidimme 1. JORY (johtoryhmän) kokouksen
 * Allekirjoitimme projektisopimus. 
 
-*__Toteutusvaihe 4.10.2021 - 8.11.2021__
+* __Toteutusvaihe 4.10.2021 - 8.11.2021__
 * Toimeksianto etenee ja Forum- ratkaisua toteutetaan asiakkaan toiveiden mukaisesti, tarkastus n. puolivälissä.
 
-*__Tehdyn työn välikatselmointi asiakkaan kanssa pidettiin 18.10.2021 - 22.10.2021.__
+* __Tehdyn työn välikatselmointi asiakkaan kanssa pidettiin 18.10.2021 - 22.10.2021.__
 
