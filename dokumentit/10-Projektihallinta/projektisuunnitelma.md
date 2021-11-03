@@ -12,7 +12,7 @@ kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista [vaatimusmäärittely
 
 
 
-Projektin tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta asiakkaan tarpeisiin sopiva versio joka integroituu visuaalisesti hyvin asiakkaan jo olemassa oleviin kotisivuihin sekä tiedon jakamisesssa tarvittavaan linkitykseen sivuilla jo olemassa olevaan materiaaliin.
+Projektin tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta asiakkaan tarpeisiin sopiva versio joka integroituu visuaalisesti hyvin asiakkaan jo olemassa oleviin kotisivuihin sekä tiedon jakamisesssa tarvittavaan linkitykseen sivuilla jo olemassa olevaan materiaaliin. Projektissa käytetään [ketterää projektimallia](https://ttc2070.pages.labranet.jamk.fi/fi/3-Ketter%C3%A4-projekti/lean-agile/)
 
 
 Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän 
