@@ -177,9 +177,9 @@ Forum- keskustelupalsta oltava käytössä viimeistään 3kk kuluttua projektin 
 Project starts the 2021-8-30
 [Projekti aktiivinen] Starts 2021-8-30 and ends 2021-12-4
 [Esisuunnittelu] Starts 2021-8-30 and ends 2021-9-6
-[Aloitus & suunittelu] Starts 2021-9-6 and ends 2021-10-4
-[Toteutusvaihe] Starts 2021-10-4 and ends 2021-11-8
-[Tarkistus asiakkaan kanssa] Starts 2021-10-18 and ends 2021-10-22
+[Aloitus & suunittelu] Starts 2021-9-6 and ends 2021-9-17
+[Toteutusvaihe] Starts 2021-9-20
+[Tarkistus asiakkaan kanssa] Starts 2021-10-11 and ends 2021-10-18
 [Koekäyttö & korjaukset] Starts 2021-11-15 and ends 2021-11-26
 [Luovutus ja lopetus] Starts 2021-11-29 and ends 2021-12-4
 ```
@@ -199,13 +199,13 @@ __Esisuunnittelu 30.8.2021 – 6.9.2021__
 Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.
 
 **[Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)**
-__Aloitus ja suunnittelu 6.9.2021 - 4.10.2021__
+__Aloitus ja suunnittelu 6.9.2021 - 17.9.2021__
 *Johtoryhmän kokous (JORY)
 Vaiheen tuloksena kootaan tiimi ja käynnistetään sen yhteistyö sekä aktivoidaan toimintaympäristö
 
 **[Etappi 2](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)**
-__Toteutusvaihe 4.10.2021 - 8.11.2021__
-Tehdyn työn välikatselmointi asiakkaan kanssa 18.10.2021 - 22.10.2021.
+__Toteutusvaihe alkaa 20.9.2021__
+Tehdyn työn välikatselmointi asiakkaan kanssa 11.10.2021 - 18.10.2021.
 Vaiheen tuloksena toimeksianto etenee asiakkaan toivomalla tavalla seuraavaan etappiin saakka.
 
 **[Etappi 3](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)**
