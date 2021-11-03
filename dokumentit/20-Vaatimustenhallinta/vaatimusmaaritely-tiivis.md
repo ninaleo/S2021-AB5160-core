@@ -101,14 +101,9 @@ Step6 --> Step11
 
 ### Käyttöliittymänäkymä/mockup 
 
-![](../assets/work-to-do.png)
-
-> Jos projektin tuloksena tuo sähköinen ratkaisu, on sen konkretisoimiseksi hyvä hyödyntää esimerkiksi MockUp-kuvaa.
-Tähän kannattaa liittää tarvittaessa kuvausta kuvan/mockup-näkymän muodossa. Se helpottaa ymmärtämään tarvittaessa oleellisesti tavoiteltua ratkaisua. 
-
-#5ED9C3
-#020405
-#FBFBFB
+#5ED9C3\  
+#020405\  
+#FBFBFB\  
 
 ```plantuml
 salt
