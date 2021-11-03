@@ -229,7 +229,7 @@ __Luovutus ja lopetus 29.112021 - 3.12.2021__
 
 
 **[Sprint 05 (Etappi 5)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/7)**
-__Palvelu tuotannossa perjantaina 3.12.2021
+__Palvelu tuotannossa perjantaina 3.12.2021__
 
 * Vaiheen tuloksena WIMMA Lab- kotisivut uudella Forum- keskustelupalsta ominaisuudella käytössä.
 
