@@ -101,9 +101,9 @@ Step6 --> Step11
 
 ### Käyttöliittymänäkymä/mockup 
 
-#5ED9C3\  
-#020405\  
-#FBFBFB\  
+#5ED9C3\
+#020405\ 
+#FBFBFB\   
 
 ```plantuml
 salt
