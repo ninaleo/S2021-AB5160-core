@@ -196,17 +196,18 @@ __Esisuunnittelu 30.8.2021 – 6.9.2021__
 * Pidetään 1. johtoryhmän kokous 
 * Allekirjoitetaan projektisopimus.
 
-Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.
+* Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.
 
 **[Sprint 01 (Etappi 1)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)**
 __Aloitus ja suunnittelu 6.9.2021 - 17.9.2021__
-*Johtoryhmän kokous (JORY)
-Vaiheen tuloksena kootaan tiimi ja käynnistetään sen yhteistyö sekä aktivoidaan toimintaympäristö
+
+* Johtoryhmän kokous (JORY)
+* Vaiheen tuloksena kootaan tiimi ja käynnistetään sen yhteistyö sekä aktivoidaan toimintaympäristö
 
 **[Sprint 02 (Etappi 2)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)**
 __Toteutusvaihe alkaa 20.9.2021__
-Tehdyn työn välikatselmointi asiakkaan kanssa 11.10.2021 - 18.10.2021.
-Vaiheen tuloksena toimeksianto etenee asiakkaan toivomalla tavalla seuraavaan etappiin saakka.
+* Tehdyn työn välikatselmointi asiakkaan kanssa 11.10.2021 - 18.10.2021.
+* Vaiheen tuloksena toimeksianto etenee asiakkaan toivomalla tavalla seuraavaan etappiin saakka.
 
 **[Sprint 03 (Etappi 3)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)**
 __Koekäyttö ja korjaukset 15.11.2021 - 26.11.2021__
@@ -224,13 +225,13 @@ __Luovutus ja lopetus 29.112021 - 4.12.2021__
 * Pidetään viimeinen johtoryhmän kokous 1.12.2021. 
 * Puretaan projektin organisaatio. 
 
-Lopettamisvaiheen tuloksena laaditaan projektin loppuraportti  ja esitys johtoryhmälle
+* Lopettamisvaiheen tuloksena laaditaan projektin loppuraportti  ja esitys johtoryhmälle
 
 
 **[Sprint 05 (Etappi 5)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/7)**
 __Palvelu tuotannossa perjantaina 4.12.2021
 
-Vaiheen tuloksena WIMMA Lab- kotisivut uudella Forum- keskustelupalsta ominaisuudella käytössä.
+* Vaiheen tuloksena WIMMA Lab- kotisivut uudella Forum- keskustelupalsta ominaisuudella käytössä.
 
 
 ## 3.2 Projektin alustavat kustannusarvio
