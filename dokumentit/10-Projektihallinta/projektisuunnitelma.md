@@ -178,7 +178,7 @@ Project starts the 2021-8-30
 [Projekti aktiivinen] Starts 2021-8-30 and ends 2021-12-4
 [Esisuunnittelu] Starts 2021-8-30 and ends 2021-9-6
 [Aloitus & suunittelu] Starts 2021-9-6 and ends 2021-9-17
-[Toteutusvaihe] Starts 2021-9-20
+[Toteutusvaihe alkaa] Starts 2021-9-20
 [Tarkistus asiakkaan kanssa] Starts 2021-10-11 and ends 2021-10-18
 [Koekäyttö & korjaukset] Starts 2021-11-15 and ends 2021-11-26
 [Luovutus ja lopetus] Starts 2021-11-29 and ends 2021-12-4
