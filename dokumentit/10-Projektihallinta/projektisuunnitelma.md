@@ -184,7 +184,7 @@ Project starts the 2021-8-30
 [Luovutus ja lopetus] Starts 2021-11-29 and ends 2021-12-4
 ```
 
-**[Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/2)**
+**[Sprint 0 (Etappi 0)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/2)**
 __Esisuunnittelu 30.8.2021 – 6.9.2021__
 
 * Projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa
@@ -198,24 +198,24 @@ __Esisuunnittelu 30.8.2021 – 6.9.2021__
 
 Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.
 
-**[Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)**
+**[Sprint 01 (Etappi 1)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)**
 __Aloitus ja suunnittelu 6.9.2021 - 17.9.2021__
 *Johtoryhmän kokous (JORY)
 Vaiheen tuloksena kootaan tiimi ja käynnistetään sen yhteistyö sekä aktivoidaan toimintaympäristö
 
-**[Etappi 2](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)**
+**[Sprint 02 (Etappi 2)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)**
 __Toteutusvaihe alkaa 20.9.2021__
 Tehdyn työn välikatselmointi asiakkaan kanssa 11.10.2021 - 18.10.2021.
 Vaiheen tuloksena toimeksianto etenee asiakkaan toivomalla tavalla seuraavaan etappiin saakka.
 
-**[Etappi 3](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)**
+**[Sprint 03 (Etappi 3)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)**
 __Koekäyttö ja korjaukset 15.11.2021 - 26.11.2021__
 
 * Palvelu esittely yleisölle ja koekäyttö
 * Palautteen kerääminen koekäyttäjiltä
 
 
-**[Etappi 4](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)**
+**[Sprint 04 (Etappi 4)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)**
 __Luovutus ja lopetus 29.112021 - 4.12.2021__
 
 
@@ -227,7 +227,7 @@ __Luovutus ja lopetus 29.112021 - 4.12.2021__
 Lopettamisvaiheen tuloksena laaditaan projektin loppuraportti  ja esitys johtoryhmälle
 
 
-**[Etappi 5](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/7)**
+**[Sprint 05 (Etappi 5)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/7)**
 __Palvelu tuotannossa perjantaina 4.12.2021
 
 Vaiheen tuloksena WIMMA Lab- kotisivut uudella Forum- keskustelupalsta ominaisuudella käytössä.
