@@ -238,8 +238,6 @@ Vaiheen tuloksena WIMMA Lab- kotisivut uudella Forum- keskustelupalsta ominaisuu
 Kustannusarvion esittäminen taulukon avulla
 ![](https://gitlab.labranet.jamk.fi/ttc2070te2021s/S2021-AB5160/core/-/raw/master/dokumentit/N%C3%A4ytt%C3%B6kuva__3_.png?inline=false)
 
-![](<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://jamkstudent.sharepoint.com/sites/OpenProjectPlatform/_layouts/15/Doc.aspx?sourcedoc={ed6e7d24-77a1-4b0a-abf5-e26a48846387}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>)
-
 
 # 4. Laadunvarmistus
 __(kohdan 4 osioihin EI TEHDÄ TÄSSÄ VAIHEESSAN MITÄÄN! Poikkeusena kohdat 4.4 ja 4.6 korjataan)__
