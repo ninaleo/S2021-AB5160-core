@@ -123,10 +123,6 @@ salt
 
 ## Tärkeimmät toiminnallisuudet/ominaisuudet
     
-    - Saavutettavuus
-    - Tietoturva
-    - Suorituskyky
-    - Käytettävyys
     - Käyttäjä voi rekisteröityä 
     - Rekisteröityessä vahvistuslinkki sähköpostiin
     - Säännöt
@@ -210,6 +206,7 @@ Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaat
 * Suorituskyky
 * Tietoturva
 * Saavutettavuus
+* Käytettävyys
 
 [vaatimuslista](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon.
 [Ei-toiminnalliset vaatimukset](https://en.wikipedia.org/wiki/Non-functional_requirement)
@@ -225,7 +222,7 @@ Toiminnalliset vaatimukset ovat helpoimmin tunnistettavia. Vältä useamman vaat
 | PERFREQ-0000 | Suorituskyky | Kirjautuminen on mahdollista yhtäaikaa 150 käyttäjällä (150 request/s) |					
 | PERFREQ-0001 | Suorituskyky | Palvelun maksimi käyttäjä määrä on 100 000 |
 | PERFREQ-0002 | Suorituskyky | Verkkosivu latautuu nopeasti myös mobiilissa* |
-| PERFREQ-0003 | Suorituskyky | Skaalautuu oikein eri laitteilla|
+| PERFREQ-0003 | Suorituskyky | Sivu avautuu alle 3 sekunnissa käyttäjälle |
 
 * Googlen tutkimuksen linkki avautuu uuteen ikkunaan mukaan 53% mobiililaitteiden käyttäjistä poistuu sivuilta, joiden lataaminen kestää yli 3 sekuntia.
 ** (First Input Delay) mittaa ajan, joka kuluu käyttäjän suorittamasta toimenpiteestä sen varsinaiseen toteuttamiseen. Esimerkiksi kun käyttäjä klikkaa heti sivuille tullessaan sivuilta löytyvää sisäistä linkkiä, taustalla toimiva JavaScript-koodi saattaa aiheuttaa viivettä toimenpiteelle, koska selain on vielä käsittelemässä aiempia tietoja.
