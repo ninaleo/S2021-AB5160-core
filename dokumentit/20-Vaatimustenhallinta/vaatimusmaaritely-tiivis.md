@@ -106,17 +106,21 @@ Step6 --> Step11
 > Jos projektin tuloksena tuo sähköinen ratkaisu, on sen konkretisoimiseksi hyvä hyödyntää esimerkiksi MockUp-kuvaa.
 Tähän kannattaa liittää tarvittaessa kuvausta kuvan/mockup-näkymän muodossa. Se helpottaa ymmärtämään tarvittaessa oleellisesti tavoiteltua ratkaisua. 
 
+#5ED9C3
+#020405
+#FBFBFB
+
 ```plantuml
 salt
 {
-  Just plain text
-  [This is my button]
-  ()  Unchecked radio
-  (X) Checked radio
-  []  Unchecked box
-  [X] Checked box
-  "Enter text here   "
-  ^This is a droplist^
+  WIMMA Lab Forum
+  [Kirjaudu sisään]
+  ()  Luo tunnus
+  (X) Jatka rekisteröitymättä
+  []  Käyttäjä asetukset
+  [X] Ota yhteyttä
+  "Kirjoita aihe   "
+  ^UKK^
 }
 ```
 
