@@ -8,11 +8,11 @@
 
 [Code Cerub](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/10-Projektihallinta/esittely/) on saanut toimeksiannon WIMMA Lab- koulutusympäristöltä. [WIMMA Lab](https://www.wimmalab.org/) on haastekeskeinen oppimiskonsepti, joka toteutetaan virtuaalisesti vuonna 2021. 
 Konseptin tarkoituksena on integroida opiskelijoita työnmukaiseen projektityöskentelyyn.Toimeksianto on tuottaa palveluna asiakkaan toiveesta kommunikointia varten ns. Conduit- ohjelmisto pohjaista Foorumi- ratkaisua WIMMA Lab-
-kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista [vaatimusmäärittelydokumentissa](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/)
+kotisivujen osaksi. Lisää ohjelmistovalinnan perusteista [vaatimusmäärittelydokumentissa](http://ttc2070te2021s.pages.labranet.jamk.fi/S2021-AB5160/core/20-Vaatimustenhallinta/vaatimusmaaritely-tiivis/).
 
 
 
-Projektin tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta asiakkaan tarpeisiin sopiva versio joka integroituu visuaalisesti hyvin asiakkaan jo olemassa oleviin kotisivuihin sekä tiedon jakamisesssa tarvittavaan linkitykseen sivuilla jo olemassa olevaan materiaaliin. Projektissa käytetään [ketterää projektimallia](https://ttc2070.pages.labranet.jamk.fi/fi/3-Ketter%C3%A4-projekti/lean-agile/)
+Projektin tavoitteena on muokata ja tuottaa Conduit- ohjelmistosta asiakkaan tarpeisiin sopiva versio joka integroituu visuaalisesti hyvin asiakkaan jo olemassa oleviin kotisivuihin sekä tiedon jakamisesssa tarvittavaan linkitykseen sivuilla jo olemassa olevaan materiaaliin. Projektissa käytetään [ketterää projektimallia](https://ttc2070.pages.labranet.jamk.fi/fi/3-Ketter%C3%A4-projekti/lean-agile/).
 
 
 Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän 
