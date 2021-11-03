@@ -101,10 +101,10 @@ Step6 --> Step11
 
 ### Käyttöliittymänäkymä/mockup 
 
-## WIMMA Lab värikoodit
-#5ED9C3\
-#020405\
-#FBFBFB\
+__ WIMMA Lab värikoodit__
+* #5ED9C3\
+* #020405\
+* #FBFBFB\
 
 ```plantuml
 salt
