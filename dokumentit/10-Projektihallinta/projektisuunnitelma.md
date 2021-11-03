@@ -189,7 +189,7 @@ __Esisuunnittelu 30.8.2021 – 6.9.2021__
 
 * Projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa
 * Luodaan tuotantoryhmän webbisivut
-* Lutustutaan tarkemmin toimeksiantoon
+* Tutustutaan tarkemmin toimeksiantoon
 * Aloitetaan kohdealueeseen perehtyminen 
 * Laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa 
 * Muodostetaan johtoryhmä
