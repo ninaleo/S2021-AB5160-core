@@ -115,7 +115,7 @@ salt
   (X) Jatka rekisteröitymättä
   []  Käyttäjä asetukset
   [X] Ota yhteyttä
-  "Kirjoita aihe   "
+  "Hae keskustelusta   "
   ^UKK^
 }
 ```
