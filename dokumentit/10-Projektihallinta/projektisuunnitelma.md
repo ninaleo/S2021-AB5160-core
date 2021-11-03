@@ -175,13 +175,13 @@ Forum- keskustelupalsta oltava käytössä viimeistään 3kk kuluttua projektin 
 
 ```plantuml
 Project starts the 2021-8-30
-[Projekti aktiivinen] Starts 2021-8-30 and ends 2021-12-4
+[Projekti aktiivinen] Starts 2021-8-30 and ends 2021-12-3
 [Esisuunnittelu] Starts 2021-8-30 and ends 2021-9-6
 [Aloitus & suunittelu] Starts 2021-9-6 and ends 2021-9-17
 [Toteutusvaihe alkaa] Starts 2021-9-20
 [Tarkistus asiakkaan kanssa] Starts 2021-10-11 and ends 2021-10-18
 [Koekäyttö & korjaukset] Starts 2021-11-15 and ends 2021-11-26
-[Luovutus ja lopetus] Starts 2021-11-29 and ends 2021-12-4
+[Luovutus ja lopetus] Starts 2021-11-29 and ends 2021-12-3
 ```
 
 **[Sprint 0 (Etappi 0)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/2)**
@@ -217,7 +217,7 @@ __Koekäyttö ja korjaukset 15.11.2021 - 26.11.2021__
 
 
 **[Sprint 04 (Etappi 4)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)**
-__Luovutus ja lopetus 29.112021 - 4.12.2021__
+__Luovutus ja lopetus 29.112021 - 3.12.2021__
 
 
 * Projektin luovutus ja lopetus, aikaa varattu viikko. 
@@ -229,7 +229,7 @@ __Luovutus ja lopetus 29.112021 - 4.12.2021__
 
 
 **[Sprint 05 (Etappi 5)](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/7)**
-__Palvelu tuotannossa perjantaina 4.12.2021
+__Palvelu tuotannossa perjantaina 3.12.2021
 
 * Vaiheen tuloksena WIMMA Lab- kotisivut uudella Forum- keskustelupalsta ominaisuudella käytössä.
 
@@ -340,7 +340,7 @@ Tuotettu dokumentaatio projektista säilyvät toistaiseksi myös projektin loput
 
 ## 6.3 Projektin virallinen päättäminen
 
-Projekti ja projektisopimuksen voimassaoloaika päättyy 4.12.2021 tällöin palvelu ja sopimukseen kirjatut ominaisuudet on otettu käyttöön.
+Projekti ja projektisopimuksen voimassaoloaika päättyy 3.12.2021 tällöin palvelu ja sopimukseen kirjatut ominaisuudet on otettu käyttöön.
 
 
 ## 6.4 Lopetustilaisuus 
