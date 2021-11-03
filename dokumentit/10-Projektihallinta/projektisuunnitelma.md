@@ -179,7 +179,7 @@ Project starts the 2021-8-30
 [Esisuunnittelu] Starts 2021-8-30 and ends 2021-9-6
 [Aloitus & suunittelu] Starts 2021-9-6 and ends 2021-9-17
 [Toteutusvaihe alkaa] Starts 2021-9-20
-[Tarkistus asiakkaan kanssa] Starts 2021-10-11 and ends 2021-10-18
+[Tarkistus asiakkaan kanssa] Starts 2021-10-11 and ends 2021-10-15
 [Koekäyttö & korjaukset] Starts 2021-11-15 and ends 2021-11-26
 [Luovutus ja lopetus] Starts 2021-11-29 and ends 2021-12-3
 ```
@@ -206,7 +206,7 @@ __Aloitus ja suunnittelu 6.9.2021 - 17.9.2021__
 
 **[Etappi 02 (Sprint 04 )](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)**
 __Toteutusvaihe alkaa 20.9.2021__
-* Tehdyn työn välikatselmointi asiakkaan kanssa 11.10.2021 - 18.10.2021.
+* Tehdyn työn välikatselmointi asiakkaan kanssa 11.10.2021 - 15.10.2021 (Sprint 6).
 * Vaiheen tuloksena toimeksianto etenee asiakkaan toivomalla tavalla seuraavaan etappiin saakka.
 
 **[Etappi 03 (Sprint 10 )](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)**
